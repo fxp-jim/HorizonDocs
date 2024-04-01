@@ -36,4 +36,4 @@
 
 ![](https://gist.github.com/assets/162257867/db3c7e63-f594-4b24-b741-3a02ee9951f1)
 
-###### 6. Account has been created and can the used to access the system.
+###### 7. Account has been created and can the used to access the system.
