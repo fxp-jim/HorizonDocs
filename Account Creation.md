@@ -13,8 +13,8 @@
 ### Create Own Account
 ###### This section will provide the step-by-step process in creating user's own account
 ###### 1. Click **Add Account** button at the login Page
+![[Screenshot 2024-04-01 at 6.36.14 PM.png]]
 
-![](https://gist.github.com/assets/162257867/193dd58c-e158-431d-bd7c-9835d0ef617c)
 
 ###### 2. Input Username and Domain e.g., gmail.com and Click Send Request button
 ![](https://gist.github.com/assets/162257867/e9d6351e-2737-4180-a54b-da44bfeb8f3f)
