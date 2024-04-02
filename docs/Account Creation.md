@@ -14,7 +14,7 @@
 ###### This section will provide the step-by-step process in creating user's own account
 ###### 1. Click **Add Account** button at the login Page
 
-![](login_screen.png)
+![](assets/login_screen.png)
 
 ###### 2. Input Username and Domain e.g., gmail.com and Click Send Request button
 
