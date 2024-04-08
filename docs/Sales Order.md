@@ -1,1 +1,0 @@
-![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/Screenshot%202024-04-07%20at%2016.18.12.png)
