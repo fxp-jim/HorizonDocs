@@ -14,7 +14,7 @@ Note: **End At** date is automatically scheduled based on the **Start At** date.
 11. Type the name of the product in the search bar or scroll down to view the entire list of products.
 12. Click **Select** across the chosen product.
 13. After making selections, click Done at the bottom of the page.**
-14. Click on the gear icon  ![](EbsI89Bv51KNJmlhMfv6k3wpmUiGdhcXugHnG8-5khfQpS30xPBcSyUvuUnyllAmlNJPGIN-K71KHTIPMpZUOGQ3NIkSL1MVBq5IIKfvLA8ShbFSeeOF1D_3DFBa%201.png)  to make configuration.
+14. Click on the gear icon ![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/sales_order_gear_icon.png)  to make configuration.
 15. **To save your configuration, click Done.**
 16. To generate demand, click **Demand**.
 17. In the dialogue box, click **OK** and wait until the notification that the demand has been generated.
