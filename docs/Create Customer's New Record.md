@@ -6,7 +6,7 @@
 6. Select between **person** and **organization.**
 7. Enter personal information such as name, emails, phones, urls, and addresses.
 8. Choose at least one primary contact method by ticking ✓ the box under **Primary**.
-![](sales_order_primary_contact.png)
+![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/sales_order_primary_contact.png)
 Note: You cannot save your information until you choose a primary contact method.
 
 9. After filling in the customer’s personal information, click **Save** at the bottom right.
