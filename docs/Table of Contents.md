@@ -5,6 +5,6 @@
 
 [Account Creation](Account%20Creation.md)
 
-[Sales Order](Sales%20Order.md)
+[Create Sales Order](Create%20Sales%20Order.md)
 
 [QBO Integration (Push and Pull)](QBO%20Integration%20(Push%20and%20Pull).md)

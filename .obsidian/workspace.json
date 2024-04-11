@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Open FileMaker Pro Application.md",
+                "file": "docs/Create Sales Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 267.5
   },
   "right": {
     "id": "d66a91847eddf6fc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Open FileMaker Pro Application.md",
+                "file": "docs/Create Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Open FileMaker Pro Application.md",
+                "file": "docs/Create Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Open FileMaker Pro Application.md"
+                "file": "docs/Create Sales Order.md"
               }
             }
           }
@@ -148,21 +148,24 @@
   },
   "active": "44e9f11185f85d53",
   "lastOpenFiles": [
-    "docs/QBO Integration (Push and Pull).md",
-    "assets/push_data_push_successful.png",
+    "assets/pull_invoices>payment terms.png",
+    "docs/Create Sales Order.md",
+    "assets/Screenshot 2024-04-07 at 21.50.22.png",
+    "docs/Create Customer's New Record.md",
+    "docs/Account Creation.md",
     "docs/Log in to Horizon.md",
+    "docs/QBO Integration (Push and Pull).md",
+    "docs/Open FileMaker Pro Application.md",
+    "Create Customer's New Record.md",
+    "EbsI89Bv51KNJmlhMfv6k3wpmUiGdhcXugHnG8-5khfQpS30xPBcSyUvuUnyllAmlNJPGIN-K71KHTIPMpZUOGQ3NIkSL1MVBq5IIKfvLA8ShbFSeeOF1D_3DFBa 1.png",
+    "EbsI89Bv51KNJmlhMfv6k3wpmUiGdhcXugHnG8-5khfQpS30xPBcSyUvuUnyllAmlNJPGIN-K71KHTIPMpZUOGQ3NIkSL1MVBq5IIKfvLA8ShbFSeeOF1D_3DFBa.png",
+    "assets/sales_order_primary_contact_method.png",
+    "assets/sales_order_primary_contact.png",
+    "docs/Table of Contents.md",
+    "assets/push_data_push_successful.png",
     "assets/push_customer's_name_search_result.png",
     "assets/push_customer's_name_search_bar.png",
-    "docs/Open FileMaker Pro Application.md",
     "assets/push_customer's_name_search_bar 1.png",
-    "assets/push_customer's_name.png",
-    "assets/qboi_customer's_name_search_result 1.png",
-    "assets/qboi_customer's_name_search_result.png",
-    "assets/Screenshot 2024-04-07 at 21.50.22.png",
-    "assets/push_push_button.png",
-    "assets/push_main_menu>customers.png",
-    "docs/Account Creation.md",
-    "docs/Sales Order.md",
-    "docs/Table of Contents.md"
+    "assets/push_customer's_name.png"
   ]
 }
