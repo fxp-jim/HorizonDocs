@@ -8,6 +8,6 @@
 
 [Create Customer's New Record](Create%20Customer's%20New%20Record.md)
 
-[Create Sales Order](Create%20Sales%20Order.md)
+[Create Sales Orders](Create%20Sales%20Orders.md)
 
 [QBO Integration (Push and Pull)](QBO%20Integration%20(Push%20and%20Pull).md)
