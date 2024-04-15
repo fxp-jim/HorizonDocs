@@ -1,4 +1,4 @@
-Data push and pull functions in **Party > Customers**; **Orders > Items**; and **Accounting > Payment Terms**; **Tax Code**; **Invoices**. 
+Data push and pull functions can be found in **Party > Customers**; **Orders > Items**; and **Accounting > Payment Terms**; **Tax Code**; **Invoices**. 
 
 #### PUSH DATA (Horizon Party>Customers to QuickBooks) 
 

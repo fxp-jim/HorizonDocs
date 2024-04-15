@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Create Sales Orders.md",
+                "file": "docs/Create Customer's New Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Create Sales Orders.md",
+                "file": "docs/Create Customer's New Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Create Sales Orders.md",
+                "file": "docs/Create Customer's New Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Create Sales Orders.md"
+                "file": "docs/Create Customer's New Record.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "44e9f11185f85d53",
   "lastOpenFiles": [
-    "docs/Create Customer's New Record.md",
-    "docs/Create Sales Orders.md",
+    "docs/QBO Integration (Push and Pull).md",
     "docs/Open FileMaker Pro Application.md",
     "docs/Log in to Horizon.md",
+    "docs/Create Sales Orders.md",
+    "docs/Create Customer's New Record.md",
     "docs/Account Creation.md",
     "docs/Table of Contents.md",
     "assets/account_details_screen.png",
     "assets/account_request_screen.png",
-    "docs/QBO Integration (Push and Pull).md",
     "assets/sales_order_gear_icon.png",
     "assets/sales_order_primary_contact.png",
     "EbsI89Bv51KNJmlhMfv6k3wpmUiGdhcXugHnG8-5khfQpS30xPBcSyUvuUnyllAmlNJPGIN-K71KHTIPMpZUOGQ3NIkSL1MVBq5IIKfvLA8ShbFSeeOF1D_3DFBa 1.png",
