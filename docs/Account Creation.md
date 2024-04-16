@@ -4,7 +4,8 @@ The Create Account module is a fundamental component of Horizon, which requires 
 
 Note: You must [Open FileMaker Pro Application](Open%20FileMaker%20Pro%20Application.md) to use **Horizon**. 
 ### Create Own Account
-###### This section will provide a step-by-step process in creating user's own account.
+
+This section will provide a step-by-step process in creating user's own account.
 
 1. Go to Horizon login page and click **Add Account**.
 
