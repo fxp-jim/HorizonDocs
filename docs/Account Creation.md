@@ -11,11 +11,10 @@ Note: You must [Open FileMaker Pro Application](Open%20FileMaker%20Pro%20Applica
 2. Enter your email username and domain (e.g., gmail.com), then click **Send Request**.
 
 3. Check your email for a message containing a link. Copy and paste this link into your browser's address bar, then press enter. 
-
-**Note**: The link expires in 15 minutes.
+	**Note**: The link expires in 15 minutes.
 
 ![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/email_sent_modal.png)
- 
+
 4. Click **Open FileMaker Pro** to continue with account creation.
 
 5. Select an access privilege (e.g., accountant, caterer, chef, guest, manager, planner, system administrator, and waiter). 
@@ -28,4 +27,4 @@ Note: You must [Open FileMaker Pro Application](Open%20FileMaker%20Pro%20Applica
 
 Note: You cannot save changes without choosing at least one primary contact method. 
 
-9. Log in to **Horizon** on the login page with your username and password.
+9. On the login page, log in to **Horizon** with your username and password.
