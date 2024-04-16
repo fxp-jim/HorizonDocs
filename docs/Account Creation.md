@@ -12,9 +12,7 @@ Note: You must [Open FileMaker Pro Application](Open%20FileMaker%20Pro%20Applica
 
 3. Check your email for a message containing a link. Copy and paste this link into your browser's address bar, then press enter. 
 	**Note**: The link expires in 15 minutes.
-
-![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/email_sent_modal.png)
-
+	
 4. Click **Open FileMaker Pro** to continue with account creation.
 
 5. Select an access privilege (e.g., accountant, caterer, chef, guest, manager, planner, system administrator, and waiter). 

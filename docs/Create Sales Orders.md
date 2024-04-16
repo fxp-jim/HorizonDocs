@@ -1,8 +1,9 @@
 
-1. Select **Sales Orders** from the main menu. 
-
-	Note: To create a sales order, you must have the customer record. Otherwise, you have to 
+Note: To create a sales order, you must have the customer record. Otherwise, you have to 
 [Create Customer's New Record](Create%20Customer's%20New%20Record.md) first. 
+
+
+1. Select **Sales Orders** from the main menu. 
 
 2. Click **New Record**.
 
