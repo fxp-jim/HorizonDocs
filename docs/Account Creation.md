@@ -7,23 +7,21 @@ Note: You must [Open FileMaker Pro Application](Open%20FileMaker%20Pro%20Applica
 
 This section will provide a step-by-step process in creating user's own account.
 
-1. Go to Horizon login page and click **Add Account**.
+1. **Go to Horizon:** Open Horizon File and click **Add Account**. This is where you'll create your Horizon account.
 
-2. Enter your email username and domain (e.g., gmail.com), then click **Send Request**.
+2. **Request Access with Your Email**: Once you're on the Horizon login screen, enter your email username (the part before the "@" symbol) and enter your email domain (like gmail.com). Then, click a button that says **Send Request.** This lets Horizon know you want to create an account.
 
-3. Check your email for a message containing a link. Copy and paste this link into your browser's address bar, then press enter. 
+3. **Check Your Email for a Link**: Horizon will send you an email with a special link. Open your email inbox and find the email from Horizon. Copy  the link inside the email and paste it into your browser. This link will take you back to Horizon to continue with account creation.
 	**Note**: The link expires in 15 minutes.
 	
-4. Click **Open FileMaker Pro** to continue with account creation.
+4. **Choose Your Privilege**: Horizon will ask you to pick a privilege that best describes what you'll be doing in the system, like accountant, caterer, chef, guest, manager, planner, system administrator, and waiter.
 
-5. Select an access privilege (e.g., accountant, caterer, chef, guest, manager, planner, system administrator, and waiter). 
+5. **Create a Password**: Next, you'll need to set up a password for your account. Choose something that's easy for you to remember but hard for others to guess. Then, click **Continue** button
 
-6. Set your **password**. Then click **Continue**.
+6. **Enter Your Information**: Horizon will ask for some basic information about you, like your name and contact details. You'll need to provide at least your first name and choose a way for Horizon to contact you, like through email or phone.
 
-7. Enter employee details. Enter at least your first name and/or last name.
+7. **Save Your Information**: Make sure you've entered all the required information, and choose which contact method is the most important for Horizon to use by ticking the box under **Primary**. Then click **Save** button.
 
-8. Enter at least one contact method (e.g., email, phone, url, and/or addresses). Choose your primary contact method by ticking the box under **Primary**. Then click **Save**.
+	Note: You cannot save changes without choosing at least one primary contact method. 
 
-Note: You cannot save changes without choosing at least one primary contact method. 
-
-9. On the login page, log in to **Horizon** with your username and password.
+9. **Log In**: Finally, go back to the Horizon login page and enter your username and the password you just created. This will log you into your new Horizon account, and you'll be ready to start using it.
