@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Delete Horizon Account.md",
+                "file": "docs/Create Sales Orders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66cad1ad0a9544b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Reset Horizon Password.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 268.5
   },
   "right": {
     "id": "d66a91847eddf6fc",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Delete Horizon Account.md",
+                "file": "docs/Reset Horizon Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Delete Horizon Account.md",
+                "file": "docs/Reset Horizon Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Delete Horizon Account.md"
+                "file": "docs/Reset Horizon Password.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44e9f11185f85d53",
+  "active": "22b6989c1ca2ac75",
   "lastOpenFiles": [
+    "docs/Reset Horizon Password.md",
     "docs/Create Sales Orders.md",
+    "docs/Create Customer's New Record.md",
+    "docs/Account Creation.md",
     "docs/Delete Horizon Account.md",
     "docs/Open FileMaker Pro Application.md",
     "docs/Log in to Horizon.md",
-    "docs/Account Creation.md",
     "docs/QBO Integration (Push and Pull).md",
-    "docs/Create Customer's New Record.md",
     "assets/email_sent_modal.png",
     "docs/Table of Contents.md",
     "assets/sales_order_primary_contact.png",
