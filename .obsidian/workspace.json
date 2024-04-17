@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Create Sales Orders.md",
+                "file": "docs/Delete Horizon Account.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Create Sales Orders.md",
+                "file": "docs/Delete Horizon Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Create Sales Orders.md",
+                "file": "docs/Delete Horizon Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Create Sales Orders.md"
+                "file": "docs/Delete Horizon Account.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "44e9f11185f85d53",
   "lastOpenFiles": [
+    "docs/Create Sales Orders.md",
+    "docs/Delete Horizon Account.md",
     "docs/Open FileMaker Pro Application.md",
     "docs/Log in to Horizon.md",
     "docs/Account Creation.md",
-    "docs/Create Sales Orders.md",
     "docs/QBO Integration (Push and Pull).md",
     "docs/Create Customer's New Record.md",
     "assets/email_sent_modal.png",
