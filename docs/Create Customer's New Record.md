@@ -1,10 +1,10 @@
-1. [Open FileMaker Pro Application](Open%20FileMaker%20Pro%20Application.md)
+1. [1 Launch Horizon File](docs/1%20Launch%20Horizon%20File.md)
 
-2. [Log in to Horizon](Log%20in%20to%20Horizon.md)
+2. [Log Into Your Account](docs/Log%20Into%20Your%20Account.md)
 
 3. On the main menu, select **Customers**.
 
-4.  Click **New Record.**
+4.  Click **New Record** tab. 
 
 5. In the pop-up form, click on the **Type** box. Select either **person** or **organization.**
 
