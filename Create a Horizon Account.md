@@ -28,7 +28,7 @@ The Create Account module is a key part of Horizon, allowing users to sign up an
 
 ### Create a Horizon account for another user
 
-**To create an account for another user if you're logged in to Horizon:
+###### To create an account for another user if you're logged in to Horizon:
 
 1. Click on **All Parties** on the main menu, then click on **Employees** tab > **New Record.**
 

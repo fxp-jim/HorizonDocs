@@ -37,14 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create a Horizon Account.md",
+                "file": "docs/Sales Order/Create Sales Orders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c99578caf5dcf7ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sales Order/Omit a Sales Order Record.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc446970ca1fb09b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sales Order/Omit a Sales Order Record.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fef3fbc6b51f37ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sales Order/Omit a Sales Order Record.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 267.5
   },
   "right": {
     "id": "d66a91847eddf6fc",
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create a Horizon Account.md",
+                "file": "docs/Sales Order/Omit a Sales Order Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create a Horizon Account.md",
+                "file": "docs/Sales Order/Omit a Sales Order Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create a Horizon Account.md"
+                "file": "docs/Sales Order/Omit a Sales Order Record.md"
               }
             }
           }
@@ -171,34 +207,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe5697882686b3d4",
+  "active": "fef3fbc6b51f37ed",
   "lastOpenFiles": [
-    "Reset Your Password.md",
-    "Create a Horizon Account.md",
-    "Table of Contents.md",
-    "Launch Horizon File.md",
-    "Untitled.md",
-    "Log Into Your Account.md",
-    "Delete Your Account.md",
-    "Log Out from Your Account.md",
+    "docs/Sales Order/Create Sales Orders.md",
+    "docs/Sales Order/Create a Customer's New Record.md",
+    "docs/Sales Order",
+    "docs/Sales Order/Omit a Sales Order Record.md",
     "Find Mode.md",
+    "Browse Mode.md",
+    "Launch Horizon File.md",
+    "Create a Horizon Account.md",
+    "Reset Your Password.md",
+    "docs/Table of Contents.md",
+    "Log Into Your Account.md",
+    "Log Out of Horizon.md",
+    "Delete Your Account.md",
+    "assets/sales_order_find_mode.png",
+    "assets/Screenshot 2024-04-25 at 18.10.56.png",
+    "Screenshot 2024-04-25 at 18.10.56.png",
     "docs/Reset Horizon Password.md",
     "docs/1 Launch Horizon File.md",
     "docs/Log Into Your Account.md",
     "docs/2 Create a Horizon account.md",
-    "docs/Create Customer's New Record.md",
     "docs/QBO Integration (Push and Pull).md",
-    "docs/Create Sales Orders.md",
     "assets/email_sent_modal.png",
     "assets/sales_order_primary_contact.png",
     "assets/account_details_screen.png",
     "assets/account_request_screen.png",
     "assets/sales_order_gear_icon.png",
     "EbsI89Bv51KNJmlhMfv6k3wpmUiGdhcXugHnG8-5khfQpS30xPBcSyUvuUnyllAmlNJPGIN-K71KHTIPMpZUOGQ3NIkSL1MVBq5IIKfvLA8ShbFSeeOF1D_3DFBa 1.png",
-    "EbsI89Bv51KNJmlhMfv6k3wpmUiGdhcXugHnG8-5khfQpS30xPBcSyUvuUnyllAmlNJPGIN-K71KHTIPMpZUOGQ3NIkSL1MVBq5IIKfvLA8ShbFSeeOF1D_3DFBa.png",
-    "assets/push_push_button.png",
-    "assets/sales_order_primary_contact_method.png",
-    "assets/select_Hosts.png",
-    "Create Customer's New Record.md"
+    "EbsI89Bv51KNJmlhMfv6k3wpmUiGdhcXugHnG8-5khfQpS30xPBcSyUvuUnyllAmlNJPGIN-K71KHTIPMpZUOGQ3NIkSL1MVBq5IIKfvLA8ShbFSeeOF1D_3DFBa.png"
   ]
 }

@@ -9,3 +9,10 @@ III.  [Log Into Your Account](Log%20Into%20Your%20Account.md)
 IV. [Reset Your Password](Reset%20Your%20Password.md)
 
 V. [Delete Your Account](Delete%20Your%20Account.md)
+
+VI. [Log Out of Horizon](Log%20Out%20of%20Horizon.md)
+
+VII. [Create a Customer's New Record](Create%20a%20Customer's%20New%20Record.md)
+
+VIII. [Create Sales Orders](Create%20Sales%20Orders.md)
+
