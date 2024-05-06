@@ -2,7 +2,7 @@
 __________________________________
 ##### Log in using your Horizon login information
 
-1. [Launch Horizon File](Launch%20Horizon%20File.md)
+1. [Launch Horizon File (Simplified)](Launch%20Horizon%20File%20(Simplified).md)
 
 2. On the Horizon login page, enter **account name**, that's the email listed on your Horizon account (e.g., xxx@gmail.com). 
 
