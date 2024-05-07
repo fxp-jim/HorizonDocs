@@ -1,22 +1,24 @@
 
-This table of contents provides a structured overview of the user's guide, allowing users to quickly find relevant information about using the Horizon file effectively.
+This table of contents provides a structured overview of the user guide, allowing users to quickly find relevant information about using the Horizon file effectively.
 
-I.  [Launch Horizon File (Simplified)](Launch%20Horizon%20File%20(Simplified).md)
-
+##### Setup Basics
+###### I. [Launch Horizon File](Launch%20Horizon%20File.md)
 II. [Create a Horizon Account](Create%20a%20Horizon%20Account.md)
+III. [Log Into Horizon](Log%20Into%20Horizon.md)
+IV. [Log Out of Horizon](Log%20Out%20of%20Horizon.md)
+V. [Reset Your Password](Reset%20Your%20Password.md)
+VI. [Delete Your Account](Delete%20Your%20Account.md)
 
-III.  [Log Into Your Account](Log%20Into%20Your%20Account.md)
+##### **Customers 
+I. [Create a Customer's New Record](Create%20a%20Customer's%20New%20Record.md)
+II. [Add a Payment Record](Add%20a%20Payment%20Record.md)
+III. [Confirm a Payment Transaction](Confirm%20a%20Payment%20Transaction.md)
+IV. [Delete a Payment Record](Delete%20a%20Payment%20Record.md)
 
-IV. [Reset Your Password](Reset%20Your%20Password.md)
+##### Sales Order
+I. [Create Sales Orders](Create%20Sales%20Orders.md)
+II. [Omit a Sales Order Record](Omit%20a%20Sales%20Order%20Record.md)
 
-V. [Delete Your Account](Delete%20Your%20Account.md)
-
-VI. [Log Out of Horizon](Log%20Out%20of%20Horizon.md)
-
-VII. [Create a Customer's New Record](Create%20a%20Customer's%20New%20Record.md)
-
-VIII. [Sales Order > Create Sales Orders](Sales%20Order%20>%20Create%20Sales%20Orders.md)
-
-IX. [Sales Order > Omit a Sales Order Record](Sales%20Order%20>%20Omit%20a%20Sales%20Order%20Record.md)
-
-X. [QBO Integration (Push and Pull)](QBO%20Integration%20(Push%20and%20Pull).md)
+##### Search on Horizon
+I. [Browse Mode](Browse%20Mode.md)
+II. [Find Mode](Find%20Mode.md)

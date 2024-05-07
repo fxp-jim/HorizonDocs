@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Customers/Customers > Add a Payment Record.md",
+                "file": "Horizon User Guide/Customers/Add a Payment Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Browse Mode.md",
+                "file": "Horizon User Guide/Customers/Add a Payment Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Browse Mode.md",
+                "file": "Horizon User Guide/Customers/Add a Payment Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Browse Mode.md",
+                "file": "Horizon User Guide/Customers/Add a Payment Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Browse Mode.md"
+                "file": "Horizon User Guide/Customers/Add a Payment Record.md"
               }
             }
           }
@@ -159,30 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b6989c1ca2ac75",
+  "active": "73899e4de12cf540",
   "lastOpenFiles": [
+    "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/Sales Order/Omit a Sales Order Record.md",
+    "Horizon User Guide/Sales Order/Create Sales Orders.md",
+    "Horizon User Guide/Customers/Delete a Payment Record.md",
+    "Horizon User Guide/Customers/Confirm a Payment Transaction.md",
+    "Horizon User Guide/Customers/Add a Payment Record.md",
+    "Horizon User Guide/Setup Basics/Reset Your Password.md",
+    "Horizon User Guide/Setup Basics/Log Into Horizon.md",
+    "Horizon User Guide/Setup Basics/Log Out of Horizon.md",
+    "Horizon User Guide/Setup Basics/Launch Horizon File (Simplified).md",
+    "Horizon User Guide/Setup Basics/Launch Horizon File.md",
+    "Horizon User Guide/Setup Basics/Create a Horizon Account.md",
+    "Horizon User Guide/Setup Basics/Delete Your Account.md",
+    "Horizon User Guide/Search on Horizon",
+    "Horizon User Guide/Search on Horizon/Browse Mode.md",
+    "Horizon User Guide/Setup Basics",
+    "Horizon User Guide/Sales Order",
     "Horizon User Guide/Customers",
-    "Horizon User Guide/Customers/Customers > Confirm a Payment Transaction.md",
-    "Horizon User Guide/Customers/Customers > Delete a Payment Record.md",
-    "Horizon User Guide/Customers/Customers > Add a Payment Record.md",
-    "Horizon User Guide/Create a Horizon Account.md",
-    "Horizon User Guide/Delete Your Account.md",
-    "Horizon User Guide/Sales Order > Create Sales Orders.md",
-    "Horizon User Guide/Reset Your Password.md",
-    "Horizon User Guide/Log Out of Horizon.md",
     "assets/next_button.jpg",
-    "Horizon User Guide/Create a Customer's New Record.md",
-    "Horizon User Guide/Launch Horizon File (Simplified).md",
-    "Horizon User Guide/Browse Mode.md",
+    "Horizon User Guide/Customers/Create a Customer's New Record.md",
     "Screenshot 2024-05-07 at 22.52.28 1.jpg",
     "Screenshot 2024-05-07 at 22.52.28.jpg",
     "Screenshot 2024-05-07 at 22.52.28.png",
-    "Horizon User Guide/Sales Order > Omit a Sales Order Record.md",
-    "Horizon User Guide/Log Into Your Account.md",
-    "Horizon User Guide/Find Mode.md",
-    "Horizon User Guide/Launch Horizon File.md",
+    "Horizon User Guide/Search on Horizon/Find Mode.md",
     "Horizon User Guide/QBO Integration (Push and Pull).md",
-    "Horizon User Guide/Table of Contents.md",
     "create another payment record.md",
     "docs/Log Into Your Account 1.md",
     "docs/Customers/Create a Payment Record.md",

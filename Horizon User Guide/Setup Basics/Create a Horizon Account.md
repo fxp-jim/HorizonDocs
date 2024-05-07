@@ -2,7 +2,7 @@ The Create Account module is a key part of Horizon, allowing users to sign up an
 
 #### Create Your Own Horizon Account
 
-1. [Launch horizon file](Launch%20Horizon%20File.md)
+1. [Launch Horizon file](Launch%20Horizon%20File.md)
 
 2. Click **Add Account** on the Horizon login page.
 

@@ -10,7 +10,7 @@ Note: You cannot delete your Horizon account using your own account.  You need t
 
 To permanently delete your account: 
 
-1. [Log into your account.](Log%20Into%20Your%20Account.md)
+1. [Log into your account.](Log%20Into%20Horizon.md)
 
 2. Click on **All Parties** on the main menu. 
 
