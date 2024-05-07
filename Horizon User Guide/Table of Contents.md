@@ -15,7 +15,7 @@ II. [Add a Payment Record](Add%20a%20Payment%20Record.md)
 III. [Confirm a Payment Transaction](Confirm%20a%20Payment%20Transaction.md)
 IV. [Delete a Payment Record](Delete%20a%20Payment%20Record.md)
 
-##### Sales Order
+##### Sales Orders
 I. [Create Sales Orders](Create%20Sales%20Orders.md)
 II. [Omit a Sales Order Record](Omit%20a%20Sales%20Order%20Record.md)
 
