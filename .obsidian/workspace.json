@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Customers > Add a Customer's Payment Record.md",
+                "file": "docs/Customers > Add a Payment Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Customers > Confirm a Customer's Payment Record.md",
+                "file": "docs/Customers > Confirm a Payment Transaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Customers > Confirm a Customer's Payment Record.md",
+                "file": "docs/Customers > Confirm a Payment Transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Customers > Confirm a Customer's Payment Record.md",
+                "file": "docs/Customers > Confirm a Payment Transaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Customers > Confirm a Customer's Payment Record.md"
+                "file": "docs/Customers > Confirm a Payment Transaction.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "73899e4de12cf540",
   "lastOpenFiles": [
-    "docs/Customers > Delete a Customer's Payment Record.md",
-    "docs/Customers > Confirm a Customer's Payment Record.md",
-    "docs/Customers > Add a Customer's Payment Record.md",
+    "docs/Customers > Delete a Payment Record.md",
+    "docs/Customers > Confirm a Payment Transaction.md",
+    "docs/Customers > Add a Payment Record.md",
     "docs/Create a Horizon Account.md",
     "docs/Delete Your Account.md",
     "docs/Sales Order > Create Sales Orders.md",
