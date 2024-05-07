@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Create a New Sales Estimate.md",
+                "file": "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Create a New Sales Estimate.md",
+                "file": "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Create a New Sales Estimate.md",
+                "file": "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Create a New Sales Estimate.md"
+                "file": "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md"
               }
             }
           }
@@ -161,13 +161,18 @@
   },
   "active": "73899e4de12cf540",
   "lastOpenFiles": [
-    "Horizon User Guide/Customers/Confirm a Payment Transaction.md",
+    "Horizon User Guide/Sales Orders/Create a New Sales Estimate Item Order.md",
     "Horizon User Guide/Customers/Delete a Payment Record.md",
-    "Horizon User Guide/Sales Orders/Create a New Sales Estimate.md",
-    "Horizon User Guide/Table of Contents.md",
-    "Horizon User Guide/Customers/Add a Payment Record.md",
-    "Horizon User Guide/Sales Orders/Omit a Sales Order Record.md",
+    "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md",
     "Horizon User Guide/Sales Orders/Create Sales Orders.md",
+    "Horizon User Guide/Sales Orders/Omit a Sales Order Record.md",
+    "Untitled.md",
+    "Horizon User Guide/Search on Horizon/Find Mode.md",
+    "Horizon User Guide/Search on Horizon/Browse Mode.md",
+    "Horizon User Guide/Customers/Add a Payment Record.md",
+    "Horizon User Guide/Customers/Confirm a Payment Transaction.md",
+    "Horizon User Guide/Customers/Create a Customer's New Record.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/Setup Basics/Reset Your Password.md",
     "Horizon User Guide/Setup Basics/Log Into Horizon.md",
     "Horizon User Guide/Setup Basics/Log Out of Horizon.md",
@@ -176,16 +181,13 @@
     "Horizon User Guide/Setup Basics/Create a Horizon Account.md",
     "Horizon User Guide/Setup Basics/Delete Your Account.md",
     "Horizon User Guide/Search on Horizon",
-    "Horizon User Guide/Search on Horizon/Browse Mode.md",
     "Horizon User Guide/Setup Basics",
     "Horizon User Guide/Sales Orders",
     "Horizon User Guide/Customers",
     "assets/next_button.jpg",
-    "Horizon User Guide/Customers/Create a Customer's New Record.md",
     "Screenshot 2024-05-07 at 22.52.28 1.jpg",
     "Screenshot 2024-05-07 at 22.52.28.jpg",
     "Screenshot 2024-05-07 at 22.52.28.png",
-    "Horizon User Guide/Search on Horizon/Find Mode.md",
     "Horizon User Guide/QBO Integration (Push and Pull).md",
     "create another payment record.md",
     "docs/Log Into Your Account 1.md",
@@ -193,8 +195,6 @@
     "docs/Customers/Delete a Payment Record.md",
     "docs/Sales Order/Omit a Sales Order Record.md",
     "Reset Your Password.md",
-    "Log Out of Horizon.md",
-    "Log Into Your Account.md",
     "assets/add_payment_delete_icon.png",
     "docs/Customers",
     "docs/Sales Order",
