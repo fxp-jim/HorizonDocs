@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Find Mode.md",
+                "file": "docs/Reset Your Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Find Mode.md",
+                "file": "docs/Reset Your Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Find Mode.md",
+                "file": "docs/Reset Your Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Find Mode.md"
+                "file": "docs/Reset Your Password.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "3b6f37d81ca13fa3",
   "lastOpenFiles": [
-    "docs/Delete a Payment Record.md",
-    "docs/Create Sales Orders.md",
-    "docs/Create a Payment Record.md",
+    "docs/Log Into Your Account.md",
+    "docs/Reset Your Password.md",
+    "docs/Delete a Customer's Payment Record.md",
+    "create another payment record.md",
+    "docs/QBO Integration (Push and Pull).md",
+    "docs/Create a Horizon Account.md",
     "docs/Delete Your Account.md",
+    "docs/Create a Payment Record.md",
     "docs/Find Mode.md",
+    "docs/Create Sales Orders.md",
     "docs/Launch Horizon File.md",
     "docs/Launch Horizon File (Simplified).md",
-    "docs/Log Into Your Account.md",
     "docs/Omit a Sales Order Record.md",
-    "docs/QBO Integration (Push and Pull).md",
-    "docs/Reset Your Password.md",
     "docs/Create a Customer's New Record.md",
-    "docs/Create a Horizon Account.md",
     "docs/Table of Contents.md",
     "docs/Log Out of Horizon.md",
     "docs/Log Into Your Account 1.md",
@@ -173,7 +174,6 @@
     "Log Into Your Account.md",
     "Launch Horizon File (Simplified).md",
     "Find Mode.md",
-    "Delete Your Account.md",
     "assets/add_payment_delete_icon.png",
     "docs/Customers",
     "docs/Sales Order",
