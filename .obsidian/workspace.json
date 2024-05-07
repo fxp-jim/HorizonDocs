@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Customers/Create a Payment Record.md",
+                "file": "docs/Find Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Customers/Create a Payment Record.md",
+                "file": "docs/Find Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Customers/Create a Payment Record.md",
+                "file": "docs/Find Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Customers/Create a Payment Record.md"
+                "file": "docs/Find Mode.md"
               }
             }
           }
@@ -148,28 +148,34 @@
   },
   "active": "3b6f37d81ca13fa3",
   "lastOpenFiles": [
+    "docs/Delete a Payment Record.md",
+    "docs/Create Sales Orders.md",
+    "docs/Create a Payment Record.md",
+    "docs/Delete Your Account.md",
+    "docs/Find Mode.md",
+    "docs/Launch Horizon File.md",
+    "docs/Launch Horizon File (Simplified).md",
+    "docs/Log Into Your Account.md",
+    "docs/Omit a Sales Order Record.md",
+    "docs/QBO Integration (Push and Pull).md",
+    "docs/Reset Your Password.md",
+    "docs/Create a Customer's New Record.md",
+    "docs/Create a Horizon Account.md",
+    "docs/Table of Contents.md",
+    "docs/Log Out of Horizon.md",
+    "docs/Log Into Your Account 1.md",
+    "docs/Browse Mode.md",
+    "docs/Customers/Create a Payment Record.md",
     "docs/Customers/Delete a Payment Record.md",
     "docs/Sales Order/Omit a Sales Order Record.md",
     "Reset Your Password.md",
     "Log Out of Horizon.md",
     "Log Into Your Account.md",
-    "docs/Customers/Create a Payment Record.md",
     "Launch Horizon File (Simplified).md",
     "Find Mode.md",
     "Delete Your Account.md",
-    "Create a Horizon Account.md",
-    "Browse Mode.md",
-    "docs/Table of Contents.md",
-    "docs/QBO Integration (Push and Pull).md",
-    "docs/Log Into Your Account.md",
-    "docs/Launch Horizon File.md",
     "assets/add_payment_delete_icon.png",
-    "docs/Sales Order/Create a Customer's New Record.md",
     "docs/Customers",
-    "Untitled.md",
-    "docs/2 Create a Horizon account.md",
-    "docs/Sales Order/Create Sales Orders.md",
-    "docs/Reset Horizon Password.md",
     "docs/Sales Order",
     "assets/sales_order_find_mode.png",
     "assets/Screenshot 2024-04-25 at 18.10.56.png",
