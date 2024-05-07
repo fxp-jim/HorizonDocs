@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md",
+                "file": "Horizon User Guide/Sales Orders/Create a New Sales Estimate Order Item.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md",
+                "file": "Horizon User Guide/Sales Orders/Create a New Sales Estimate Order Item.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md",
+                "file": "Horizon User Guide/Sales Orders/Create a New Sales Estimate Order Item.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md"
+                "file": "Horizon User Guide/Sales Orders/Create a New Sales Estimate Order Item.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "73899e4de12cf540",
   "lastOpenFiles": [
-    "Horizon User Guide/Sales Orders/Create a New Sales Estimate Item Order.md",
+    "Horizon User Guide/Sales Orders/Delete a Sales Estimate Order Item.md",
+    "Horizon User Guide/Sales Orders/Create a New Sales Estimate Order Item.md",
     "Horizon User Guide/Customers/Delete a Payment Record.md",
-    "Horizon User Guide/Sales Orders/Delete a Sales Estimate Item Order.md",
     "Horizon User Guide/Sales Orders/Create Sales Orders.md",
     "Horizon User Guide/Sales Orders/Omit a Sales Order Record.md",
     "Untitled.md",
