@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Delete a Customer's Payment Record.md",
+                "file": "docs/Add a Customer's Payment Record.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73899e4de12cf540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sales Order > Confirm a Customer's Payment Record.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 261.5
   },
   "right": {
     "id": "d66a91847eddf6fc",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Delete a Customer's Payment Record.md",
+                "file": "docs/Sales Order > Confirm a Customer's Payment Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Delete a Customer's Payment Record.md",
+                "file": "docs/Sales Order > Confirm a Customer's Payment Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Delete a Customer's Payment Record.md"
+                "file": "docs/Sales Order > Confirm a Customer's Payment Record.md"
               }
             }
           }
@@ -146,20 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b6f37d81ca13fa3",
+  "active": "73899e4de12cf540",
   "lastOpenFiles": [
-    "docs/Browse Mode.md",
+    "docs/Add a Customer's Payment Record.md",
     "docs/Create a Customer's New Record.md",
+    "docs/Sales Order > Confirm a Customer's Payment Record.md",
     "docs/Create a Horizon Account.md",
-    "docs/Create a Payment Record.md",
-    "docs/Create Sales Orders.md",
     "docs/Delete a Customer's Payment Record.md",
-    "docs/Delete Your Account.md",
-    "docs/Find Mode.md",
-    "docs/Launch Horizon File.md",
-    "docs/Launch Horizon File (Simplified).md",
+    "Screenshot 2024-05-07 at 22.52.28.jpg",
+    "Screenshot 2024-05-07 at 22.52.28.png",
     "docs/Log Into Your Account.md",
     "docs/Log Out of Horizon.md",
+    "docs/Create Sales Orders.md",
+    "docs/Browse Mode.md",
+    "docs/Find Mode.md",
+    "docs/Delete Your Account.md",
+    "docs/Launch Horizon File.md",
+    "docs/Launch Horizon File (Simplified).md",
     "docs/Omit a Sales Order Record.md",
     "docs/QBO Integration (Push and Pull).md",
     "docs/Reset Your Password.md",
@@ -172,8 +188,6 @@
     "Reset Your Password.md",
     "Log Out of Horizon.md",
     "Log Into Your Account.md",
-    "Launch Horizon File (Simplified).md",
-    "Find Mode.md",
     "assets/add_payment_delete_icon.png",
     "docs/Customers",
     "docs/Sales Order",
@@ -183,8 +197,6 @@
     "assets/email_sent_modal.png",
     "assets/sales_order_primary_contact.png",
     "assets/account_details_screen.png",
-    "assets/account_request_screen.png",
-    "assets/sales_order_gear_icon.png",
-    "EbsI89Bv51KNJmlhMfv6k3wpmUiGdhcXugHnG8-5khfQpS30xPBcSyUvuUnyllAmlNJPGIN-K71KHTIPMpZUOGQ3NIkSL1MVBq5IIKfvLA8ShbFSeeOF1D_3DFBa 1.png"
+    "assets/account_request_screen.png"
   ]
 }

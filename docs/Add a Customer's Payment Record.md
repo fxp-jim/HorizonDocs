@@ -1,5 +1,5 @@
 
-#### Add a Payment Record
+#### Adding a Payment Record
 _____________________
 
 1. Go to **Customers** on the main menu. 
@@ -11,22 +11,19 @@ _____________________
 For **ACH**: 
 1. Choose between **Checking** and **Savings.**
 2. Fill in the **Payment Info**, including the **routing number** and **account number**. You can also include a **memo** for additional notes. 
-3. Click **confirmed** to verify your payment details. 
-	Note: Once your details have been confirmed, you cannot undo changes in your payment record. 
+3. You have the option to [confirm your payment record](Sales%20Order%20>%20Confirm%20a%20Customer's%20Payment%20Record.md).
 4. Click **Process ACH Payment** to proceed with the payment. 
 5. Select  **Save and Close** to save changes. Otherwise, click **Cancel Payment.**
 
 For **Card**:
 1. **Enter Payment Info** including **card type,** **expiration,** **card number.** You can also add **memo** for additional notes. 
-2. Click **confirmed** to verify your payment details. 
-	Note: Once your details have been confirmed, you cannot undo changes in your payment record. 
+2. You have the option to [confirm your payment record](Sales%20Order%20>%20Confirm%20a%20Customer's%20Payment%20Record.md).
 3. Click **Process Payment** to proceed with payment. 
 4. Click **Save and Close** to save changes. Otherwise, click **Cancel Payment.**
 
 For **Check:**
 1. **Enter Payment Info**, i.e., **check #**. 
-2. Click **confirmed** to verify your payment details. 
-	Note: Once your details have been confirmed, you cannot undo changes in your payment record. 
+2. You have the option to [confirm your payment record](Sales%20Order%20>%20Confirm%20a%20Customer's%20Payment%20Record.md).
 3. Click **Save and Close** to save changes. Otherwise, click **Cancel Payment.**
 
 
