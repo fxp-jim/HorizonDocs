@@ -14,5 +14,5 @@ __________________________________
 4. Click **Log In:**
 ##### If you're having problems logging in
 
-If you're having trouble with your password, learn how to [Reset Horizon Password](docs/Reset%20Horizon%20Password.md).
+If you're having trouble with your password, learn how to [Reset Your Password](Reset%20Your%20Password.md)
 
