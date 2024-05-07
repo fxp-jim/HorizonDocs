@@ -1,6 +1,5 @@
 
-Note: To create a sales order, you need the customer's record. If not, you must [Create a Customer's New Record](Create%20a%20Customer's%20New%20Record.md)
-first.
+Note: To create a sales order, you need the customer's record. If not, you must first [create a customer's new record](Create%20a%20Customer's%20New%20Record.md).
 
 1. Select **Sales Orders** from the main menu. 
 

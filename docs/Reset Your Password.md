@@ -3,9 +3,9 @@ ______________________________
 
 **To reset your password if you're not logged in to Horizon:** 
 
-1. [Launch Horizon File (Simplified)](Launch%20Horizon%20File%20(Simplified).md).
+1. [Launch horizon file.](Launch%20Horizon%20File.md)
 
- 2. On the Horizon login page, type the **account name**, that's the email  listed on your Horizon account (e.g., xxx@gmail.com). 
+ 2. On the Horizon login page, type the **account name**, that's the email listed on your Horizon account (e.g., xxx@gmail.com). 
 
 3. Click on **Reset Password.**
 

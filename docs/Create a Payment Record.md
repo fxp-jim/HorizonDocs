@@ -6,7 +6,7 @@ _____________________
 2. Click on the **Customer** tab.
 3. Select the customer's name from the list on the left pane using either the [Find Mode](Find%20Mode.md) or [Browse Mode](Browse%20Mode.md).
 4. Click on **Add Payment** below. 
-5. Enter the  **Amount** and choose **Type**—**ACH**, **Card**, or **Check**
+5. Enter the  **Amount** and choose **Type**—**ACH**, **Card**, or **Check**.
 
 For **ACH**: 
 1. Choose between **Checking** and **Savings.**
