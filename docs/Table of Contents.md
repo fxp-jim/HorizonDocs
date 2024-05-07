@@ -15,8 +15,8 @@ VI. [Log Out of Horizon](Log%20Out%20of%20Horizon.md)
 
 VII. [Create a Customer's New Record](Create%20a%20Customer's%20New%20Record.md)
 
-VIII. [Create Sales Orders](Create%20Sales%20Orders.md)
+VIII. [Sales Order > Create Sales Orders](Sales%20Order%20>%20Create%20Sales%20Orders.md)
 
-IX. [Omit a Sales Order Record](Omit%20a%20Sales%20Order%20Record.md)
+IX. [Sales Order > Omit a Sales Order Record](Sales%20Order%20>%20Omit%20a%20Sales%20Order%20Record.md)
 
 X. [QBO Integration (Push and Pull)](QBO%20Integration%20(Push%20and%20Pull).md)

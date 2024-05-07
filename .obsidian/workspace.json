@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Add a Customer's Payment Record.md",
+                "file": "docs/Customers > Add a Customer's Payment Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sales Order > Confirm a Customer's Payment Record.md",
+                "file": "docs/Customers > Confirm a Customer's Payment Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sales Order > Confirm a Customer's Payment Record.md",
+                "file": "docs/Customers > Confirm a Customer's Payment Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Sales Order > Confirm a Customer's Payment Record.md",
+                "file": "docs/Customers > Confirm a Customer's Payment Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Sales Order > Confirm a Customer's Payment Record.md"
+                "file": "docs/Customers > Confirm a Customer's Payment Record.md"
               }
             }
           }
@@ -161,24 +161,26 @@
   },
   "active": "73899e4de12cf540",
   "lastOpenFiles": [
-    "docs/Add a Customer's Payment Record.md",
-    "docs/Create a Customer's New Record.md",
-    "docs/Sales Order > Confirm a Customer's Payment Record.md",
+    "docs/Customers > Delete a Customer's Payment Record.md",
+    "docs/Customers > Confirm a Customer's Payment Record.md",
+    "docs/Customers > Add a Customer's Payment Record.md",
     "docs/Create a Horizon Account.md",
-    "docs/Delete a Customer's Payment Record.md",
+    "docs/Delete Your Account.md",
+    "docs/Sales Order > Create Sales Orders.md",
+    "docs/Reset Your Password.md",
+    "docs/Log Out of Horizon.md",
+    "assets/next_button.jpg",
+    "docs/Create a Customer's New Record.md",
+    "docs/Launch Horizon File (Simplified).md",
+    "docs/Browse Mode.md",
+    "Screenshot 2024-05-07 at 22.52.28 1.jpg",
     "Screenshot 2024-05-07 at 22.52.28.jpg",
     "Screenshot 2024-05-07 at 22.52.28.png",
+    "docs/Sales Order > Omit a Sales Order Record.md",
     "docs/Log Into Your Account.md",
-    "docs/Log Out of Horizon.md",
-    "docs/Create Sales Orders.md",
-    "docs/Browse Mode.md",
     "docs/Find Mode.md",
-    "docs/Delete Your Account.md",
     "docs/Launch Horizon File.md",
-    "docs/Launch Horizon File (Simplified).md",
-    "docs/Omit a Sales Order Record.md",
     "docs/QBO Integration (Push and Pull).md",
-    "docs/Reset Your Password.md",
     "docs/Table of Contents.md",
     "create another payment record.md",
     "docs/Log Into Your Account 1.md",
@@ -195,8 +197,6 @@
     "assets/Screenshot 2024-04-25 at 18.10.56.png",
     "Screenshot 2024-04-25 at 18.10.56.png",
     "assets/email_sent_modal.png",
-    "assets/sales_order_primary_contact.png",
-    "assets/account_details_screen.png",
-    "assets/account_request_screen.png"
+    "assets/sales_order_primary_contact.png"
   ]
 }
