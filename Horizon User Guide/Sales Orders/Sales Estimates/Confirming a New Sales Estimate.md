@@ -1,13 +1,13 @@
-1. Open **Sales Orders** from the main menu. 
+1. Begin by opening **Sales Orders** from the main menu. 
 
-2. Navigate to the main menu and select **Sales Orders**.
+2. Next, navigate to the main menu and select **Sales Orders**.
 
-3. Click on **Order Management**, then **Estimates**.
+3. Inside, click on **Order Management**, then **Estimates**.
 
-4. Look for the customer's name on the left side. You can search using either the [Find Mode](Find%20Mode.md) or [Browse Mode](Browse%20Mode.md).
+4. Find the party's name on the left side. You can search using either the [Find Mode](Find%20Mode.md) or [Browse Mode](Browse%20Mode.md).
 
-5. Click on the **confirm** button. 
+5. Once you've located the right party, click on the **confirm** button. 
 
-⚠️ Note: You cannot delete line items and unconfirm the  sales estimate once it has been confirmed.
+⚠️ Note: Once a sales estimate is confirmed, you can't delete line items or undo the confirmation. Also, you can only confirm a sales estimate if there are already line items in it.
 
-6. Finally, click on **Save Changes** to keep your changes. If you change your mind, you can click **Undo Changes** to discard them.
+6. Lastly, click on **Save Changes** to keep your modification. If you change your mind, you can click **Undo Changes** to discard them.
