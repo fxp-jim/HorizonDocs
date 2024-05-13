@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73899e4de12cf540",
+            "id": "178173d56685529d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Confirming and Unconfirming a Sales Order.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3308705a336566eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
+                "file": "Horizon User Guide/Sales Orders/Applying Discounts to Sales Orders.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
+                "file": "Horizon User Guide/Sales Orders/Applying Discounts to Sales Orders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
+                "file": "Horizon User Guide/Sales Orders/Applying Discounts to Sales Orders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md"
+                "file": "Horizon User Guide/Sales Orders/Applying Discounts to Sales Orders.md"
               }
             }
           }
@@ -159,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3308705a336566eb",
+  "active": "178173d56685529d",
   "lastOpenFiles": [
+    "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
+    "Horizon User Guide/Sales Orders/Applying Discounts to Sales Orders.md",
+    "Horizon User Guide/Sales Orders/Sales Estimate/Creating a New Sales Estimate Order Item.md",
+    "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
     "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
-    "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Get Started/Resetting Your Password.md",
     "Confirm a Sales Order.md",
     "Horizon User Guide/Get Started/Logging Out of Horizon.md",
@@ -177,8 +167,6 @@
     "Horizon User Guide/Customers/Confirming a Payment Transaction.md",
     "Horizon User Guide/Customers/Adding a Payment Record.md",
     "Horizon User Guide/Sales Orders/Sales Estimate/Deleting a Sales Estimate Order Item.md",
-    "Horizon User Guide/Sales Orders/Sales Estimate/Creating a New Sales Estimate Order Item.md",
-    "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
     "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Confirming and Unconfirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
@@ -188,7 +176,6 @@
     "Horizon User Guide/Sales Orders/Receiving Orders",
     "Horizon User Guide/Sales Orders/Delete a line item from Receiving Orders.md",
     "Horizon User Guide/Sales Orders/Sales Estimate",
-    "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Searching on Horizon",
     "Horizon User Guide/Get Started",
     "Horizon User Guide/Sales Orders",
