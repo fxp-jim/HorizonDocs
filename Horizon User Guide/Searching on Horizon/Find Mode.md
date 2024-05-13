@@ -1,4 +1,3 @@
-
 To utilize **Find Mode** in the **Sales Orders** tab: 
 
 1. Click Find Mode in the **Options** row at the top right. 

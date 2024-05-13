@@ -1,4 +1,3 @@
-
 **To omit a sales order record if it is not yet confirmed:** 
 
 1. Click **Sales Order** on the main menu. 

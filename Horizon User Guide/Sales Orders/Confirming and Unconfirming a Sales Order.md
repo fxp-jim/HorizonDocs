@@ -1,4 +1,3 @@
-
 #### In this article
 
  ###### • [Confirming a Sales Order](Confirming%20a%20Sales%20Order.md)

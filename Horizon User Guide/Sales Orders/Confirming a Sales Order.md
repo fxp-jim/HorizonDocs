@@ -1,4 +1,3 @@
-
 Confirming a sales order is done before one can generate a sales invoice and/or unconfirm a sales order.
 
 Follow this step-by-step guide to confirm a sales order:
