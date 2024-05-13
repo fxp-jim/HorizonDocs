@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Customers/Confirming a Payment Transaction.md",
+                "file": "Horizon User Guide/Customers/Creating a Payment Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Customers/Confirming a Payment Transaction.md",
+                "file": "Horizon User Guide/Customers/Creating a Payment Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Customers/Confirming a Payment Transaction.md",
+                "file": "Horizon User Guide/Customers/Creating a Payment Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Customers/Confirming a Payment Transaction.md"
+                "file": "Horizon User Guide/Customers/Creating a Payment Record.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Customers/Deleting a Payment Record.md",
+    "Horizon User Guide/Customers/Creating a Customer's New Record.md",
+    "Horizon User Guide/Customers/Confirming a Payment Record.md",
     "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
@@ -174,10 +177,7 @@
     "Horizon User Guide/Getting Started/Deleting Your Account.md",
     "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/Customers/Unconfirming Payments.md",
-    "Horizon User Guide/Customers/Deleting a Payment Record.md",
-    "Horizon User Guide/Customers/Creating a Customer's New Record.md",
-    "Horizon User Guide/Customers/Confirming a Payment Transaction.md",
-    "Horizon User Guide/Customers/Adding a Payment Record.md",
+    "Horizon User Guide/Customers/Creating a Payment Record.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a New Sales Estimate.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Creating a New Sales Estimate Order Item.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Deleting a Sales Estimate Order Item.md",

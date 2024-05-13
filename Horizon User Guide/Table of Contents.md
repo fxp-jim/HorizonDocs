@@ -11,8 +11,8 @@ VI. [Deleting Your Account](Deleting%20Your%20Account.md)
 
 ##### **Customers 
 I. [Creating a Customer's New Record](Creating%20a%20Customer's%20New%20Record.md)
-II. [Adding a Payment Record](Adding%20a%20Payment%20Record.md)
-III. [Confirming a Payment Transaction](Confirming%20a%20Payment%20Transaction.md)
+II. [Creating a Payment Record](Creating%20a%20Payment%20Record.md)
+III. [Confirming a Payment Record](Confirming%20a%20Payment%20Record.md)
 IV. [Deleting a Payment Record](Deleting%20a%20Payment%20Record.md)
 
 ##### Sales Orders
