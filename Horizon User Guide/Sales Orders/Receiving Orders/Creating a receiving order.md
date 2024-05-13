@@ -1,4 +1,3 @@
-#### Creating a receiving order 
 
 **Receiving Order** is the process of receiving Purchase Order items and other additional items so that your stock levels update to reflect your newly-arrived inventory. 
 Follow this step-by-step guide to create a receiving order:
@@ -16,3 +15,4 @@ Follow this step-by-step guide to create a receiving order:
 6. Click on the box labeled **click to select in the picker** to choose the item/s you want to add. In the pop-up picker, click the add button (✚), then click **Done** at the bottom.
 
 7. Click on **Save Changes** to keep your changes.  Click on **Undo Changes** to discard them. 
+
