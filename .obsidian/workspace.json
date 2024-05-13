@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Confirming and Unconfirming a Sales Order.md",
+                "file": "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Confirming and Unconfirming a Sales Order.md",
+                "file": "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Confirming and Unconfirming a Sales Order.md",
+                "file": "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Confirming and Unconfirming a Sales Order.md"
+                "file": "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md"
               }
             }
           }
@@ -161,35 +161,35 @@
   },
   "active": "3308705a336566eb",
   "lastOpenFiles": [
+    "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
+    "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
+    "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
+    "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
+    "Horizon User Guide/Get Started/Resetting Your Password.md",
+    "Confirm a Sales Order.md",
+    "Horizon User Guide/Get Started/Logging Out of Horizon.md",
+    "Horizon User Guide/Get Started/Logging Into Horizon.md",
+    "Horizon User Guide/Get Started/Launching Horizon File.md",
+    "Horizon User Guide/Get Started/Deleting Your Account.md",
+    "Horizon User Guide/Get Started/Creating a Horizon Account.md",
+    "Horizon User Guide/Customers/Deleting a Payment Record.md",
+    "Horizon User Guide/Customers/Creating a Customer's New Record.md",
+    "Horizon User Guide/Customers/Confirming a Payment Transaction.md",
+    "Horizon User Guide/Customers/Adding a Payment Record.md",
+    "Horizon User Guide/Sales Orders/Sales Estimate/Deleting a Sales Estimate Order Item.md",
+    "Horizon User Guide/Sales Orders/Sales Estimate/Creating a New Sales Estimate Order Item.md",
+    "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
     "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Confirming and Unconfirming a Sales Order.md",
-    "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
-    "Horizon User Guide/Sales Orders/Sales Estimate/Delete a Sales Estimate Order Item.md",
-    "Horizon User Guide/Sales Orders/Sales Estimate/Create a New Sales Estimate Order Item.md",
-    "Horizon User Guide/Sales Orders/Create Sales Orders.md",
-    "Confirm a Sales Order.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Receiving and Deleting Purchase Orders.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a receiving order.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a receiving order.md",
-    "Horizon User Guide/Sales Orders/Omit a Sales Order Record.md",
-    "Horizon User Guide/Sales Orders/Generate Sales Order Invoices.md",
     "Horizon User Guide/Sales Orders/Receiving Orders",
     "Horizon User Guide/Sales Orders/Delete a line item from Receiving Orders.md",
-    "Horizon User Guide/Customers/Delete a Payment Record.md",
-    "Horizon User Guide/Customers/Create a Customer's New Record.md",
-    "Horizon User Guide/Customers/Confirm a Payment Transaction.md",
-    "Horizon User Guide/Customers/Add a Payment Record.md",
     "Horizon User Guide/Sales Orders/Sales Estimate",
-    "Horizon User Guide/Search on Horizon/Find Mode.md",
-    "Horizon User Guide/Search on Horizon/Browse Mode.md",
-    "Horizon User Guide/Table of Contents.md",
-    "Horizon User Guide/Get Started/Reset Your Password.md",
-    "Horizon User Guide/Get Started/Log Into Horizon.md",
-    "Horizon User Guide/Get Started/Log Out of Horizon.md",
-    "Horizon User Guide/Get Started/Launch Horizon File (Simplified).md",
-    "Horizon User Guide/Get Started/Launch Horizon File.md",
-    "Horizon User Guide/Search on Horizon",
+    "Horizon User Guide/Searching on Horizon/Find Mode.md",
+    "Horizon User Guide/Searching on Horizon",
     "Horizon User Guide/Get Started",
     "Horizon User Guide/Sales Orders",
     "Horizon User Guide/Customers",
