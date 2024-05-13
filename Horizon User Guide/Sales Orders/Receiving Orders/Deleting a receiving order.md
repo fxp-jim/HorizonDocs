@@ -1,3 +1,5 @@
+#### Deleting a receiving order
+
 1. Go to the main menu and select **Sales Orders**.
 
 2. Navigate to **Order Management**, then click on **Receiving Orders**.

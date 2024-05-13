@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Create a Receiving Order.md",
+                "file": "Horizon User Guide/Sales Orders/Receiving Orders/Receiving and Deleting Purchase Orders.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Create a Receiving Order.md",
+                "file": "Horizon User Guide/Sales Orders/Receiving Orders/Receiving and Deleting Purchase Orders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Create a Receiving Order.md",
+                "file": "Horizon User Guide/Sales Orders/Receiving Orders/Receiving and Deleting Purchase Orders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Create a Receiving Order.md"
+                "file": "Horizon User Guide/Sales Orders/Receiving Orders/Receiving and Deleting Purchase Orders.md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "73899e4de12cf540",
   "lastOpenFiles": [
+    "Horizon User Guide/Sales Orders/Unconfirm a Sales Order.md",
+    "Horizon User Guide/Sales Orders/Receiving Orders/Receiving and Deleting Purchase Orders.md",
+    "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a receiving order.md",
+    "Horizon User Guide/Sales Orders/Receiving Orders/Creating a receiving order.md",
+    "Horizon User Guide/Sales Orders/Receiving Orders",
+    "Horizon User Guide/Sales Orders/Sales Estimate/Create a New Sales Estimate Order Item.md",
     "Horizon User Guide/Sales Orders/Delete a line item from Receiving Orders.md",
-    "Horizon User Guide/Sales Orders/Create a Receiving Order.md",
+    "Horizon User Guide/Sales Orders/Create Sales Orders.md",
     "Horizon User Guide/Sales Orders/Generate Sales Order Invoices.md",
     "Horizon User Guide/Sales Orders/Sales Estimate/Delete a Sales Estimate Order Item.md",
-    "Horizon User Guide/Sales Orders/Sales Estimate/Create a New Sales Estimate Order Item.md",
-    "Horizon User Guide/Sales Orders/Create Sales Orders.md",
     "Horizon User Guide/Sales Orders/Omit a Sales Order Record.md",
     "Horizon User Guide/Customers/Delete a Payment Record.md",
     "Horizon User Guide/Customers/Create a Customer's New Record.md",
@@ -179,10 +183,6 @@
     "Screenshot 2024-05-07 at 22.52.28 1.jpg",
     "Screenshot 2024-05-07 at 22.52.28.jpg",
     "Screenshot 2024-05-07 at 22.52.28.png",
-    "Horizon User Guide/QBO Integration (Push and Pull).md",
-    "create another payment record.md",
-    "docs/Log Into Your Account 1.md",
-    "docs/Customers/Create a Payment Record.md",
     "assets/add_payment_delete_icon.png",
     "docs/Customers",
     "docs/Sales Order",
