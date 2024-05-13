@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Customers/Unconfirming Payments.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Customers/Unconfirming Payments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Customers/Unconfirming Payments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/Customers/Unconfirming Payments.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "178173d56685529d",
   "lastOpenFiles": [
+    "Horizon User Guide/Sales Orders/Sales Estimate/Creating a New Sales Estimate Order Item.md",
+    "Horizon User Guide/Customers/Unconfirming Payments.md",
+    "Horizon User Guide/Customers/Adding a Payment Record.md",
+    "Horizon User Guide/Customers/Deleting a Payment Record.md",
+    "Horizon User Guide/Customers/Creating a Customer's New Record.md",
+    "Horizon User Guide/Customers/Confirming a Payment Transaction.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
@@ -159,7 +166,6 @@
     "Horizon User Guide/Sales Orders/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
     "Horizon User Guide/Sales Orders/Sales Estimate/Deleting a Sales Estimate Order Item.md",
-    "Horizon User Guide/Sales Orders/Sales Estimate/Creating a New Sales Estimate Order Item.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Receiving and Deleting Purchase Orders.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a receiving order.md",
@@ -168,12 +174,6 @@
     "Horizon User Guide/Get Started/Logging Into Horizon.md",
     "Horizon User Guide/Get Started/Launching Horizon File.md",
     "Horizon User Guide/Get Started/Launch Horizon File (Simplified).md",
-    "Horizon User Guide/Get Started/Deleting Your Account.md",
-    "Horizon User Guide/Get Started/Creating a Horizon Account.md",
-    "Confirm a Sales Order.md",
-    "Horizon User Guide/Customers/Deleting a Payment Record.md",
-    "Horizon User Guide/Customers/Creating a Customer's New Record.md",
-    "Horizon User Guide/Customers/Confirming a Payment Transaction.md",
     "Horizon User Guide/Sales Orders/Receiving Orders",
     "Horizon User Guide/Sales Orders/Sales Estimate",
     "Horizon User Guide/Searching on Horizon",
