@@ -8,5 +8,7 @@ Confirming a sales order is a necessary step before generating a sales invoice o
 
 4. Once you've chosen the party, click on the **confirm** button.
 
+⚠️ Note: Once a sales order is confirmed, you won't be able to change the customer tier, sales channel, or payment terms.
+
 5. Click on **Save Changes** at the bottom to keep your changes. 
 

@@ -8,6 +8,6 @@
 
 5. Once you've selected the party, click on the **confirm** button, provided there are already line items in it. Wait until the sales estimate status indicates **confirmed**.
   
-⚠️ Note: Once a sales estimate is confirmed, the system will automatically generate a sales order. Additionally, confirmed sales estimates will no longer allow you to delete line items or undo the confirmation.
+⚠️ Note: Once a sales estimate is confirmed, the system will automatically generate a sales order. Additionally, after confirmation, you won't be able to change the customer tier, sales channel, or payment terms. You also won't be able to delete line items or undo the confirmation.
 
 6. Lastly, click on **Save Changes** to keep your modification. If you change your mind, you can click **Undo Changes** to discard them.
