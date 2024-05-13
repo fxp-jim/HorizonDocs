@@ -6,8 +6,8 @@
 
 4. Find the party's name on the left side. You can search using either the [Find Mode](Find%20Mode.md) or [Browse Mode](Browse%20Mode.md).
 
-5. Once you've located the right party, click on the **confirm** button. 
-
-⚠️ Note: Once a sales estimate is confirmed, you can't delete line items or undo the confirmation. Also, you can only confirm a sales estimate if there are already line items in it.
+5. Once you've selected the party, click on the **confirm** button, provided there are already line items in it. Wait until the sales estimate status indicates **confirmed**.
+  
+⚠️ Note: Once a sales estimate is confirmed, the system will automatically generate a sales order. Additionally, confirmed sales estimates will no longer allow you to delete line items or undo the confirmation.
 
 6. Lastly, click on **Save Changes** to keep your modification. If you change your mind, you can click **Undo Changes** to discard them.
