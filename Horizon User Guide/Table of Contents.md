@@ -24,7 +24,9 @@ III. [Confirming a Sales Order](https://github.com/Fx-Professional-Services/Hori
 IV. [Unconfirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Unconfirming%20a%20Sales%20Order.md)<br>
 V. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Generating%20Sales%20Order%20Invoices.md)<br>
 VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md)<br>
-VII. [Applying Discounts to Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Applying%20Discounts%20to%20Sales%20Orders.md)<br>
+VII. [Applying Discounts to Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Applying%20Discounts%20to%20Sales%20Orders.md)<br> <br>
+
+
 VIII.  **Receiving Orders** <br>
 	A. [Creating a Receiving Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Receiving%20Orders/Creating%20a%20Receiving%20Order.md)<br>
 	B. [Deleting a Receiving Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Receiving%20Orders/Deleting%20a%20Receiving%20Order.md)<br>
