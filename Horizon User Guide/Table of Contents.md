@@ -2,7 +2,8 @@
 This table of contents provides a structured overview of the user guide, allowing users to quickly find relevant information about using the Horizon file effectively.
 
 ##### Getting Started
-###### I. [Launching Horizon File](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Launching%20Horizon%20File.md) <br>
+
+I. [Launching Horizon File](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Launching%20Horizon%20File.md) <br>
 II. [Creating a Horizon Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Creating%20a%20Horizon%20Account.md)<br>
 III. [Logging Into Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Logging%20Into%20Horizon.md)<br>
 IV. [Logging Out of Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Logging%20Out%20of%20Horizon.md)<br>
