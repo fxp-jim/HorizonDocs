@@ -1,4 +1,4 @@
-To utilize **Browse Mode** in the **Sales Order** tab: 
+To utilize **Browse Mode**: 
 
 1. Click the **Browse Mode** option on the right of the second row of tabs from the top. 
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Customers/Confirming a Payment Record.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Customers/Confirming a Payment Record.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Customers/Confirming a Payment Record.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Customers/Confirming a Payment Record.md"
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Searching on Horizon/Browse Mode.md",
+    "Horizon User Guide/Customers/Confirming a Payment Record.md",
     "Horizon User Guide/Customers/Creating a Customer's New Record.md",
     "Horizon User Guide/Customers/Creating a Payment Record.md",
     "Horizon User Guide/Customers/Deleting a Payment Record.md",
@@ -185,8 +187,6 @@
     "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
-    "Horizon User Guide/Searching on Horizon/Browse Mode.md",
-    "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "assets/4_sales_order_find_mode.png",
     "assets/push_push_button.png",
     "assets/push_main_menu>customers.png",
