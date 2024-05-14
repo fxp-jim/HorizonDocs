@@ -1,3 +1,6 @@
+### Unconfirm a Payment Record
+______________________________
+
 ⚠️ Note
 You can only make changes to and unconfirm payment records for checks. ACH and Card payments cannot be changed once confirmed.
 

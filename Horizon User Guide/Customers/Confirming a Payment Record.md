@@ -1,3 +1,5 @@
+### Confirm a Payment Record
+___________________________
 
 1. Go to **Customers** in the main menu. 
 

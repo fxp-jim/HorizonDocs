@@ -1,3 +1,5 @@
+### Delete a Payment Record
+__________________________
 
 ⚠️ Note
 You can only delete your payment record if it hasn't been confirmed yet. 

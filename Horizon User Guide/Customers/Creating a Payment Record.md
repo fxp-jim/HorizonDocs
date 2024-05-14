@@ -1,5 +1,4 @@
-
-#### Adding a Payment Record
+### Add a Payment Record
 _____________________
 
 1. Go to **Customers** on the main menu. 
