@@ -1,4 +1,4 @@
-### Apply Discounts to Sales Orders
+### Apply Percentage Discounts to Sales Orders
 _________________________________
 
 Applying discounts is crucial for ensuring competitive pricing and effective management. Follow these steps:

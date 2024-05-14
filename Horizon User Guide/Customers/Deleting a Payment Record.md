@@ -1,7 +1,7 @@
 ### Delete a Payment Record
 __________________________
 
-⚠️ Note
+⚠️ Note:
 You can only delete your payment record if it hasn't been confirmed yet. 
 
 1. Go to **Customers** on the main menu. 

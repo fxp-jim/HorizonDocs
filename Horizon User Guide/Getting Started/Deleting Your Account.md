@@ -1,3 +1,7 @@
+
+### Delete your account
+_______________________
+
 #### What happens if I permanently delete my Horizon account? 
 
 • You won't be able to reactivate your account. 

@@ -1,4 +1,5 @@
 ### Add Taxable Line Item to a Sales Order
+_______________________________________
 
 Adding taxable line items to a sales order is an important step to ensure accurate sales transactions and tax calculations for each item. Follow these simple steps:
 
