@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md"
               }
             }
           }
@@ -161,9 +161,21 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Horizon User Guide/Customers/Unconfirming Payment Record.md",
-    "Horizon User Guide/Table of Contents.md",
+    "assets/4_sales_order_find_mode.png",
+    "assets/push_push_button.png",
+    "assets/push_main_menu>customers.png",
+    "assets/push_data_push_successful.png",
+    "assets/push_data_check_QuickBooks.png",
+    "assets/push_customer's_name_search_result.png",
+    "assets/push_customer's_name_search_bar.png",
+    "assets/push_customer's_name.png",
     "Horizon User Guide/Searching on Horizon/Find Mode.md",
+    "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
+    "assets/pull_succesful_data_pull.png",
+    "assets/pull_payment terms>pull button.png",
+    "assets/pull_main_menu>customers.png",
+    "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/Customers/Unconfirming Payment Record.md",
     "Horizon User Guide/Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Removing an Applied Discount.md",
@@ -179,17 +191,12 @@
     "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Receiving and Deleting Purchase Orders.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
-    "assets/3_sales_order_gear_icon.png",
     "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a receiving order.md",
     "Horizon User Guide/Getting Started/Resetting Your Password.md",
     "Horizon User Guide/Getting Started/Logging Out of Horizon.md",
     "Horizon User Guide/Getting Started/Logging Into Horizon.md",
     "Horizon User Guide/Getting Started/Launching Horizon File.md",
     "Horizon User Guide/Getting Started/Launch Horizon File (Simplified).md",
-    "Horizon User Guide/Getting Started/Deleting Your Account.md",
-    "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
-    "assets/2_sales_order_primary_contact.png",
-    "assets/1_next_button.jpg",
     "Horizon User Guide/Invoice",
     "Horizon User Guide/Sales Orders/Receiving Orders",
     "Horizon User Guide/Sales Orders/Sales Estimates",
@@ -197,14 +204,7 @@
     "Horizon User Guide/Getting Started",
     "Horizon User Guide/Sales Orders",
     "Horizon User Guide/Customers",
-    "Screenshot 2024-05-07 at 22.52.28 1.jpg",
-    "Screenshot 2024-05-07 at 22.52.28.jpg",
-    "Screenshot 2024-05-07 at 22.52.28.png",
-    "assets/add_payment_delete_icon.png",
     "docs/Customers",
-    "docs/Sales Order",
-    "assets/sales_order_find_mode.png",
-    "assets/Screenshot 2024-04-25 at 18.10.56.png",
-    "Screenshot 2024-04-25 at 18.10.56.png"
+    "docs/Sales Order"
   ]
 }
