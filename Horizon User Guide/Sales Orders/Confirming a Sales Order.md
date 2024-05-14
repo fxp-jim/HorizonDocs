@@ -4,7 +4,7 @@ Confirming a sales order is a necessary step before generating a sales invoice o
 
 2. Click **Order Management** and select **Sales Orders**. 
 
-3. Choose a party on the left pane using [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](Find%20Mode.md). 
+3. Choose a party on the left pane using [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Find%20Mode.md). 
 
 4. Once you've chosen the party, click on the **confirm** button.
 

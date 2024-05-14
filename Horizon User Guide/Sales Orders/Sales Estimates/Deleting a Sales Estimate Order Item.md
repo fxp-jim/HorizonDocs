@@ -3,7 +3,7 @@
 
 2. Click on **Order Management**, then **Estimates**.
 
-3. Look for the customer's name on the left side. You can search using either the [Find Mode](Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md).
+3. Look for the customer's name on the left side. You can search using either the [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md).
 
 4. Find the sales estimate item you want to remove and click the delete button (✖︎).
 

@@ -11,7 +11,7 @@ Confirming a sales order is an important step to generate a sales invoice and ma
 
 2. Click on **Order Management** and then choose **Sales Orders**. 
 
-3. On the left pane, select the party using either the [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](Find%20Mode.md). 
+3. On the left pane, select the party using either the [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Find%20Mode.md). 
 
 4. Click on the **confirm** button.
 
@@ -26,7 +26,7 @@ Follow this step-by-step guide to unconfirm a sales order:
 
 2. Click on **Order Management** and then choose **Sales Orders**. 
 
-3. Select the party on the left pane using [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](Find%20Mode.md). 
+3. Select the party on the left pane using [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Find%20Mode.md). 
 
 4. Click on the **unconfirm** button.
 
