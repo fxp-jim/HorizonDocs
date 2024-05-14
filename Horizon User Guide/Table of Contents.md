@@ -24,7 +24,7 @@ VI. [Adding Taxable Line Items to a Sales Order](Adding%20Taxable%20Line%20Items
 VII. [Applying Discounts to Sales Orders](Applying%20Discounts%20to%20Sales%20Orders.md)<br>
 VIII. Receiving Order**s
 	A. [Creating a Receiving Order](Creating%20a%20Receiving%20Order.md)<br>
-	B. [Deleting a receiving order](Deleting%20a%20receiving%20order.md)<br>
+	B. [Deleting a Receiving Order](Deleting%20a%20Receiving%20Order.md)<br>
 IX. **Sales Estimate**
 	A. [Creating a New Sales Estimate Order Item](Creating%20a%20New%20Sales%20Estimate%20Order%20Item.md)<br>
 	B. [Deleting a Sales Estimate Order Item](Deleting%20a%20Sales%20Estimate%20Order%20Item.md)<br>
