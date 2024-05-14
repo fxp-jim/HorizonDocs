@@ -25,10 +25,10 @@ IV. [Unconfirming a Sales Order](https://github.com/Fx-Professional-Services/Hor
 V. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Generating%20Sales%20Order%20Invoices.md)<br>
 VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md)<br>
 VII. [Applying Discounts to Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Applying%20Discounts%20to%20Sales%20Orders.md)<br>
-VIII.  **Receiving Orders**
+VIII.  **Receiving Orders** <br>
 	A. [Creating a Receiving Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Receiving%20Orders/Creating%20a%20Receiving%20Order.md)<br>
 	B. [Deleting a Receiving Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Receiving%20Orders/Deleting%20a%20Receiving%20Order.md)<br>
-IX. **Sales Estimate**
+IX. **Sales Estimate** <br>
 	A. [Creating a New Sales Estimate Order Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Confirming%20a%20Sales%20Estimate.md)<br>
 	B. [Deleting a Sales Estimate Order Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Deleting%20a%20Sales%20Estimate%20Order%20Item.md)<br>
 	C. [Confirming a Sales Estimate](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Confirming%20a%20Sales%20Estimate.md)<br>
