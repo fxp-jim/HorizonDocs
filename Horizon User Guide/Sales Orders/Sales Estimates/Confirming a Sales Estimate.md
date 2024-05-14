@@ -4,7 +4,7 @@
 
 3. Inside, click on **Order Management**, then **Estimates**.
 
-4. Find the party's name on the left side. You can search using either the [Find Mode](Find%20Mode.md) or [Browse Mode](Browse%20Mode.md).
+4. Find the party's name on the left side. You can search using either the [Find Mode](Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md).
 
 5. Once you've selected the party, click on the **confirm** button, provided there are already line items in it. Wait until the sales estimate status indicates **confirmed**.
   

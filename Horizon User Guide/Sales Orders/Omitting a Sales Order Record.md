@@ -2,7 +2,7 @@
 
 1. Click **Sales Order** on the main menu. 
 
-2. Select a record in the left pane through [Find Mode](Find%20Mode.md) or [Browse Mode](Browse%20Mode.md). 
+2. Select a record in the left pane through [Find Mode](Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.mdd). 
 
 3. Click **Omit Record.**
 

@@ -4,7 +4,7 @@
 
 2. Navigate to **Order Management**, then click on **Receiving Orders**.
 
-3. Choose the party from the left pane using either [Browse Mode](Browse%20Mode.md) or [Find Mode](Find%20Mode.md). 
+3. Choose the party from the left pane using either [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](Find%20Mode.md). 
 
 4. Select **Delete Record**. 
 
