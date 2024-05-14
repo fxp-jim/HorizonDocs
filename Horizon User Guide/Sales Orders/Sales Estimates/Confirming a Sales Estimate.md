@@ -1,3 +1,6 @@
+### Confirm a Sales Estimate
+_________________________
+
 1. Begin by opening **Sales Orders** from the main menu. 
 
 2. Next, navigate to the main menu and select **Sales Orders**.

@@ -1,3 +1,6 @@
+### Launch Horizon File
+_____________________
+
 Note: You must first Open FileMaker Pro application in order to launch Horizon file. 
 
 1. **Open FileMaker Pro application**: This means opening the FileMaker Pro program on your computer. You might find it in your list of applications or on your desktop if you've created a shortcut there.

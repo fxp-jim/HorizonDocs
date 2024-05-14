@@ -1,3 +1,6 @@
+### Unconfirm a Sales Order
+__________________________
+
 Follow this step-by-step guide to unconfirm a sales order:
 
 1. Navigate to the main menu and select **Sales Orders**.

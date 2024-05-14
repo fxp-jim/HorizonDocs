@@ -1,3 +1,6 @@
+### Use Find Mode
+______________________
+
 To utilize **Find Mode**: 
 
 1. Click Find Mode in the **Options** row at the top right. 

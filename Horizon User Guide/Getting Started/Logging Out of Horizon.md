@@ -1,3 +1,5 @@
+### Log Out of Horizon
+___________________
 
 ###### To log out of Horizon when you are on the main menu:
 

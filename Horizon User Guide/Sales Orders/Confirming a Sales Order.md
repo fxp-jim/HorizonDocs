@@ -1,3 +1,6 @@
+### Confirm a Sales Order
+______________________
+
 Confirming a sales order is a necessary step before generating a sales invoice or unconfirming a sales order. Follow these simple steps to confirm a sales order:
 
 1. Navigate to the main menu and select **Sales Orders**.

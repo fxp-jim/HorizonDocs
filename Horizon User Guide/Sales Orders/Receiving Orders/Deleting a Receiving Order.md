@@ -1,4 +1,5 @@
-#### Deleting a receiving order
+### Delete a receiving order
+__________________________
 
 1. Go to the main menu and select **Sales Orders**.
 

@@ -1,3 +1,7 @@
+
+### Create a Horizon Account
+_________________________
+
 The Create Account module is a key part of Horizon, allowing users to sign up and access personalized features securely. It's essential for ensuring security and tailored experiences within the platform.
 
 #### Create Your Own Horizon Account

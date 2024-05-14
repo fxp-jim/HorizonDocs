@@ -1,3 +1,6 @@
+### Generate a Sales Order Invoice
+_______________________________
+
 An invoice is like a receipt you get when you buy something or use a service. It lists what you bought, with each item on a separate line, along with its price and quantity. The invoice adds up the cost for each item and calculates the total amount you need to pay.
 #### Generate an invoice from a sales order
 
