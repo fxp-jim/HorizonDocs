@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Order.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Order.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Order.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Order.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Order.md",
     "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
     "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
-    "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Order.md",
     "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
