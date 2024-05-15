@@ -23,7 +23,7 @@ II. [Omitting a Sales Order Record](https://github.com/Fx-Professional-Services/
 III. [Confirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Confirming%20a%20Sales%20Order.md)<br>
 IV. [Unconfirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Unconfirming%20a%20Sales%20Order.md)<br>
 V. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Generating%20Sales%20Order%20Invoices.md)<br>
-VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md)<br>
+VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md)<br> <br>
 VII. **Discounts** <br>
 	A. [Applying Discounts to Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Discounts/Applying%20Discounts%20to%20Sales%20Orders.md)<br>
 	B. [Removing Applied Discounts to Sales Order Line Items](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Discounts/Removing%20Applied%20Discounts%20to%20Sales%20Order%20Line%20Items.md)<br>
