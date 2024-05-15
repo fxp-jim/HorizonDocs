@@ -9,6 +9,12 @@ III. [Logging Into Horizon](https://github.com/Fx-Professional-Services/HorizonD
 IV. [Logging Out of Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Logging%20Out%20of%20Horizon.md)<br>
 V. [Resetting Your Password](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Resetting%20Your%20Password.md)<br>
 VI. [Deleting Your Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Deleting%20Your%20Account.md)<br>
+### All Parties
+
+I. [Creating a New Customer Record](Creating%20a%20New%20Customer%20Record.md) <br>
+II. [Creating a New Employee Record](Creating%20a%20New%20Employee%20Record.md) <br>
+III. [Creating a New Vendor Record](Creating%20a%20New%20Vendor%20Record.md)
+
 ### Customers 
 
 I. [Creating a Customer's New Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Creating%20a%20Customer's%20New%20Record.md)<br>
@@ -39,7 +45,6 @@ X. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Profes
 
 XI. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Sales%20Order%20Line%20Item.md)
 
-XII. [Creating a new Vendor Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20new%20Vendor%20Record.md)
 ###  Search on Horizon
 
 I. [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md)<br>
