@@ -15,4 +15,4 @@ Follow these steps to delete a line item from your sales order:
     
     - After you've made your adjustments, take a moment to review them. When you're satisfied, scroll down and click **Save Changes** to apply your changes to the sales order.
 
-That's it! You've successfully deleted a line item from your sales order. If you have any questions, don't hesitate to reach out to our support team
+That's it! You've successfully deleted a line item from your sales order. If you have any questions, don't hesitate to reach out to our support team. 
