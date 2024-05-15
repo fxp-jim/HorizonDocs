@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
+                "file": "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
+                "file": "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
+                "file": "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md"
+                "file": "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md"
               }
             }
           }
@@ -159,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b6989c1ca2ac75",
+  "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Customers/Unconfirming Payment Record.md",
+    "Horizon User Guide/Customers/Deleting a Payment Record.md",
+    "Horizon User Guide/Customers/Creating a Payment Record.md",
+    "Horizon User Guide/Customers/Confirming a Payment Record.md",
+    "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
+    "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
     "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
@@ -181,12 +187,6 @@
     "Horizon User Guide/Getting Started/Launch Horizon File (Simplified).md",
     "Horizon User Guide/Getting Started/Deleting Your Account.md",
     "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
-    "Horizon User Guide/Customers/Unconfirming Payment Record.md",
-    "Horizon User Guide/Customers/Deleting a Payment Record.md",
-    "Horizon User Guide/Customers/Creating a Payment Record.md",
-    "Horizon User Guide/Customers/Creating a New Customer Record.md",
-    "Horizon User Guide/Customers/Confirming a Payment Record.md",
-    "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",
     "assets/4_sales_order_find_mode.png",
