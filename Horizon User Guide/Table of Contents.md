@@ -35,7 +35,7 @@ IX. **Sales Estimate** <br>
 	A. [Creating a New Sales Estimate Order Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Confirming%20a%20Sales%20Estimate.md)<br>
 	B. [Deleting a Sales Estimate Order Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Deleting%20a%20Sales%20Estimate%20Order%20Item.md)<br>
 	C. [Confirming a Sales Estimate](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Confirming%20a%20Sales%20Estimate.md)<br>
-X. [Adjusting Prices and Quantities in Sales Order](Adjusting%20Prices%20and%20Quantities%20in%20Sales%20Order.md)
+X. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adjusting%20Prices%20and%20Quantities%20in%20Sales%20Order.md)
 ###  Search on Horizon
 
 I. [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md)<br>
