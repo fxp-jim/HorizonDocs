@@ -1,4 +1,3 @@
-
 This table of contents provides a structured overview of the user guide, allowing users to quickly find relevant information about using the Horizon file effectively.
 
 ### Getting Started
