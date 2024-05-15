@@ -8,7 +8,6 @@ _________________________
 3. Inside, click on **Order Management**, then **Estimates**.
 
 4. Find the party's name on the left side. You can search using either the [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md).
-
 5. Once you've selected the party, click on the **confirm** button, provided there are already line items in it. Wait until the sales estimate status indicates **confirmed**.
   
 ⚠️ Note: Once a sales estimate is confirmed, the system will automatically generate a sales order. Additionally, after confirmation, you won't be able to change the customer tier, sales channel, or payment terms. You also won't be able to delete line items or undo the confirmation.

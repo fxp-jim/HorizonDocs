@@ -2,7 +2,7 @@
 __________________________________
 ##### Log in using your Horizon login information
 
-1. [Launch horizon file.](Launching%20Horizon%20File.md)
+1. [Launch Horizon file.](Launching%20Horizon%20File.md)
 
 2. Go to Horizon log in page.
 
