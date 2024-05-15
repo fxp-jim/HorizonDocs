@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/QBO Integration (Push and Pull).md",
+    "Horizon User Guide/Searching on Horizon/Browse Mode.md",
+    "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
+    "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
+    "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/Customers/Creating a New Customer Record.md",
     "Horizon User Guide/Customers/Creating a Payment Plan.md",
@@ -159,9 +164,6 @@
     "Horizon User Guide/Customers/Deleting a Payment Record.md",
     "Horizon User Guide/Customers/Creating a Payment Record.md",
     "Horizon User Guide/Customers/Confirming a Payment Record.md",
-    "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
-    "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
-    "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
     "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Orders.md",
@@ -173,8 +175,6 @@
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
     "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/Getting Started/Resetting Your Password.md",
-    "Horizon User Guide/Getting Started/Logging Out of Horizon.md",
-    "Horizon User Guide/Getting Started/Logging Into Horizon.md",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",
     "assets/4_sales_order_find_mode.png",

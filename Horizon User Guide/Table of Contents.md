@@ -47,7 +47,7 @@ XI. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Servic
 
 ### Bill of Materials (BOM)
 
-I. [Creating a Bill of Materials (BOM) Record](Creating%20a%20Bill%20of%20Materials%20(BOM)%20Record.md)
+I. [Creating a Bill of Materials (BOM) Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Bill%20of%20Materials%20(BOM)/Creating%20a%20Bill%20of%20Materials%20(BOM)%20Record.md)
 
 ###  Search on Horizon
 
