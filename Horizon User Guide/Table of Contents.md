@@ -11,9 +11,9 @@ V. [Resetting Your Password](https://github.com/Fx-Professional-Services/Horizon
 VI. [Deleting Your Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Deleting%20Your%20Account.md)<br>
 ### All Parties
 
-I. [Creating a New Customer Record](Creating%20a%20New%20Customer%20Record.md) <br>
-II. [Creating a New Employee Record](Creating%20a%20New%20Employee%20Record.md) <br>
-III. [Creating a New Vendor Record](Creating%20a%20New%20Vendor%20Record.md)
+I. [Creating a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20New%20Customer%20Record.md) <br>
+II. [Creating a New Employee Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20New%20Employee%20Record.md) <br>
+III. [Creating a New Vendor Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20new%20Vendor%20Record.md)
 
 ### Customers 
 
