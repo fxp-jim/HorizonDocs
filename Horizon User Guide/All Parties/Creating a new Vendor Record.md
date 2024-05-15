@@ -22,8 +22,7 @@ Follow these steps to create a new vendor record:
     - Tick the box under **Primary** next to at least one contact method. This indicates the preferred way to contact the vendor.
     
     ⚠️ Note: You won't be able to save the information until you've chosen a primary contact method.
-
-	![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/2_sales_order_primary_contact.png)
+    
 6. **Save the Record**:
     
     - After entering all the vendor's personal information and selecting a primary contact method, click **Save** located at the bottom right corner of the form.

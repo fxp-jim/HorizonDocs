@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+                "file": "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 259.5
   },
   "right": {
     "id": "d66a91847eddf6fc",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+                "file": "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+                "file": "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/All Parties/Creating a New Vendor Record.md"
+                "file": "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md"
               }
             }
           }
@@ -159,37 +159,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3edcff994e0dfbf",
+  "active": "22b6989c1ca2ac75",
   "lastOpenFiles": [
-    "Horizon User Guide/Table of Contents.md",
-    "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
-    "Horizon User Guide/All Parties/Creating a New Customer Record.md",
-    "Horizon User Guide/All Parties/Creating a New Employee Record.md",
-    "Horizon User Guide/Customers/Creating a New Customer Record 1.md",
-    "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
-    "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
-    "Horizon User Guide/Customers/Confirming a Payment Record.md",
-    "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
-    "Horizon User Guide/All Parties",
-    "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
-    "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
-    "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
-    "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Orders.md",
-    "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
-    "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
     "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
-    "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
-    "Horizon User Guide/Searching on Horizon/Find Mode.md",
-    "Horizon User Guide/Sales Orders/Discounts",
     "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
-    "Horizon User Guide/QBO Integration (Push and Pull).md",
-    "Horizon User Guide/Searching on Horizon/Browse Mode.md",
+    "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
+    "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
+    "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Orders.md",
+    "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Deleting a Sales Estimate Order Item.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Creating a New Sales Estimate Order Item.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
+    "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
+    "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
+    "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/Getting Started/Resetting Your Password.md",
+    "Horizon User Guide/Getting Started/Logging Out of Horizon.md",
+    "Horizon User Guide/Getting Started/Logging Into Horizon.md",
+    "Horizon User Guide/Getting Started/Launching Horizon File.md",
+    "Horizon User Guide/Getting Started/Launch Horizon File (Simplified).md",
+    "Horizon User Guide/Getting Started/Deleting Your Account.md",
+    "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
+    "Horizon User Guide/Customers/Unconfirming Payment Record.md",
+    "Horizon User Guide/Customers/Deleting a Payment Record.md",
+    "Horizon User Guide/Customers/Creating a Payment Record.md",
+    "Horizon User Guide/Customers/Creating a New Customer Record.md",
+    "Horizon User Guide/Customers/Confirming a Payment Record.md",
+    "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+    "assets/2_sales_order_primary_contact.png",
+    "assets/3_sales_order_gear_icon.png",
     "assets/4_sales_order_find_mode.png",
+    "Horizon User Guide/All Parties",
+    "Horizon User Guide/Sales Orders/Discounts",
     "assets/push_push_button.png",
     "assets/push_main_menu>customers.png",
     "assets/push_data_push_successful.png",
@@ -197,8 +199,6 @@
     "assets/push_customer's_name_search_result.png",
     "assets/push_customer's_name_search_bar.png",
     "assets/push_customer's_name.png",
-    "assets/pull_succesful_data_pull.png",
-    "assets/pull_payment terms>pull button.png",
     "Horizon User Guide/Invoice",
     "Horizon User Guide/Sales Orders/Receiving Orders",
     "Horizon User Guide/Sales Orders/Sales Estimates",
