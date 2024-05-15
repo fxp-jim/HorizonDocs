@@ -1,6 +1,5 @@
 ### Remove Applied Discounts to Sales Order Line Items
 _____________________________________
-
 Follow these steps to take off any discounts applied to your sales order:
 
 1. **Access Sales Orders**:

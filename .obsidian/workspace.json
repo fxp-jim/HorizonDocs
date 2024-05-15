@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md"
               }
             }
           }
@@ -161,25 +161,25 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Order.md",
+    "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
+    "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
+    "Horizon User Guide/Sales Orders/Adjusting Prices and Quantities in Sales Orders.md",
+    "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
+    "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
     "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
+    "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
     "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
-    "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Searching on Horizon/Find Mode.md",
-    "Horizon User Guide/Sales Orders/Untitled.md",
     "Horizon User Guide/Sales Orders/Discounts",
     "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
-    "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
     "Horizon User Guide/QBO Integration (Push and Pull).md",
     "Horizon User Guide/Searching on Horizon/Browse Mode.md",
-    "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
-    "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Deleting a Sales Estimate Order Item.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Creating a New Sales Estimate Order Item.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
-    "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
     "Horizon User Guide/Getting Started/Resetting Your Password.md",
     "Horizon User Guide/Getting Started/Logging Out of Horizon.md",

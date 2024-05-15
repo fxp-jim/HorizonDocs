@@ -1,4 +1,4 @@
-### Adjust prices and quantities of sales orders
+### Adjust prices and quantities in sales orders
 ______________________________________
 Follow these steps to update the prices or quantities of items in your sales order:
 
