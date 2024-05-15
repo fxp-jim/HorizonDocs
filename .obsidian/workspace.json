@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 354.5
   },
   "right": {
     "id": "d66a91847eddf6fc",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
     "Horizon User Guide/Customers/Unconfirming Payment Record.md",
     "Horizon User Guide/Customers/Deleting a Payment Record.md",
     "Horizon User Guide/Customers/Creating a Payment Record.md",
     "Horizon User Guide/Customers/Confirming a Payment Record.md",
-    "Horizon User Guide/Customers/Creating a Customer's Payment Plan.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Omitting a Sales Order Record.md",
     "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
