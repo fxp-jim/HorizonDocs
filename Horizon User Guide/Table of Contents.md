@@ -39,7 +39,7 @@ X. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Profes
 
 XI. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Sales%20Order%20Line%20Item.md)
 
-XII. [Creating a new Vendor Record](Creating%20a%20new%20Vendor%20Record.md)
+XII. [Creating a new Vendor Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20new%20Vendor%20Record.md)
 ###  Search on Horizon
 
 I. [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md)<br>
