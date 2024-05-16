@@ -30,7 +30,7 @@ III. [Confirming a Sales Order](https://github.com/Fx-Professional-Services/Hori
 IV. [Unconfirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Unconfirming%20a%20Sales%20Order.md)<br>
 V. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Generating%20Sales%20Order%20Invoices.md)<br>
 VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md)<br>
-VII. [Printing Sales Orders](Printing%20Sales%20Orders.md) <br>
+VII. [Printing Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Printing%20Sales%20Orders.md) <br>
 VII. **Discounts** <br>
 	A. [Applying Discounts to Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Discounts/Applying%20Discounts%20to%20Sales%20Orders.md)<br>
 	B. [Removing Applied Discounts to Sales Order Line Items](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Discounts/Removing%20Applied%20Discounts%20to%20Sales%20Order%20Line%20Items.md)<br>
@@ -42,7 +42,7 @@ IX. **Sales Estimate** <br>
 	A. [Creating a New Sales Estimate Order Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Confirming%20a%20Sales%20Estimate.md)<br>
 	B. [Deleting a Sales Estimate Order Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Deleting%20a%20Sales%20Estimate%20Order%20Item.md)<br>
 	C. [Confirming a Sales Estimate](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Confirming%20a%20Sales%20Estimate.md)<br>
-	D. [Printing Sales Estimates](Printing%20Sales%20Estimates.md) <br>
+	D. [Printing Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Printing%20Sales%20Estimates.md) <br>
 	
 X. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adjusting%20Prices%20and%20Quantities%20in%20Sales%20Order.md)
 
@@ -50,7 +50,8 @@ XI. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Servic
 
 ### Bill of Materials (BOM)
 
-I. [Creating a Bill of Materials (BOM) Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Bill%20of%20Materials%20(BOM)/Creating%20a%20Bill%20of%20Materials%20(BOM)%20Record.md)
+I. [Creating a Bill of Materials (BOM) Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Bill%20of%20Materials%20(BOM)/Creating%20a%20Bill%20of%20Materials%20(BOM)%20Record.md) <br>
+II. [Selecting Active Bill of Materials (BOMs)  for Products](Selecting%20Active%20Bill%20of%20Materials%20(BOMs)%20%20for%20Products.md)
 
 ###  Search on Horizon
 
