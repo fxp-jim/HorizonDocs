@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Printing Sales Orders.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Printing Sales Orders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Printing Sales Orders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/Sales Orders/Printing Sales Orders.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Horizon User Guide/Bill of Materials (BOM)/Selecting Active Bill of Materials (BOMs)  for Products.md",
+    "Horizon User Guide/Sales Orders/Sales Estimates/Printing Sales Estimates.md",
+    "Horizon User Guide/Sales Orders/Adding Taxable Line Items to a Sales Order.md",
+    "Horizon User Guide/Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
+    "Horizon User Guide/Sales Orders/Printing Sales Orders.md",
+    "Horizon User Guide/Customers/Confirming a Payment Record.md",
     "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Creating a New Sales Estimate Order Item.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
@@ -157,9 +162,6 @@
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
     "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
-    "Horizon User Guide/Table of Contents.md",
-    "Horizon User Guide/Sales Orders/Sales Estimates/Printing Sales Estimates.md",
-    "Horizon User Guide/Sales Orders/Printing Sales Orders.md",
     "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Creating Sales Orders.md",
     "Horizon User Guide/Getting Started/Logging Into Horizon.md",
@@ -167,13 +169,11 @@
     "Horizon User Guide/Customers/Creating a Payment Record.md",
     "Horizon User Guide/Customers/Creating a Payment Plan.md",
     "Horizon User Guide/Customers/Creating a New Customer Record.md",
-    "Horizon User Guide/Customers/Confirming a Payment Record.md",
     "Horizon User Guide/Sales Orders/Deleting a Product in Sales Orders.md",
     "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
     "Horizon User Guide/Untitled.md",
     "Horizon User Guide/QBO Integration (Push and Pull).md",
     "Horizon User Guide/Searching on Horizon/Browse Mode.md",
-    "Horizon User Guide/Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",
