@@ -43,6 +43,7 @@ IX. **Sales Estimate** <br>
 	B. [Deleting a Sales Estimate Order Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Deleting%20a%20Sales%20Estimate%20Order%20Item.md)<br>
 	C. [Confirming a Sales Estimate](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Confirming%20a%20Sales%20Estimate.md)<br>
 	D. [Printing Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Printing%20Sales%20Estimates.md) <br>
+	E. [Deleting Sales Channels, Customer Tiers, or Payment Terms](Deleting%20Sales%20Channels,%20Customer%20Tiers,%20or%20Payment%20Terms.md) <br>
 	
 X. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adjusting%20Prices%20and%20Quantities%20in%20Sales%20Order.md)
 
