@@ -5,7 +5,7 @@ ______________________________
 
 1. [Launch Horizon file.](Launching%20Horizon%20File.md)
 
- 2. On the Horizon login page, type the **account name** --- the email listed on your Horizon account (e.g., xxx@gmail.com). 
+ 2. On the Horizon login page, type the **account name**—the email listed on your Horizon account (e.g., xxx@gmail.com). 
 
 3. Click on **Reset Password.**
 
