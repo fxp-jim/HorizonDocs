@@ -25,7 +25,7 @@ The Create Account module is a key part of Horizon, allowing users to sign up an
 
 9. Choose a primary contact method by ticking the box under **Primary**, then click **Save**. 
 
-	Note: A primary contact method must be selected to save changes.
+	⚠️ Note: A primary contact method must be selected to save changes.
 
 10. Click **OK** when you see the **Account Created** notification.
 
@@ -37,7 +37,7 @@ The Create Account module is a key part of Horizon, allowing users to sign up an
 
 2. Fill in **New Employee** details, including the user name and contact information. Ensure you input at least their first name and choose a primary contact method by ticking the box under **Primary**, then click **Save**. 
 
-	Note: A primary contact method must be selected to save changes.
+	⚠️ Note: A primary contact method must be selected to save changes.
 
 3. Click on the newly created employee record. 
 
@@ -53,7 +53,7 @@ The Create Account module is a key part of Horizon, allowing users to sign up an
 
 8. Open the email titled **Request for Horizon Access.** Copy the link inside, paste it into your browser's address bar, and press Return (if you're on Mac) to **Open FileMaker Pro.** You'll be taken back to Horizon.
 
-	Note: The link expires in 15 minutes. 
+	⚠️ Note:  The link expires in 15 minutes. 
 
 9. Create new **password** and click **Continue**. (You may need to delete the system-generated password.) 
 

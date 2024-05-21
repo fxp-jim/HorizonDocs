@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Launching Horizon File.md",
+                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Launching Horizon File.md",
+                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Launching Horizon File.md",
+                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Launching Horizon File.md"
+                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Horizon User Guide/Getting Started/Launch Horizon File (Simplified).md",
+    "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
     "Horizon User Guide/Getting Started/Launching Horizon File.md",
+    "Horizon User Guide/Getting Started/Launch Horizon File (Simplified).md",
     "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/Table of Contents.md",
-    "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Deleting Sales Channels, Customer Tiers, or Payment Terms.md",
     "Untitled.canvas",
     "Horizon User Guide/Sales Orders/Sales Estimates/Deleting a Sales Estimate Order Item.md",
