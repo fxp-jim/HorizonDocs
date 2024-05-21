@@ -13,7 +13,7 @@ ______________________________
 
 5. Open the Horizon email titled **Request for Password Reset**. Copy the link inside, paste it into your browser's address bar, and press Return (if you're on Mac) to  **Open FileMaker Pro.** You'll be taken back to Horizon.
 
-	Note: The link expires in 15 minutes.
+	⚠️ Note: The link expires in 15 minutes.
 
 6. Type in your new password. You may have to delete the system-generated password.
 
@@ -35,7 +35,7 @@ ______________________________
 
 6. Open the Horizon email titled **Request for Password Reset**. Copy the link inside, paste it into your browser's address bar, and press Return (if you're on Mac) to **Open FileMaker Pro.** You'll be taken back to Horizon.
 
-	Note: The link expires in 15 minutes.
+	⚠️ Note: The link expires in 15 minutes.
 
 7. Type in your **new password**. You may have to delete the system-generated password. 
 

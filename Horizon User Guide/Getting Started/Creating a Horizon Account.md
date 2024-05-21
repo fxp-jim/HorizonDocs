@@ -15,7 +15,7 @@ The Create Account module is a key part of Horizon, allowing users to sign up an
 
 5. Open the email titled **Request for Horizon Access.** Copy the link inside, paste it into your browser's address bar, and press Return (if you're on Mac) to  **Open FileMaker Pro.** You'll be taken back to Horizon.
 
-	Note: The link expires in 15 minutes. 
+	⚠️ Note: The link expires in 15 minutes. 
 	
 6. Select an access **privilege** that aligns with your role in the system, such as accountant, caterer, chef, guest, manager, planner, system administrator, or waiter. (Your **account name** will be auto-entered and cannot be edited.)
 
