@@ -10,7 +10,7 @@ Note: You must first Open FileMaker Pro application in order to launch Horizon f
 3. **Choose your server**: After selecting **Hosts** from the **File** menu, you'll likely see a list of servers. These are computers or devices that are hosting FileMaker Pro databases. Select the server that you want to connect to by clicking on it.
     
 4. Launch Horizon file. 
-	• After selecting your server, look for the Horizon file, and click on it. 
-	• Click OK to confirm your selection. 
+	• After selecting your server, look for the Horizon file, and click on it. <br>
+	• Click OK to confirm your selection.  <br>
 
 By following these steps, you should be able to launch the FileMaker Pro application, connect to a server, and open the **Horizon** file within the application.

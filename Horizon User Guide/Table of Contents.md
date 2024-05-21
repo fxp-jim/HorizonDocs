@@ -16,7 +16,7 @@ III. [Creating a New Vendor Record](https://github.com/Fx-Professional-Services/
 
 ### Customers 
 
-I. [Creating a Customer's New Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Creating%20a%20Customer's%20New%20Record.md)<br>
+I. [Creating a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20New%20Customer%20Record.md) <br>
 II. [Creating a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Creating%20a%20Payment%20Record.md)<br>
 III. [Confirming a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Confirming%20a%20Payment%20Record.md)<br>
 IV. [Unconfirming Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Unconfirming%20Payment%20Record.md)<br>
