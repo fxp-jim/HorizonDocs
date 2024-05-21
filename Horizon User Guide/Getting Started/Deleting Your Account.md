@@ -9,7 +9,7 @@ _______________________
 
 #### Learn how to permanently delete your Horizon account. 
 
-Note: You cannot delete your Horizon account using your own account.  You need to log in using another user's account to delete yours. 
+⚠️ Note: You cannot delete your Horizon account using your own account.  You need to log in using another user's account to delete yours. 
 
 To permanently delete your account: 
 
