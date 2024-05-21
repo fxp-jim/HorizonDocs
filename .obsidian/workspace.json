@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+    "assets/4_sales_order_find_mode.png",
+    "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
     "Horizon User Guide/All Parties/Creating a New Employee Record.md",
     "Horizon User Guide/All Parties/Creating a New Customer Record.md",
     "Horizon User Guide/Getting Started/Deleting Your Account.md",
@@ -173,12 +175,9 @@
     "Horizon User Guide/Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
     "Horizon User Guide/Sales Orders/Receiving Orders/Creating a Receiving Order.md",
     "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
-    "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
-    "Horizon User Guide/Sales Orders/Confirming a Sales Order.md",
     "Horizon User Guide/Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",
-    "assets/4_sales_order_find_mode.png",
     "Horizon User Guide/All Parties",
     "Horizon User Guide/Sales Orders/Discounts",
     "assets/push_push_button.png",
