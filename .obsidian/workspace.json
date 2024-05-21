@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
+                "file": "Horizon User Guide/Getting Started/Logging Into Horizon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
+                "file": "Horizon User Guide/Getting Started/Logging Into Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
+                "file": "Horizon User Guide/Getting Started/Logging Into Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Creating a Horizon Account.md"
+                "file": "Horizon User Guide/Getting Started/Logging Into Horizon.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Getting Started/Deleting Your Account.md",
+    "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
     "Horizon User Guide/Getting Started/Launching Horizon File.md",
     "Horizon User Guide/Getting Started/Launch Horizon File (Simplified).md",
-    "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Deleting Sales Channels, Customer Tiers, or Payment Terms.md",
     "Untitled.canvas",
@@ -174,7 +175,6 @@
     "Horizon User Guide/Customers/Creating a Payment Record.md",
     "Horizon User Guide/Customers/Creating a Payment Plan.md",
     "Horizon User Guide/Customers/Creating a New Customer Record.md",
-    "Horizon User Guide/Sales Orders/Deleting a Product in Sales Orders.md",
     "Horizon User Guide/Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",
