@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/All Parties/Creating a New Vendor Record.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/All Parties/Creating a New Employee Record.md",
     "Horizon User Guide/All Parties/Creating a New Customer Record.md",
     "Horizon User Guide/Getting Started/Deleting Your Account.md",

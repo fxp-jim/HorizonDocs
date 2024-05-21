@@ -12,7 +12,7 @@ VI. [Deleting Your Account](https://github.com/Fx-Professional-Services/HorizonD
 
 I. [Creating a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20New%20Customer%20Record.md) <br>
 II. [Creating a New Employee Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20New%20Employee%20Record.md) <br>
-III. [Creating a New Vendor Record] (https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20new%20Vendor%20Record.md <br>
+III. [Creating a New Vendor Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20new%20Vendor%20Record.md)<br>
 
 ### Customers 
 
