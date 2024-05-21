@@ -17,7 +17,7 @@ For **ACH**:
 For **Card**:
 1. **Enter Payment Info** including **card type,** **expiration,** **card number.** You can also add **memo** for additional notes. 
 2. You have the option to [confirm your payment transaction](Confirming%20a%20Payment%20Record.md).
-3. Click **Process Payment** to proceed with payment. 
+3. Click **Process Payment** to proceed with the payment. 
 4. Click **Save and Close** to save changes. Otherwise, click **Cancel Payment.**
 
 For **Check:**
