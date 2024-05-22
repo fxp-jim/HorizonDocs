@@ -1,13 +1,13 @@
-### Use Find Mode
+## Use Find Mode
 ______________________
-#### To utilize **Find Mode** in **Customers** file: 
+### To utilize **Find Mode** in **Customers** file: 
 
 1. Click on **Find Mode** located in the **Options** row at the top right corner of the screen.
 
 2. In the left pane, click on the search icon (🔎) and type the customer's name.
 
 
-#### To utilize **Find Mode** in **Sales Orders** file: 
+### To utilize **Find Mode** in **Sales Orders** file: 
 
 1. Click on **Find Mode** in the **Options** row at the top right corner of the screen.
     
