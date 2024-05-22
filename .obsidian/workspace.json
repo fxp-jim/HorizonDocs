@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Products/Deleting a Product.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Products/Deleting a Product.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Products/Deleting a Product.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Products/Deleting a Product.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Products/Deleting a Product.md",
     "Horizon User Guide/Products/Adding a New Product.md",
     "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
-    "Horizon User Guide/Products/Deleting a Product.md",
     "Horizon User Guide/Sales Orders/Deleting a Product in Sales Orders.md",
     "Horizon User Guide/Products",
     "Horizon User Guide/Table of Contents.md",
