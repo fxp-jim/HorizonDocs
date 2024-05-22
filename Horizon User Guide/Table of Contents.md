@@ -22,6 +22,8 @@ III. [Confirming a Payment Record](https://github.com/Fx-Professional-Services/H
 IV. [Unconfirming Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Unconfirming%20Payment%20Record.md)<br>
 V. [Deleting a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Deleting%20a%20Payment%20Record.md)<br>
 VI. [Creating a Customer's Payment Plan](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Creating%20a%20Customer's%20Payment%20Plan.md)
+
+VII. [Adding a Payment Card](Adding%20a%20Payment%20Card.md)
 ### Sales Orders
 
 I. [Creating Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Creating%20Sales%20Orders.md)<br>
