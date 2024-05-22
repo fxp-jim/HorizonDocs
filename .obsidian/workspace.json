@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Sales Orders/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Horizon User Guide/Sales Orders/Sales Estimates/Deleting Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/Sales Orders/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
+    "Horizon User Guide/Sales Orders/Sales Estimates/Deleting Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",

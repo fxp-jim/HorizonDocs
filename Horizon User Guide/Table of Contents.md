@@ -49,6 +49,10 @@ X. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Profes
 
 XI. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Sales%20Order%20Line%20Item.md)
 
+XII. [Deleting a Customer Tier,  Sales Channel, and Payment Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Customer%20Tier%2C%20%20Sales%20Channel%2C%20and%20Payment%20Terms.md)
+
+
+
 ### Bill of Materials (BOM)
 
 I. [Creating a Bill of Materials (BOM) Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Bill%20of%20Materials%20(BOM)/Creating%20a%20Bill%20of%20Materials%20(BOM)%20Record.md) <br>
