@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Products/Adding a New Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Products/Adding a New Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Products/Adding a New Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/Products/Adding a New Product.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Horizon User Guide/Products/Deleting a Product in Sales Orders.md",
+    "Horizon User Guide/Products/Adding a New Product.md",
+    "Horizon User Guide/Products",
     "Horizon User Guide/Table of Contents.md",
-    "Horizon User Guide/Sales Orders/Deleting a Product in Sales Orders.md",
+    "Untitled.canvas",
     "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Customers/Adding a Payment Card.md",
@@ -174,7 +176,6 @@
     "Horizon User Guide/Customers/Unconfirming Payment Record.md",
     "assets/4_sales_order_find_mode.png",
     "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
-    "Horizon User Guide/All Parties/Creating a New Employee Record.md",
     "Horizon User Guide/Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",
@@ -192,7 +193,6 @@
     "Horizon User Guide/Sales Orders/Sales Estimates",
     "Horizon User Guide/Searching on Horizon",
     "Horizon User Guide/Getting Started",
-    "Horizon User Guide/Sales Orders",
-    "Horizon User Guide/Customers"
+    "Horizon User Guide/Sales Orders"
   ]
 }
