@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Searching on Horizon/Using Find Mode.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Searching on Horizon/Using Find Mode.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Searching on Horizon/Using Find Mode.md",
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Searching on Horizon/Using Find Mode.md"
+                "file": "Horizon User Guide/Searching on Horizon/Find Mode.md"
               }
             }
           }
@@ -153,7 +153,7 @@
     "Horizon User Guide/Customers/Creating a Payment Plan.md",
     "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/Getting Started/Resetting Your Password.md",
-    "Horizon User Guide/Searching on Horizon/Using Find Mode.md",
+    "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/Customers/Confirming a Payment Record.md",
