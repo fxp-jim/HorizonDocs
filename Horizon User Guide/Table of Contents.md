@@ -26,7 +26,6 @@ VII. [Adding a Payment Card](https://github.com/Fx-Professional-Services/Horizon
 ### Products
 
 I. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md)
-
 II. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)
 
 ### Sales Orders
