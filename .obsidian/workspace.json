@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Resetting Your Password.md",
+                "file": "Horizon User Guide/Customers/Adding a Payment Card.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Resetting Your Password.md",
+                "file": "Horizon User Guide/Customers/Adding a Payment Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Resetting Your Password.md",
+                "file": "Horizon User Guide/Customers/Adding a Payment Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Getting Started/Resetting Your Password.md"
+                "file": "Horizon User Guide/Customers/Adding a Payment Card.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Customers/Creating a Payment Plan.md",
+    "Horizon User Guide/Customers/Adding a Payment Card.md",
+    "Horizon User Guide/Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
+    "Horizon User Guide/Getting Started/Resetting Your Password.md",
     "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
@@ -162,7 +166,6 @@
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
     "Horizon User Guide/Sales Orders/Creating a Sales Order.md",
     "Horizon User Guide/Customers/Creating a Payment Record.md",
-    "Horizon User Guide/Customers/Creating a Payment Plan.md",
     "Horizon User Guide/Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Customers/Creating a New Customer Record.md",
     "Horizon User Guide/Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
@@ -172,9 +175,6 @@
     "Horizon User Guide/All Parties/Creating a New Employee Record.md",
     "Horizon User Guide/All Parties/Creating a New Customer Record.md",
     "Horizon User Guide/Getting Started/Deleting Your Account.md",
-    "Horizon User Guide/Getting Started/Resetting Your Password.md",
-    "Horizon User Guide/Getting Started/Logging Into Horizon.md",
-    "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
     "Untitled.canvas",
     "Horizon User Guide/Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
