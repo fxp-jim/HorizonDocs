@@ -14,8 +14,6 @@ ______________________
 2. In the left pane, click on any of the search icons. (Refer to the picture below <br> <br>
 ![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_sales_order_find_mode.png) <br> <br>
 • **Top left:** Search by typing the party's name; 
-
 • **Bottom left:** Search by entering the **Start At** date (month/date/year); or
-
 • Right side: Enter the total cost. 
 
