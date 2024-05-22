@@ -6,6 +6,11 @@ ______________________
 
 2. In the left pane, click on the search icon (🔎) and type the customer's name.
 
+### To utilize **Find Mode** in Bills of Materials (BOM) file: 
+
+1. Click on **Find Mode** located in the **Options** row at the top right corner of the screen.
+
+2.  In the left pane, click on the search icon (🔎) and type the name of the material.
 
 ### To utilize **Find Mode** in **Sales Orders** file: 
 
