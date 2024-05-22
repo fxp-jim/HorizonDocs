@@ -13,7 +13,7 @@ Applying discounts is crucial for ensuring competitive pricing and effective man
 
 ⚠️ Note: Even after discounts are applied, you can still add more sales order items. The discount values will be updated accordingly.
 
-6. Finally, click **Save Changes** to apply the discount to the sales order.
+5. Finally, click **Save Changes** to apply the discount to the sales order.
 
 ### Apply Fixed Discounts to Sales Orders
 ____________________________
@@ -26,5 +26,7 @@ Applying discounts is crucial for ensuring competitive pricing and effective man
 3. Scroll down to the **Discounts** section at the bottom and click **select discount**. 
 
 4. In the pop-up picker, choose a fixed discount (x$ off) by clicking the add button (✚), then click **Done**. The discount value will be automatically applied to the **subtotal** and **total** costs.
+
+⚠️ Note: Even after discounts are applied, you can still add more sales order items. The discount values will be updated accordingly.
 
 5. Finally, click **Save Changes** to apply the discount to the sales order.
