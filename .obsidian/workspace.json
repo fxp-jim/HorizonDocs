@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md"
               }
             }
           }
@@ -148,14 +149,18 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Horizon User Guide/Customers/Confirming a Payment Record.md",
+    "Horizon User Guide/Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
+    "Horizon User Guide/Sales Orders/Discounts/Adding.md",
+    "Horizon User Guide/Sales Orders/Printing Sales Orders.md",
+    "Horizon User Guide/Sales Orders/To Be Continued Deleting a Product in Sales Orders.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/Sales Orders/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Deleting Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
     "Horizon User Guide/Sales Orders/Unconfirming a Sales Order.md",
-    "Horizon User Guide/Sales Orders/To Be Continued Deleting a Product in Sales Orders.md",
     "Horizon User Guide/Sales Orders/Creating a Sales Order.md",
-    "Horizon User Guide/Customers/Confirming a Payment Record.md",
     "Horizon User Guide/Customers/Creating a Payment Record.md",
     "Horizon User Guide/Customers/Creating a Payment Plan.md",
     "Horizon User Guide/Searching on Horizon/Browse Mode.md",
@@ -163,7 +168,6 @@
     "Horizon User Guide/Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/Customers/Unconfirming Payment Record.md",
     "assets/4_sales_order_find_mode.png",
-    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
     "Horizon User Guide/All Parties/Creating a New Employee Record.md",
     "Horizon User Guide/All Parties/Creating a New Customer Record.md",
@@ -172,10 +176,7 @@
     "Horizon User Guide/Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/Getting Started/Logging Into Horizon.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
-    "Horizon User Guide/Getting Started/Launching Horizon File.md",
-    "Horizon User Guide/Getting Started/Launch Horizon File (Simplified).md",
     "Untitled.canvas",
-    "Horizon User Guide/Sales Orders/Sales Estimates/Deleting a Sales Estimate Order Item.md",
     "Horizon User Guide/Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",

@@ -11,7 +11,9 @@ Applying discounts is crucial for ensuring competitive pricing and effective man
 
 4. In the pop-up picker, choose a percent discount (x% off) by clicking the add button (✚), then click **Done**. The discount value will be automatically applied to the **subtotal** and **total** costs.
 
-5. Finally, click **Save Changes** to apply the discount to the sales order.
+⚠️ Note: Even after discounts are applied, you can still add more sales order items. The discount values will be updated accordingly.
+
+6. Finally, click **Save Changes** to apply the discount to the sales order.
 
 ### Apply Fixed Discounts to Sales Orders
 ____________________________
