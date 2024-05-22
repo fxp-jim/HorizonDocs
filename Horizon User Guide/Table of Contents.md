@@ -50,6 +50,7 @@ IX. **Sales Estimate** <br>
 X. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adjusting%20Prices%20and%20Quantities%20in%20Sales%20Order.md) <br>
 XI. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Sales%20Order%20Line%20Item.md) <br>
 XII. [Deleting a Customer Tier,  Sales Channel, and Payment Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Customer%20Tier%2C%20%20Sales%20Channel%2C%20and%20Payment%20Terms.md) <br>
+XIII. [Deleting a Product in Sales Orders](Deleting%20a%20Product%20in%20Sales%20Orders.md)
 
 ### Bill of Materials (BOM)
 

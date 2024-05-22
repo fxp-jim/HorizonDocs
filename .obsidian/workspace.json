@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -148,7 +148,10 @@
   },
   "active": "b3edcff994e0dfbf",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/Sales Orders/Deleting a Product in Sales Orders.md",
+    "Horizon User Guide/Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Customers/Adding a Payment Card.md",
     "Horizon User Guide/Customers/Creating a Payment Plan.md",
@@ -159,7 +162,6 @@
     "Horizon User Guide/Customers/Confirming a Payment Record.md",
     "Horizon User Guide/Sales Orders/Discounts/Adding.md",
     "Horizon User Guide/Sales Orders/Printing Sales Orders.md",
-    "Horizon User Guide/Sales Orders/To Be Continued Deleting a Product in Sales Orders.md",
     "Horizon User Guide/Sales Orders/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
     "Horizon User Guide/Sales Orders/Sales Estimates/Deleting Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/Sales Orders/Deleting a Sales Order Line Item.md",
@@ -173,9 +175,6 @@
     "assets/4_sales_order_find_mode.png",
     "Horizon User Guide/All Parties/Creating a New Vendor Record.md",
     "Horizon User Guide/All Parties/Creating a New Employee Record.md",
-    "Horizon User Guide/All Parties/Creating a New Customer Record.md",
-    "Horizon User Guide/Getting Started/Deleting Your Account.md",
-    "Untitled.canvas",
     "Horizon User Guide/Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",
