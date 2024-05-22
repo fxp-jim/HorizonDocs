@@ -13,8 +13,8 @@ ______________________
 #### To use **Find Mode** in **Sales Orders** file: 
 
 1. Click Find Mode in the **Options** row at the top right. 
-2. In the left pane, click on any of the search icons.  (See picture below) <br>
-![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_sales_order_find_mode.png) <br>
+2. In the left pane, click on any of the search icons.  (See picture below) <br> <br>
+![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_sales_order_find_mode.png) <br> <br>
 • Top left: Search by typing the party's name; 
 
 • Bottom left: Search by entering the **Start At** date (month/date/year); or
