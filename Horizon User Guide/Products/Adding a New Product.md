@@ -8,5 +8,6 @@ Here's a simple guide to create a product:
     - **Name**: [Enter the name of the product]
     - **Replenishment Method**: Choose from build, purchase, stock, or pick.
     - **Preferred Vendor**: Choose your vendor from the pop-up menu.
+⚠️ Note: Lead time will be automatically entered. 
 
 That's it! You've successfully added a new product. If you have additional questions, kindly reach out to our support team for assistance.
