@@ -16,10 +16,11 @@ ______________________________
 	⚠️ Note: The link expires in 15 minutes.
 
 6. Type in your new password. You may have to delete the system-generated password.
+	💡 Tip: To easily move the cursor to the next field, consider using the tab key on your keyboard.
 
 7. Click **Change Password**. 
 
-8. Click OK when you see the sucesfull **Password Reset** notification.
+8. Click OK when you see the sucessfull **Password Reset** notification.
 
 **To reset your password if you're logged in to Horizon:
 

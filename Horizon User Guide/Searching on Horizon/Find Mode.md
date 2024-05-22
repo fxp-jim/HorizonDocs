@@ -1,7 +1,7 @@
 ### Use Find Mode
 ______________________
 
-#### To utilize **Find Mode** in **Customers** module: 
+#### To utilize **Find Mode** in **Customers** file: 
 
 1. Click Find Mode in the **Options** row at the top right. 
 
@@ -10,7 +10,7 @@ ______________________
 
 
 
-#### To use **Find Mode** in **Sales Orders** module: 
+#### To use **Find Mode** in **Sales Orders** file: 
 
 1. Click Find Mode in the **Options** row at the top right. 
 2. In the left pane, click on any of the search icons.  (See picture below)
