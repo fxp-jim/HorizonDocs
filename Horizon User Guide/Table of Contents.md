@@ -31,8 +31,9 @@ II. All Products <br>
     A. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
     B. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)<br>
 III. Services <br>
+
 IV. Configurators <br>
-	IV. a. [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Configurators/Creating%20a%20Configurator.md)<br>
+	A.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Configurators/Creating%20a%20Configurator.md)<br>
 V. All Equipment <br>
 
 ### Sales Orders
