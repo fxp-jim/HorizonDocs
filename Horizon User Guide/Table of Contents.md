@@ -29,7 +29,7 @@ VII. [Adding a Payment Card](https://github.com/Fx-Professional-Services/Horizon
 ### Products
 
 A. All Items <br>
-    1. [Adding Existing Items to Products, Services, Configuration, Equipment, or Discount](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/All%20Items/Adding%20Existing%20Items%20to%20Products%2C%20Services%2C%20Configuration%2C%20Equipment%2C%20or%20Discount.md) <br>
+    1. [Adding Existing Items to Products, Services, Configuration, Equipment, or Discount](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/A.%20All%20Items/Adding%20Existing%20Items%20to%20Products%2C%20Services%2C%20Configuration%2C%20Equipment%2C%20or%20Discount.md) <br>
     
 B. All Products <br>
     1. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
