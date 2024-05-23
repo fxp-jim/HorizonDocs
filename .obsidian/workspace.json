@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66d58b2ff5b90321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horizon User Guide/Table of Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,24 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3edcff994e0dfbf",
+  "active": "66d58b2ff5b90321",
   "lastOpenFiles": [
+    "Horizon User Guide/IV. Products/All Items/Adding Existing Items to Products, Services, Configuration, Equipment, or Discount.md",
+    "Horizon User Guide/V. Sales Orders/Receiving Orders/Creating a Receiving Order.md",
+    "Horizon User Guide/V. Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
+    "Horizon User Guide/IV. Products/D. All Equipment",
+    "Horizon User Guide/IV. Products/All Items/Untitled",
+    "Horizon User Guide/IV. Products/B. Services",
+    "Horizon User Guide/IV. Products/A. All Products",
+    "Horizon User Guide/IV. Products/All Items/Products",
+    "Horizon User Guide/IV. Products/All Items/Items",
+    "Horizon User Guide/IV. Products/All Items",
+    "Horizon User Guide/V. Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Adding a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materiasl (BOM) Yield Item.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/VIII. Searching on Horizon/Find Mode.md",
-    "Horizon User Guide/V. Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
-    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/III. Customers/Deleting a Payment Record.md",
     "Horizon User Guide/V. Sales Orders/Sales Estimates/Deleting a Line Item in Sales Estimate.md",
-    "Horizon User Guide/IV. Products/i. Configurators/Creating a Configurator.md",
-    "Horizon User Guide/IV. Products/Adding a New Product.md",
+    "Horizon User Guide/IV. Products/C. Configurators/Creating a Configurator.md",
+    "Horizon User Guide/IV. Products/A. All Products/Adding a New Product.md",
     "Horizon User Guide/IV. Products/Untitled.md",
-    "Horizon User Guide/IV. Products/i. Configurators",
+    "Horizon User Guide/IV. Products/C. Configurators",
     "Horizon User Guide/I. Getting Started/Deleting Your Account.md",
-    "Horizon User Guide/IV. Products/Deleting a Product.md",
+    "Horizon User Guide/IV. Products/A. All Products/Deleting a Product.md",
     "Horizon User Guide/V. Sales Orders/Deleting a Product in Sales Orders.md",
     "Horizon User Guide/IV. Products",
     "Untitled.canvas",
@@ -174,26 +197,16 @@
     "Horizon User Guide/I. Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/III. Customers/Confirming a Payment Record.md",
     "Horizon User Guide/Sales Orders/Discounts/Adding.md",
-    "Horizon User Guide/V. Sales Orders/Printing Sales Orders.md",
-    "Horizon User Guide/V. Sales Orders/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
-    "Horizon User Guide/V. Sales Orders/Sales Estimates/Deleting Sales Channels, Customer Tiers, or Payment Terms.md",
     "assets/4_sales_order_find_mode.png",
     "Horizon User Guide/VII. Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
     "assets/3_sales_order_gear_icon.png",
-    "Horizon User Guide/II. All Parties",
-    "Horizon User Guide/V. Sales Orders/Discounts",
     "assets/push_push_button.png",
     "assets/push_main_menu>customers.png",
     "assets/push_data_push_successful.png",
     "assets/push_data_check_QuickBooks.png",
     "assets/push_customer's_name_search_result.png",
     "assets/push_customer's_name_search_bar.png",
-    "assets/push_customer's_name.png",
-    "Horizon User Guide/VI. Invoices",
-    "Horizon User Guide/V. Sales Orders/Receiving Orders",
-    "Horizon User Guide/V. Sales Orders/Sales Estimates",
-    "Horizon User Guide/VIII. Searching on Horizon",
-    "Horizon User Guide/I. Getting Started"
+    "assets/push_customer's_name.png"
   ]
 }

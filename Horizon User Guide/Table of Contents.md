@@ -25,8 +25,16 @@ VII. [Adding a Payment Card](https://github.com/Fx-Professional-Services/Horizon
 
 ### Products
 
-I. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
-II. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)
+I. All Items
+    I. [Adding Existing Items to Products, Services, Configuration, Equipment, or Discount](Adding%20Existing%20Items%20to%20Products,%20Services,%20Configuration,%20Equipment,%20or%20Discount.md) <br>
+A. All Products
+    I. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
+    II. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)<br>
+B. Services
+C. Configurators
+	I. [Creating a Configurator](Creating%20a%20Configurator.md)
+D. All Equipment
+
 
 ### Sales Orders
 
