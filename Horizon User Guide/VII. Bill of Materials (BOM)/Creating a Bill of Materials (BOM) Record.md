@@ -15,10 +15,10 @@ Follow these steps to create a new Bill of Materials (BOM) record:
     
     -  In the pop-up form, you can select an item in two ways:
 
-1. Click the add button (✚) next to the item.
-2. Type the item in the text box and press Return (Mac) or Enter (Windows).
+	1. Click the add button (✚) next to the item.
+	2. Type the item in the text box and press Return (Mac) or Enter (Windows).
 
-Once you've chosen the item, click **Done**. This action will return you to the original layout, and the name of the BOM will be set to the list of item names of the yield.
+	* Once you've chosen the item, click **Done**. This action will return you to the original layout, and the name of the BOM will be set to the list of item names of the yield.
 5. **Select Unit of Measure**:
 
 	- Click on the **unit** type box. In the pop-up form that appears, select the unit of measure by clicking the add button (✚) . Once you've chosen the unit of measure, click **Done**. 
