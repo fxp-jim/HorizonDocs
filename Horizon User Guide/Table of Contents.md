@@ -1,4 +1,7 @@
-This table of contents provides a structured overview of the user guide, allowing users to quickly find relevant information about using the Horizon file effectively.
+
+### Table of Contents
+_____
+This table of contents provides a structured overview of the Horizon user guide, allowing users to quickly find relevant information about using the Horizon file effectively.
 
 ### Getting Started
 
@@ -25,21 +28,22 @@ VII. [Adding a Payment Card](https://github.com/Fx-Professional-Services/Horizon
 
 ### Products
 
-I. All Items <br>
-    A. [Adding Existing Items to Products, Services, Configuration, Equipment, or Discount](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/All%20Items/Adding%20Existing%20Items%20to%20Products%2C%20Services%2C%20Configuration%2C%20Equipment%2C%20or%20Discount.md) <br>
+A. All Items <br>
+    1. [Adding Existing Items to Products, Services, Configuration, Equipment, or Discount](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/All%20Items/Adding%20Existing%20Items%20to%20Products%2C%20Services%2C%20Configuration%2C%20Equipment%2C%20or%20Discount.md) <br>
     
-II. All Products <br>
-    A. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
-    B. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)<br>
+B. All Products <br>
+    1. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
+    2. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)<br>
     
-III. Services <br>
+C. Services <br>
 
-IV. Configurators <br> 
-A.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Configurators/Creating%20a%20Configurator.md)<br>
+D. Configurators <br> 
+    1.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Configurators/Creating%20a%20Configurator.md)<br>
 
-V. All Equipment <br>
+E. All Equipment <br>
 
 ### Sales Orders
+
 
 I. [Creating Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Creating%20Sales%20Orders.md)<br>
 II. [Omitting a Sales Order Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Omitting%20a%20Sales%20Order%20Record.md)<br>
