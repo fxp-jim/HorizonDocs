@@ -26,15 +26,14 @@ VII. [Adding a Payment Card](https://github.com/Fx-Professional-Services/Horizon
 ### Products
 
 I. All Items
-    I. [Adding Existing Items to Products, Services, Configuration, Equipment, or Discount](Adding%20Existing%20Items%20to%20Products,%20Services,%20Configuration,%20Equipment,%20or%20Discount.md) <br>
-A. All Products
-    I. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
-    II. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)<br>
-B. Services
-C. Configurators
-	I. [Creating a Configurator](Creating%20a%20Configurator.md)
-D. All Equipment
-
+    A. [Adding Existing Items to Products, Services, Configuration, Equipment, or Discount](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/All%20Items/Adding%20Existing%20Items%20to%20Products%2C%20Services%2C%20Configuration%2C%20Equipment%2C%20or%20Discount.md) <br>
+II. All Products
+    A. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
+    B. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)<br>
+III. Services
+IV. Configurators
+	IV. a. [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Configurators/Creating%20a%20Configurator.md)
+V. All Equipment
 
 ### Sales Orders
 
