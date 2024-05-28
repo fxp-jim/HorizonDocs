@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/V. Sales Orders/Generating Sales Order Invoices.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/V. Sales Orders/Generating Sales Order Invoices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/V. Sales Orders/Generating Sales Order Invoices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/V. Sales Orders/Generating Sales Order Invoices.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "66d58b2ff5b90321",
   "lastOpenFiles": [
-    "Horizon User Guide/VI. Invoices/Generating Sales Order Invoices.md",
     "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/VI. Invoices/Generating Sales Order Invoices.md",
     "Horizon User Guide/VI. Invoices/Cancelling a Sales Invoice.md",
     "Horizon User Guide/V. Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
