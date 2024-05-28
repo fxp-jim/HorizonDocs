@@ -71,9 +71,9 @@ XIV. [Deleting a Product in Sales Orders](https://github.com/Fx-Professional-Ser
 
 ### Invoices
 
-A. [Generating Sales Order Invoices](Horizon%20User%20Guide/VI.%20Invoices/Generating%20Sales%20Order%20Invoices.md)
+A. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VI.%20Invoices/Generating%20Sales%20Order%20Invoices.md)
 
-B. [Cancelling a Sales Invoice](Cancelling%20a%20Sales%20Invoice.md)
+B. [Cancelling a Sales Invoice](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VI.%20Invoices/Cancelling%20a%20Sales%20Invoice.md)
 
 
 ### Bill of Materials (BOM)
