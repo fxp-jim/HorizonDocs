@@ -15,7 +15,7 @@ Follow these steps to create a new vendor record:
     
     - Fill in the necessary personal information such as name, email addresses, phone numbers, URLs, and addresses.
     
-    ⚠️ Note: Remember to include a 2-digit country code in your mailing and/or billing address.
+    ⚠️ Note: Remember to include a two-digit country code in your mailing and/or billing address.
     
 5. **Choose Primary Contact Method**:
     
