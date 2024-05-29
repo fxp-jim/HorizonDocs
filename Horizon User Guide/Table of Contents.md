@@ -88,5 +88,5 @@ III. [Deleting a Bill of Materials (BOM) Record](https://github.com/Fx-Professio
 V. [Deleting a Bill of Material (BOM) Yield Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Deleting%20a%20Bill%20of%20Materiasl%20(BOM)%20Yield%20Item.md)
 ###  Search on Horizon
 
-I. [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md)<br>
-II. [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Find%20Mode.md)
+I. [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md)<br>
+II. [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md)
