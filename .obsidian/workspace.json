@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md"
+                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md"
               }
             }
           }
@@ -181,7 +181,7 @@
     "Horizon User Guide/IV. Products/A. All Items",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materiasl (BOM) Yield Item.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
     "Horizon User Guide/VIII. Searching on Horizon/Find Mode.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/III. Customers/Deleting a Payment Record.md",
