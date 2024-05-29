@@ -48,12 +48,12 @@ E. All Equipment <br>
 
 ### Sales Orders
 
-I. [Creating Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Creating%20Sales%20Orders.md)<br>
-II. [Omitting a Sales Order Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Omitting%20a%20Sales%20Order%20Record.md)<br>
-III. [Confirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Confirming%20a%20Sales%20Order.md)<br>
-IV. [Unconfirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Unconfirming%20a%20Sales%20Order.md)<br>
-V. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VI.%20Invoices/Generating%20Sales%20Order%20Invoices.md)<br>
-VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md)<br>VII. [Printing Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Printing%20Sales%20Orders.md) <br> 
+I. [Creating Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Creating%20a%20Sales%20Order.md)<br>
+II. [Omitting a Sales Order Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Omitting%20a%20Sales%20Order%20Record.md)<br>
+III. [Confirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Confirming%20a%20Sales%20Order.md)<br>
+IV. [Unconfirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Unconfirming%20a%20Sales%20Order.md)<br>
+V. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Generating%20Sales%20Order%20Invoices.md)<br>
+VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md)<br>VII. [Printing Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Printing%20Sales%20Orders.md) <br> 
 VIII. **Discounts** <br>
 		A. [Applying Discounts to Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Discounts/Applying%20Discounts%20to%20Sales%20Orders.md)<br>
 		B. [Removing Applied Discounts to Sales Order Line Items](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Discounts/Removing%20Applied%20Discounts%20to%20Sales%20Order%20Line%20Items.md)<br> <br>
@@ -68,10 +68,10 @@ X. **Sales Estimate** <br>
 		D. [Printing Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Sales%20Estimates/Printing%20Sales%20Estimates.md) <br>
 		E. [Deleting Sales Channels, Customer Tiers, or Payment Terms](Deleting%20Sales%20Channels,%20Customer%20Tiers,%20or%20Payment%20Terms.md) <br>
 	
-XI. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Adjusting%20Prices%20and%20Quantities%20in%20Sales%20Order.md) <br>
-XII. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Sales%20Order%20Line%20Item.md) <br>
-XIII. [Deleting a Customer Tier,  Sales Channel, and Payment Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Customer%20Tier%2C%20%20Sales%20Channel%2C%20and%20Payment%20Terms.md) <br>
-XIV. [Deleting a Product in Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Sales%20Orders/Deleting%20a%20Product%20in%20Sales%20Orders.md)
+XI. [Adjusting Prices and Quantities in Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Adjusting%20Prices%20and%20Quantities%20in%20Sales%20Orders.md) <br>
+XII. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Sales%20Order%20Line%20Item.md) <br>
+XIII. [Deleting a Customer Tier,  Sales Channel, and Payment Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Customer%20Tier%2C%20%20Sales%20Channel%2C%20and%20Payment%20Terms.md) <br>
+XIV. [Deleting a Product in Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Product%20in%20Sales%20Orders.md)
 
 ### Invoices
 
