@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -162,8 +161,10 @@
   },
   "active": "66d58b2ff5b90321",
   "lastOpenFiles": [
-    "Horizon User Guide/I. Getting Started/Resetting Your Password.md",
+    "Horizon User Guide/IV. Products/A. All Items/Adding Quantity and Unit of Measure in the Upload Vendor Prices.md",
+    "Horizon User Guide/IV. Products/A. All Items/Adding Existing Items to Products, Services, Configuration, Equipment, or Discount.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
+    "Horizon User Guide/I. Getting Started/Resetting Your Password.md",
     "Horizon User Guide/V. Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/VI. Invoices/Generating Sales Order Invoices.md",
@@ -173,7 +174,6 @@
     "Horizon User Guide/IV. Products/D. Configurators/Creating a Configurator.md",
     "Horizon User Guide/V. Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Adding a Source or Yield Item to the Picker Window.md",
-    "Horizon User Guide/IV. Products/A. All Items/Adding Existing Items to Products, Services, Configuration, Equipment, or Discount.md",
     "Horizon User Guide/V. Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
     "Horizon User Guide/IV. Products/E. All Equipment",
     "Horizon User Guide/IV. Products/All Items/Untitled",
@@ -197,7 +197,6 @@
     "Horizon User Guide/IV. Products",
     "Untitled.canvas",
     "Horizon User Guide/III. Customers/Adding a Payment Card.md",
-    "Horizon User Guide/III. Customers/Creating a Payment Plan.md",
     "assets/4_sales_order_find_mode.png",
     "Horizon User Guide/VII. Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
