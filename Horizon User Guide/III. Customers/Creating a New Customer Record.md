@@ -1,4 +1,4 @@
-### Create a Customer's New Record
+### Create a New Customer Record
 ____________________________________
 
 1. On the main menu, select **Customers**.
