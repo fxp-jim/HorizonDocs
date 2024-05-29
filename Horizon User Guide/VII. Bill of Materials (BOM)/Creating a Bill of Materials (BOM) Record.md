@@ -29,4 +29,7 @@ Follow these steps to create a new Bill of Materials (BoM) record:
 
 	 - Click on the **quantity** type box. Input the quantity for each source/yield item. 
 
+	💡 Tip: To easily move the cursor to the next field, consider using the up and down keys on your keyboard.
+
+
 That's it! You've successfully created a new Bill of Materials (BoM). If you require further assistance, don't hesitate to contact our support team.

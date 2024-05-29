@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,6 +162,8 @@
   },
   "active": "66d58b2ff5b90321",
   "lastOpenFiles": [
+    "Horizon User Guide/I. Getting Started/Resetting Your Password.md",
+    "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
     "Horizon User Guide/V. Sales Orders/Generating Sales Order Invoices.md",
     "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/VI. Invoices/Generating Sales Order Invoices.md",
@@ -181,7 +184,6 @@
     "Horizon User Guide/IV. Products/A. All Items",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materiasl (BOM) Yield Item.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
     "Horizon User Guide/VIII. Searching on Horizon/Find Mode.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/III. Customers/Deleting a Payment Record.md",
@@ -196,7 +198,6 @@
     "Untitled.canvas",
     "Horizon User Guide/III. Customers/Adding a Payment Card.md",
     "Horizon User Guide/III. Customers/Creating a Payment Plan.md",
-    "Horizon User Guide/V. Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
     "assets/4_sales_order_find_mode.png",
     "Horizon User Guide/VII. Bill of Materials (BOM)",
     "assets/2_sales_order_primary_contact.png",
