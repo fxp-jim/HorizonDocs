@@ -8,7 +8,7 @@ Follow these steps to take off any discounts applied to your sales order:
     
 2. **Choose Customer**:
     
-    - Pick the customer from the list on the left. You can find them either by using either the [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md). 
+    - Pick the customer from the list on the left. You can find them either by using either the [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md). 
     
 3. **Find Discounts**:
     
