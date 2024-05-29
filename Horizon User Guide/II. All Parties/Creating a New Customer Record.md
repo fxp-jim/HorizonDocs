@@ -15,7 +15,7 @@ Follow these steps to create a new customer record:
     
     - Fill in the necessary personal information such as name, email addresses, phone numbers, URLs, and addresses.
     
-    ⚠️ Note: Remember to include a 2-digit country code in your mailing and/or billing address.
+    ⚠️ Note: Remember to include a two-digit country code in your mailing and/or billing address.
     
 5. **Choose Primary Contact Method**:
     
@@ -23,7 +23,7 @@ Follow these steps to create a new customer record:
     
     ⚠️ Note: You won't be able to save the information until you've chosen a primary contact method.
     
-1. **Save the Record**:
+6. **Save the Record**:
     
     - After entering all the customers's personal information and selecting a primary contact method, click **Save** located at the bottom right corner of the form.
 
