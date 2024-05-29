@@ -4,7 +4,7 @@ Ensuring the right Bill of Materials (BOM) is active is crucial for generating d
 
 1. **Navigate to Products:** Go to the main menu and select **Products**.
     
-2. **Choose a Product:** Find the product you want to work with on the left side of the screen. You can use either [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md).
+2. **Choose a Product:** Find the product you want to work with on the left side of the screen. You can use either [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md).
     
 3. **Set Active BOM:** Click on the **Active BOM** box.
     
