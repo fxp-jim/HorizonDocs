@@ -1,4 +1,4 @@
-### Create a Customer's New Record
+### Create a New Customer Record
 ____________________________________
 Follow these steps to create a new customer record:
 
