@@ -85,7 +85,7 @@ B. [Cancelling a Sales Invoice](https://github.com/Fx-Professional-Services/Hori
 I. [Creating a Bill of Materials (BOM) Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Creating%20a%20Bill%20of%20Materials%20(BOM)%20Record.md) <br>
 II. [Selecting Active Bill of Materials (BOMs)  for Products](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Selecting%20Active%20Bill%20of%20Materials%20(BOM)%20%20for%20Products.md) <br>
 III. [Deleting a Bill of Materials (BOM) Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Deleting%20a%20Bill%20of%20Materials%20(BOM)%20Record.md) <br>IV. [Adding a Source or Yield Item to the Picker Window](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Adding%20a%20Source%20or%20Yield%20Item%20to%20the%20Picker%20Window.md) <br>
-V. [Deleting a Bill of Material (BOM) Yield Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Deleting%20a%20Bill%20of%20Materiasl%20(BOM)%20Yield%20Item.md)
+V. [Deleting a Bill of Material (BOM) Yield Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Deleting%20a%20Bill%20of%20Materials%20(BoM)%20Yield%20Item.md)
 ###  Search on Horizon
 
 I. [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md)<br>
