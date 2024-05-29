@@ -5,12 +5,12 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ### Getting Started
 
-I. [Launching Horizon File](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Launching%20Horizon%20File.md) <br>
-II. [Creating a Horizon Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Creating%20a%20Horizon%20Account.md)<br>
-III. [Logging Into Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Logging%20Into%20Horizon.md)<br>
-IV. [Logging Out of Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Logging%20Out%20of%20Horizon.md)<br>
-V. [Resetting Your Password](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Resetting%20Your%20Password.md)<br>
-VI. [Deleting Your Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Getting%20Started/Deleting%20Your%20Account.md)<br>
+I. [Launching Horizon File](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Launching%20Horizon%20File.md) <br>
+II. [Creating a Horizon Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Creating%20a%20Horizon%20Account.md)<br>
+III. [Logging Into Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Logging%20Into%20Horizon.md)<br>
+IV. [Logging Out of Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Logging%20Out%20of%20Horizon.md)<br>
+V. [Resetting Your Password](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Resetting%20Your%20Password.md)<br>
+VI. [Deleting Your Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Deleting%20Your%20Account.md)<br>
 ### All Parties
 
 I. [Creating a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/All%20Parties/Creating%20a%20New%20Customer%20Record.md) <br>
@@ -42,7 +42,7 @@ C. Services <br>
 
 D. Configurators <br> 
     1.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Configurators/Creating%20a%20Configurator.md)<br>
-    2. [Adding Minimum and Maximum Values](Adding%20Minimum%20and%20Maximum%20Values.md)
+    2. [Adding Minimum and Maximum Values](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Adding%20Minimum%20and%20Maximum%20Values.md)
 
 E. All Equipment <br>
 
