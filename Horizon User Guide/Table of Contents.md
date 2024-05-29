@@ -39,6 +39,7 @@ B. All Products <br>
     
     
 C. Services <br>
+	1. [Adding a New Service](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Services/Adding%20a%20New%20Service.md) <br>
 
 D. Configurators <br> 
     1.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Creating%20a%20Configurator.md)<br>

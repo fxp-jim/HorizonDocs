@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adding a New Equipment.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adding a New Equipment.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adding a New Equipment.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adding a New Equipment.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "bcb822afbe287854",
   "lastOpenFiles": [
-    "Horizon User Guide/IV. Products/C. Services/Adding a New Service.md",
     "Adding a New Equipment.md",
+    "Horizon User Guide/IV. Products/C. Services/Adding a New Service.md",
     "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
     "Horizon User Guide/IV. Products/A. All Items/Modifying an item's flag options (consumable, sale item, service, etc.).md",
     "Horizon User Guide/IV. Products/A. All Items/Adding Existing Items to Products, Services, Configuration, Equipment, or Discount.md",
