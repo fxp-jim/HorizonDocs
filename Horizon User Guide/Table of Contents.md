@@ -34,14 +34,14 @@ A. All Items <br>
     3. [Creating a New Product in the Upload Vendor Prices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/A.%20All%20Items/Creating%20a%20New%20Product%20in%20the%20Upload%20Vendor%20Prices.md) <br>
     
 B. All Products <br>
-    1. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Adding%20a%20New%20Product.md) <br>
-    2. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Products/Deleting%20a%20Product.md)<br>
+    1. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/B.%20All%20Products/Adding%20a%20New%20Product.md) <br>
+    2. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/B.%20All%20Products/Deleting%20a%20Product.md)<br>
     
     
 C. Services <br>
 
 D. Configurators <br> 
-    1.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Configurators/Creating%20a%20Configurator.md)<br>
+    1.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Creating%20a%20Configurator.md)<br>
     2. [Adding Minimum and Maximum Values](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Adding%20Minimum%20and%20Maximum%20Values.md)
 
 E. All Equipment <br>
