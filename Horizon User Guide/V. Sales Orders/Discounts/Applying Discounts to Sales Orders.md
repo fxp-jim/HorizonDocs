@@ -5,7 +5,7 @@ Applying discounts is crucial for ensuring competitive pricing and effective man
 
 1. Go to the **main menu** and choose **Sales Orders**.
 
-2. Select the party or customer from the left pane using either the [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md). 
+2. Select the party or customer from the left pane using either the [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md) or [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md). 
 
 3. Scroll down to the **Discounts** section at the bottom and click **select discount**. 
 
