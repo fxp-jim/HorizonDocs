@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/V. Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
+                "file": "Horizon User Guide/IV. Products/C. Services/Adding a New Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcb822afbe287854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adding a New Equipment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/V. Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
+                "file": "Adding a New Equipment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/V. Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
+                "file": "Adding a New Equipment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/V. Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md"
+                "file": "Adding a New Equipment.md"
               }
             }
           }
@@ -159,15 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66d58b2ff5b90321",
+  "active": "bcb822afbe287854",
   "lastOpenFiles": [
+    "Horizon User Guide/IV. Products/C. Services/Adding a New Service.md",
+    "Adding a New Equipment.md",
+    "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
+    "Horizon User Guide/IV. Products/A. All Items/Modifying an item's flag options (consumable, sale item, service, etc.).md",
+    "Horizon User Guide/IV. Products/A. All Items/Adding Existing Items to Products, Services, Configuration, Equipment, or Discount.md",
+    "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
+    "Horizon User Guide/V. Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/V. Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
     "Horizon User Guide/V. Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
     "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materials (BoM) Yield Item.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/IV. Products/A. All Items/Adding Quantity and Unit of Measure in the Upload Vendor Prices.md",
-    "Horizon User Guide/IV. Products/A. All Items/Adding Existing Items to Products, Services, Configuration, Equipment, or Discount.md",
     "Horizon User Guide/III. Customers/Unconfirming Payment Record.md",
     "Horizon User Guide/III. Customers/Deleting a Payment Record.md",
     "Horizon User Guide/III. Customers/Creating a Payment Record.md",
@@ -181,12 +199,6 @@
     "Horizon User Guide/I. Getting Started/Creating a Horizon Account.md",
     "Horizon User Guide/IV. Products/A. All Items/Creating a New Product in the Upload Vendor Prices.md",
     "Horizon User Guide/V. Sales Orders/Sales Estimates/Confirming a Sales Estimate.md",
-    "Horizon User Guide/V. Sales Orders/Sales Estimates/Creating a New Sales Estimate Order Item.md",
-    "Horizon User Guide/V. Sales Orders/Sales Estimates/Deleting a Line Item in Sales Estimate.md",
-    "Horizon User Guide/V. Sales Orders/Sales Estimates/Deleting Sales Channels, Customer Tiers, or Payment Terms.md",
-    "Horizon User Guide/V. Sales Orders/Sales Estimates/Printing Sales Estimates.md",
-    "Horizon User Guide/V. Sales Orders/Adding Taxable Line Items to a Sales Order.md",
-    "Horizon User Guide/V. Sales Orders/Adjusting Prices and Quantities in Sales Orders.md",
     "Horizon User Guide/IV. Products/E. All Equipment",
     "Horizon User Guide/IV. Products/All Items/Untitled",
     "Horizon User Guide/IV. Products/C. Services",
