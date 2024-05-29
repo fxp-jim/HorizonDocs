@@ -42,6 +42,7 @@ C. Services <br>
 
 D. Configurators <br> 
     1.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Configurators/Creating%20a%20Configurator.md)<br>
+    2. [Adding Minimum and Maximum Values](Adding%20Minimum%20and%20Maximum%20Values.md)
 
 E. All Equipment <br>
 
