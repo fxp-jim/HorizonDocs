@@ -48,7 +48,7 @@ D. Configurators <br>
     2. [Adding Minimum and Maximum Values](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Adding%20Minimum%20and%20Maximum%20Values.md)
     3. [Modifying a Configurator Flag Options (consumable, sale item, service, etc.)](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Modifying%20a%20Configurator%20Flag%20Options%20(consumable%2C%20sale%20item%2C%20service%2C%20etc.).md) <br>
 E. All Equipment <br>
-	1.  [Adding a New Equipment](Adding%20a%20New%20Equipment.md) <br>
+	1.  [Adding a New Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/E.%20All%20Equipment/Adding%20a%20New%20Equipment.md) <br>
 ### Sales Orders
 
 I. [Creating Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Creating%20a%20Sales%20Order.md)<br>
