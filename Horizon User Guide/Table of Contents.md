@@ -48,7 +48,7 @@ D. Configurators <br>
     2. [Adding Minimum and Maximum Values](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Adding%20Minimum%20and%20Maximum%20Values.md)
     3. [Modifying a Configurator Flag Options (consumable, sale item, service, etc.)](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Modifying%20a%20Configurator%20Flag%20Options%20(consumable%2C%20sale%20item%2C%20service%2C%20etc.).md) <br>
 E. All Equipment <br>
-
+	1.  [Adding a New Equipment](Adding%20a%20New%20Equipment.md) <br>
 ### Sales Orders
 
 I. [Creating Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Creating%20a%20Sales%20Order.md)<br>
@@ -83,7 +83,7 @@ A. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services
 B. [Cancelling a Sales Invoice](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VI.%20Invoices/Cancelling%20a%20Sales%20Invoice.md)
 
 
-### Bill of Materials (BOM)
+### Bill of Materials (BoM)
 
 I. [Creating a Bill of Materials (BOM) Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Creating%20a%20Bill%20of%20Materials%20(BOM)%20Record.md) <br>
 II. [Selecting Active Bill of Materials (BOMs)  for Products](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Selecting%20Active%20Bill%20of%20Materials%20(BOM)%20%20for%20Products.md) <br>
