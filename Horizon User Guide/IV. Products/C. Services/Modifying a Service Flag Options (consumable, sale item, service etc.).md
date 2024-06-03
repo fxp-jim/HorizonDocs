@@ -3,7 +3,7 @@
 _______
 1. Go to the main menu and select **Products**.
 2. Click on **Item Management** and then choose **Services**.
-3. Click on **Select existing**.
+3. [Add a new service](Adding%20a%20New%20Service.md) or click on **Select existing**.
 4. In the picker window, find your desired item by scrolling or typing its name in the search bar, then click the search icon **(🔎)**.
 5. Select the item by clicking the add button (✚). This item will now be considered a service.
 6. Click **Done** to confirm your selection and close the picker window.

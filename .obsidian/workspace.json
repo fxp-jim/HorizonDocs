@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/IV. Products/C. Services/Modifying a Service Flag Options (consumable, sale item, service, etc.).md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/IV. Products/C. Services/Modifying a Service Flag Options (consumable, sale item, service, etc.).md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/IV. Products/C. Services/Modifying a Service Flag Options (consumable, sale item, service, etc.).md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/IV. Products/C. Services/Modifying a Service Flag Options (consumable, sale item, service, etc.).md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -159,10 +159,10 @@
   },
   "active": "bcb822afbe287854",
   "lastOpenFiles": [
+    "Horizon User Guide/IV. Products/C. Services/Modifying a Service Flag Options (consumable, sale item, service etc.).md",
     "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
     "Horizon User Guide/IV. Products/D. Configurators/Modifying a Configurator Flag Options (consumable, sale item, service, etc.).md",
-    "Horizon User Guide/IV. Products/C. Services/Modifying a Service Flag Options (consumable, sale item, service, etc.).md",
     "Horizon User Guide/IV. Products/C. Services/Adding a New Service.md",
     "assets/2_job_title_picker.png",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
