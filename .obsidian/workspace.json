@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "note",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,11 +148,11 @@
   },
   "active": "ba9929104f63c28d",
   "lastOpenFiles": [
-    "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
-    "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md",
     "Horizon User Guide/IV. Products/E. All Equipment/Modifying an Equipment Flag Options (consumable, sale item, service, etc.).md",
-    "Horizon User Guide/VII. Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
+    "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md",
     "Horizon User Guide/IV. Products/A. All Items/Adding Existing Items to Products, Services, Configurators, Equipment, or Discount.md",
+    "Horizon User Guide/VII. Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
+    "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
     "Horizon User Guide/IV. Products/D. Configurators/Modifying a Configurator Flag Options (consumable, sale item, service, etc.).md",
     "Horizon User Guide/IV. Products/C. Services/Modifying a Service Flag Options (consumable, sale item, service etc.).md",
     "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
