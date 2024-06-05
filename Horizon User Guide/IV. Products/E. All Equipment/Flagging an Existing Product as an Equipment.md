@@ -1,4 +1,4 @@
-### Flag a Product as an Equipment
+### Flag an Existing Product as an Equipment
 _______
 Here's a straightforward guide to flagging a product as equipment:
 
