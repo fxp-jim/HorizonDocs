@@ -1,4 +1,3 @@
-
 ### Modify a Configurator Flag Options (consumable, sale item, service, etc.)
 _______
 1. Go to the main menu and select **Products**.
