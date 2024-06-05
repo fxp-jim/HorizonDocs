@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "ba9929104f63c28d",
   "lastOpenFiles": [
-    "Horizon User Guide/IV. Products/C. Services/Flagging an Existing Product as a Service.md",
-    "Horizon User Guide/IV. Products/D. Configurators/Flagging an Existing Product as a Configurator.md",
-    "Horizon User Guide/IV. Products/E. All Equipment/Flagging an Existing Product as an Equipment.md",
+    "Horizon User Guide/IV. Products/E. All Equipment/Turning an Existing Product into an Equipment.md",
+    "Horizon User Guide/IV. Products/D. Configurators/Turning an Existing Product into a Configurator.md",
+    "Horizon User Guide/IV. Products/C. Services/Turning an Existing Product into a Service.md",
+    "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
     "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
     "Horizon User Guide/IV. Products/C. Services/Modifying a Product Flag Options (consumable, sale item, service etc.).md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Adding a Source or Yield Item to the Picker Window.md",
-    "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
     "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md",
     "Horizon User Guide/IV. Products/E. All Equipment/Modifying an Equipment Flag Options (consumable, sale item, service, etc.).md",

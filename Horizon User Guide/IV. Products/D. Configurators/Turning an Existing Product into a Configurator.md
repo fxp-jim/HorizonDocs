@@ -1,4 +1,4 @@
-### Flag an Existing Product as a Configurator
+### Turning an Existing Product into a Configurator
 ________
 Here's a simple guide to turn a product into a configurator: 
 

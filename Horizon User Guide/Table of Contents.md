@@ -39,15 +39,15 @@ B. All Products <br>
     3. [Modifying a Product Flag Options (consumable, sale item, service, etc.)](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/B.%20All%20Products/Modifying%20a%20Product%20Flag%20Options%20(consumable%2C%20sale%20item%2C%20service%2C%20etc.).md) <br>
 C. Services <br>
 	1. [Adding a New Service](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Services/Adding%20a%20New%20Service.md) <br>
-	2. [Flagging a Product as a Service](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Services/Flagging%20a%20Product%20as%20a%20Service.md) <br>
+	2. [Turning an Existing Product into a Service](Turning%20an%20Existing%20Product%20into%20a%20Service.md)
 
 D. Configurators <br> 
     1.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Creating%20a%20Configurator.md)<br>
     2. [Adding Minimum and Maximum Values](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Adding%20Minimum%20and%20Maximum%20Values.md) <br>
-    3. [Flagging a Product as a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Flagging%20a%20Product%20as%20a%20Configurator.md) <br>
+    3. [Turning an Existing Product into a Configurator](Turning%20an%20Existing%20Product%20into%20a%20Configurator.md)
 E. All Equipment <br>
 	1.  [Adding a New Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/E.%20All%20Equipment/Adding%20a%20New%20Equipment.md) <br>
-	2. [Flagging a Product as an Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/E.%20All%20Equipment/Flagging%20a%20Product%20as%20an%20Equipment.md) <br> 
+	2. [Turning an Existing Product into an Equipment](Turning%20an%20Existing%20Product%20into%20an%20Equipment.md)<br> 
 ### Sales Orders
 
 I. [Creating Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Creating%20a%20Sales%20Order.md)<br>
