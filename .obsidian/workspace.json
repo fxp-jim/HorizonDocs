@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md",
+                "file": "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md",
+                "file": "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md",
+                "file": "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md"
+                "file": "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "ba9929104f63c28d",
   "lastOpenFiles": [
-    "Horizon User Guide/IV. Products/E. All Equipment/Modifying an Equipment Flag Options (consumable, sale item, service, etc.).md",
+    "Horizon User Guide/IV. Products/D. Configurators/Modifying a Product Flag Options (consumable, sale item, configurator, etc.).md",
+    "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
+    "Horizon User Guide/IV. Products/C. Services/Modifying a Product Flag Options (consumable, sale item, service etc.).md",
+    "Horizon User Guide/VII. Bill of Materials (BOM)/Adding a Source or Yield Item to the Picker Window.md",
+    "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
+    "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
     "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md",
+    "Horizon User Guide/IV. Products/E. All Equipment/Modifying an Equipment Flag Options (consumable, sale item, service, etc.).md",
     "Horizon User Guide/IV. Products/A. All Items/Adding Existing Items to Products, Services, Configurators, Equipment, or Discount.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
-    "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
-    "Horizon User Guide/IV. Products/D. Configurators/Modifying a Configurator Flag Options (consumable, sale item, service, etc.).md",
-    "Horizon User Guide/IV. Products/C. Services/Modifying a Service Flag Options (consumable, sale item, service etc.).md",
-    "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
     "Untitled.md",
     "Horizon User Guide/IV. Products/B. All Products/Deleting a Product.md",
     "Horizon User Guide/IV. Products/A. All Items/Creating a New Product in the Upload Vendor Prices.md",
@@ -163,11 +165,9 @@
     "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/IV. Products/C. Services/Adding a New Service.md",
     "assets/2_job_title_picker.png",
-    "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BoM) Record.md",
     "Horizon User Guide/IV. Products/D. Configurators/Creating a Configurator.md",
     "Horizon User Guide/IV. Products/D. Configurators/Adding Minimum and Maximum Values.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/VII. Bill of Materials (BOM)/Adding a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
     "Horizon User Guide/V. Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/V. Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
