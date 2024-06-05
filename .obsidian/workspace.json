@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
+                "file": "Horizon User Guide/IV. Products/D. Configurators/Flagging a Product as a Configurator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
+                "file": "Horizon User Guide/IV. Products/D. Configurators/Flagging a Product as a Configurator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
+                "file": "Horizon User Guide/IV. Products/D. Configurators/Flagging a Product as a Configurator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md"
+                "file": "Horizon User Guide/IV. Products/D. Configurators/Flagging a Product as a Configurator.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "ba9929104f63c28d",
   "lastOpenFiles": [
-    "Horizon User Guide/IV. Products/D. Configurators/Modifying a Product Flag Options (consumable, sale item, configurator, etc.).md",
+    "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/IV. Products/C. Services/Flagging a Product as a Service.md",
     "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
+    "Horizon User Guide/IV. Products/D. Configurators/Flagging a Product as a Configurator.md",
     "Horizon User Guide/IV. Products/C. Services/Modifying a Product Flag Options (consumable, sale item, service etc.).md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Adding a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/IV. Products/B. All Products/Adding a New Product.md",
@@ -162,7 +164,6 @@
     "Horizon User Guide/IV. Products/B. All Products/Deleting a Product.md",
     "Horizon User Guide/IV. Products/A. All Items/Creating a New Product in the Upload Vendor Prices.md",
     "Horizon User Guide/IV. Products/A. All Items/Adding Quantity and Unit of Measure in the Upload Vendor Prices.md",
-    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/IV. Products/C. Services/Adding a New Service.md",
     "assets/2_job_title_picker.png",
     "Horizon User Guide/IV. Products/D. Configurators/Creating a Configurator.md",
@@ -174,7 +175,6 @@
     "Horizon User Guide/V. Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materials (BoM) Yield Item.md",
     "Horizon User Guide/III. Customers/Unconfirming Payment Record.md",
-    "Horizon User Guide/III. Customers/Deleting a Payment Record.md",
     "Horizon User Guide/IV. Products/E. All Equipment",
     "Horizon User Guide/IV. Products/All Items/Untitled",
     "Horizon User Guide/IV. Products/C. Services",

@@ -41,14 +41,15 @@ B. All Products <br>
     
 C. Services <br>
 	1. [Adding a New Service](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Services/Adding%20a%20New%20Service.md) <br>
-	2. [Modifying a Service Flag Options (consumable, sale item, service etc.)](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Services/Modifying%20a%20Service%20Flag%20Options%20(consumable%2C%20sale%20item%2C%20service%20etc.).md) <br>
+	2. [Flagging a Product as a Service](Flagging%20a%20Product%20as%20a%20Service.md) <br>
 
 D. Configurators <br> 
     1.  [Creating a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Creating%20a%20Configurator.md)<br>
-    2. [Adding Minimum and Maximum Values](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Adding%20Minimum%20and%20Maximum%20Values.md)
-    3. [Modifying a Configurator Flag Options (consumable, sale item, service, etc.)](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Modifying%20a%20Configurator%20Flag%20Options%20(consumable%2C%20sale%20item%2C%20service%2C%20etc.).md) <br>
+    2. [Adding Minimum and Maximum Values](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Adding%20Minimum%20and%20Maximum%20Values.md) <br>
+    3. [Flagging a Product as a Configurator](Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Flagging%20a%20Product%20as%20a%20Configurator.md) <br>
 E. All Equipment <br>
 	1.  [Adding a New Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/E.%20All%20Equipment/Adding%20a%20New%20Equipment.md) <br>
+	2. 
 ### Sales Orders
 
 I. [Creating Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Creating%20a%20Sales%20Order.md)<br>
@@ -56,7 +57,8 @@ II. [Omitting a Sales Order Record](https://github.com/Fx-Professional-Services/
 III. [Confirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Confirming%20a%20Sales%20Order.md)<br>
 IV. [Unconfirming a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Unconfirming%20a%20Sales%20Order.md)<br>
 V. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Generating%20Sales%20Order%20Invoices.md)<br>
-VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md)<br>VII. [Printing Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Printing%20Sales%20Orders.md) <br> 
+VI. [Adding Taxable Line Items to a Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Adding%20Taxable%20Line%20Items%20to%20a%20Sales%20Order.md) <br>
+VII. [Printing Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Printing%20Sales%20Orders.md) <br> 
 VIII. **Discounts** <br>
 		A. [Applying Discounts to Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Discounts/Applying%20Discounts%20to%20Sales%20Orders.md)<br>
 		B. [Removing Applied Discounts to Sales Order Line Items](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Discounts/Removing%20Applied%20Discounts%20to%20Sales%20Order%20Line%20Items.md)<br> <br>
