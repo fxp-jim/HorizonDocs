@@ -86,7 +86,7 @@ A. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services
 B. [Cancelling a Sales Invoice](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VI.%20Invoices/Cancelling%20a%20Sales%20Invoice.md)
 
 
-### Bill of Materials (BoM)
+### Bill of Materials (BOM)
 
 I. [Creating a Bill of Materials (BOM) Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Creating%20a%20Bill%20of%20Materials%20(BOM)%20Record.md) <br>
 II. [Selecting Active Bill of Materials (BOMs)  for Products](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VII.%20Bill%20of%20Materials%20(BOM)/Selecting%20Active%20Bill%20of%20Materials%20(BOM)%20%20for%20Products.md) <br>
