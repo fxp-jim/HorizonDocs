@@ -39,7 +39,7 @@ B. All Products <br>
     1. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/B.%20All%20Products/Adding%20a%20New%20Product.md) <br>
     2. [Deleting a Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/B.%20All%20Products/Deleting%20a%20Product.md)<br>
     3. [Modifying a Product Flag Options (consumable, sale item, service, etc.)](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/B.%20All%20Products/Modifying%20a%20Product%20Flag%20Options%20(consumable%2C%20sale%20item%2C%20service%2C%20etc.).md) <br>
-    4. [Setting Vendor Prices as Inactive](Setting%20Vendor%20Prices%20as%20Inactive.md)
+    4. [Setting Vendor Prices as Inactive](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/B.%20All%20Products/Setting%20Vendor%20Prices%20as%20Inactive.md)
     
 C. Services <br>
 	1. [Adding a New Service](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/C.%20Services/Adding%20a%20New%20Service.md) <br>
