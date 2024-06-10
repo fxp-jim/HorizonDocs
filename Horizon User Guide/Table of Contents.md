@@ -33,6 +33,7 @@ A. All Items <br>
     1. [Adding Existing Items to Products, Services, Configuration, Equipment, or Discount](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/A.%20All%20Items/Adding%20Existing%20Items%20to%20Products%2C%20Services%2C%20Configuration%2C%20Equipment%2C%20or%20Discount.md) <br>
     2. [Adding Quantity and Unit of Measure in the Upload Vendor Prices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/A.%20All%20Items/Adding%20Quantity%20and%20Unit%20of%20Measure%20in%20the%20Upload%20Vendor%20Prices.md) <br>
     3. [Creating a New Product in the Upload Vendor Prices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/A.%20All%20Items/Creating%20a%20New%20Product%20in%20the%20Upload%20Vendor%20Prices.md) <br>
+    4. [Assigning Categories to All Items in Found Set](Assigning%20Categories%20to%20All%20Items%20in%20Found%20Set.md)
     
 B. All Products <br>
     1. [Adding a New Product](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/B.%20All%20Products/Adding%20a%20New%20Product.md) <br>
