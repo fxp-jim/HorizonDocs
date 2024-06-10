@@ -68,7 +68,7 @@ VIII. **Discounts** <br>
 IX.  **Receiving Orders** <br>
 		A. [Creating a Receiving Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Receiving%20Orders/Creating%20a%20Receiving%20Order.md)<br>
 		B. [Deleting a Receiving Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Receiving%20Orders/Deleting%20a%20Receiving%20Order.md)<br>
-		C. [Confirming a Receiving Order](Confirming%20a%20Receiving%20Order.md) <br>
+		C. [Confirming a Receiving Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Receiving%20Orders/Confirming%20a%20Receiving%20Order.md) <br>
 
 X. **Sales Estimate** <br>
 		A. [Creating a New Sales Estimate Order Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Sales%20Estimates/Creating%20a%20New%20Sales%20Estimate%20Order%20Item.md)<br>
