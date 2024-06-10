@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md",
+                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Table of Contents.md"
+                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "ba9929104f63c28d",
   "lastOpenFiles": [
+    "Horizon User Guide/III. Customers/Confirming a Payment Record.md",
+    "Horizon User Guide/III. Customers/Merging Customer Records.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Adding Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Adding a Source or Yield Item to the Picker Window.md",
-    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/IV. Products/E. All Equipment/Turning an Existing Product into an Equipment.md",
     "Horizon User Guide/IV. Products/D. Configurators/Turning an Existing Product into a Configurator.md",
     "Horizon User Guide/IV. Products/C. Services/Turning an Existing Product into a Service.md",
@@ -173,8 +175,6 @@
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
     "Horizon User Guide/V. Sales Orders/Discounts/Removing Applied Discounts to Sales Order Line Items.md",
-    "Horizon User Guide/V. Sales Orders/Discounts/Applying Discounts to Sales Orders.md",
-    "Horizon User Guide/V. Sales Orders/Receiving Orders/Deleting a Receiving Order.md",
     "Horizon User Guide/IV. Products/E. All Equipment",
     "Horizon User Guide/IV. Products/All Items/Untitled",
     "Horizon User Guide/IV. Products/C. Services",
