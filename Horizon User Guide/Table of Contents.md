@@ -25,7 +25,7 @@ IV. [Unconfirming Payment Record](https://github.com/Fx-Professional-Services/Ho
 V. [Deleting a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Deleting%20a%20Payment%20Record.md)<br>
 VI. [Creating a Customer's Payment Plan](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Creating%20a%20Payment%20Plan.md) <br>
 VII. [Adding a Payment Card](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Adding%20a%20Payment%20Card.md) <br>
-VIII. [Merging Customer Records](Merging%20Customer%20Records.md) <br>
+VIII. [Merging Customer Records](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Merging%20Customer%20Records.md) <br>
 
 ### Products
 
