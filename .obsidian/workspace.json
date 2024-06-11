@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md",
+                "file": "Horizon User Guide/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md"
+                "file": "Horizon User Guide/Table of Contents.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "010e8fa2fbffc1f9",
   "lastOpenFiles": [
-    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md",
+    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
     "Horizon User Guide/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/III. Customers/Merging Customer Records.md",
