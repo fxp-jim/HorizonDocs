@@ -84,6 +84,8 @@ XII. [Deleting a Sales Order Line Item](https://github.com/Fx-Professional-Servi
 XIII. [Deleting a Customer Tier,  Sales Channel, and Payment Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Customer%20Tier%2C%20%20Sales%20Channel%2C%20and%20Payment%20Terms.md) <br>
 XIV. [Deleting a Product in Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Product%20in%20Sales%20Orders.md)
 
+XV. [Swapping Units of Measure in Find Mode](Swapping%20Units%20of%20Measure%20in%20Find%20Mode.md)
+
 ### Invoices
 
 A. [Generating Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VI.%20Invoices/Generating%20Sales%20Order%20Invoices.md)

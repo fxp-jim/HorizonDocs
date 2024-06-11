@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "705640409132101c",
+        "id": "bce00090e5cd62fe",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9929104f63c28d",
+            "id": "b4bad399956d30ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md",
+                "file": "Horizon User Guide/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7abd59af4cb2ed55",
+            "id": "010e8fa2fbffc1f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md",
+                "file": "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "using MAc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md",
+                "file": "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md",
+                "file": "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/III. Customers/Merging Customer Records.md"
+                "file": "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md"
               }
             }
           }
@@ -159,14 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba9929104f63c28d",
+  "active": "010e8fa2fbffc1f9",
   "lastOpenFiles": [
-    "Horizon User Guide/VII. Bill of Materials (BOM)/Updating Bill of Materials (BOM) Costs by Batch.md",
+    "Horizon User Guide/Table of Contents.md",
+    "Horizon User Guide/V. Sales Orders/Swapping Units of Measure in Find Mode.md",
+    "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
+    "Horizon User Guide/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
+    "Horizon User Guide/III. Customers/Merging Customer Records.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Deleting a Bill of Materials (BoM) Yield Item.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Selecting Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Adding a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Quickly Adding an Item From Bill of Materials (BOM) Picker.md",
-    "Horizon User Guide/Table of Contents.md",
     "Horizon User Guide/IV. Products/B. All Products/Setting Vendor Prices as Inactive.md",
     "Horizon User Guide/V. Sales Orders/Receiving Orders/Unconfirming a Receiving Order.md",
     "Horizon User Guide/V. Sales Orders/Receiving Orders/Confirming a Receiving Order.md",
@@ -175,7 +178,6 @@
     "Horizon User Guide/IV. Products/A. All Items/Assigning Categories to All Items in Found Set.md",
     "Horizon User Guide/IV. Products/A. All Items/Creating a New Product in the Upload Vendor Prices.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Creating a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/III. Customers/Merging Customer Records.md",
     "Horizon User Guide/III. Customers/Confirming a Payment Record.md",
     "Horizon User Guide/VII. Bill of Materials (BOM)/Adding Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/IV. Products/E. All Equipment/Turning an Existing Product into an Equipment.md",
@@ -185,8 +187,6 @@
     "Horizon User Guide/IV. Products/B. All Products/Modifying a Product Flag Options (consumable, sale item, service, etc.).md",
     "Horizon User Guide/IV. Products/C. Services/Modifying a Product Flag Options (consumable, sale item, service etc.).md",
     "Horizon User Guide/IV. Products/E. All Equipment/Adding a New Equipment.md",
-    "Horizon User Guide/IV. Products/E. All Equipment/Modifying an Equipment Flag Options (consumable, sale item, service, etc.).md",
-    "Horizon User Guide/IV. Products/A. All Items/Adding Existing Items to Products, Services, Configurators, Equipment, or Discount.md",
     "assets/2_job_title_picker.png",
     "Horizon User Guide/IV. Products/E. All Equipment",
     "Horizon User Guide/IV. Products/All Items/Untitled",
