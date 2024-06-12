@@ -1,6 +1,6 @@
 ### Delete a Customer Tier,  Sales Channel, and Payment Terms
 _______________________________
-Follow these steps to deleter a customer tier, sales channel, and payment terms in sales orders: 
+Follow these steps to delete a customer tier, sales channel, and payment terms in sales orders: 
 
 1. Navigate to the main menu and click on **Sales Order**.
 2. Within the Sales Order section, click on **Order Management**, then select **Sales Orders** from the dropdown menu.

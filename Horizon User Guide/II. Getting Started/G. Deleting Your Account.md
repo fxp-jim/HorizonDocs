@@ -13,7 +13,7 @@ _______________________
 
 To permanently delete your account: 
 
-1. [Log into your account.](Logging%20Into%20Horizon.md)
+1. [Log into your account.](D.%20Logging%20Into%20Horizon.md)
 
 2. Click on **All Parties** on the main menu. 
 

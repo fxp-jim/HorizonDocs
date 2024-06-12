@@ -12,4 +12,4 @@ You can only delete your payment record if it hasn't been confirmed yet.
 
 Once you select **Delete**, your payment record will be immediately deleted. If you accidentally deleted your record, just [create another payment record](Creating%20a%20Payment%20Record.md).
 
-If you forgot your password and are not able to delete your payment, please try to [reset your password](Resetting%20Your%20Password.md).
+If you forgot your password and are not able to delete your payment, please try to [reset your password](F.%20Resetting%20Your%20Password.md).
