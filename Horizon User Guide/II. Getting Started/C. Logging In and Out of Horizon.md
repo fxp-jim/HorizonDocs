@@ -14,5 +14,17 @@ __________________________________
 4. Click **Log In** or press **Enter** (Windows) or **Return** (Mac). 
 ##### If you're having problems logging in
 
-If you're having trouble with your password, learn how to  [reset your password.](F.%20Resetting%20Your%20Password.md)
+If you're having trouble with your password, learn how to  [reset your password.](D.%20Resetting%20Your%20Password.md)
 
+### ### Log Out of Horizon
+___________________
+
+###### To log out of Horizon when you are on the main menu:
+
+• Click **Log Out** at the bottom of the main menu.
+
+###### To log out of Horizon when you are not on the main menu:
+
+• Click **Main Menu** at the top left. 
+
+• Click **Log Out** at the bottom of the main menu.
