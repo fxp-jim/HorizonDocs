@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md"
+                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md"
               }
             }
           }
@@ -173,11 +173,12 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "assets/6_create an account for another user.png",
-    "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
     "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
-    "assets/5_create_your_own_horizon_account.png",
+    "assets/7_log in.png",
+    "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
     "Horizon User Guide/II. Getting Started/A. Launching Horizon File.md",
+    "assets/6_create an account for another user.png",
+    "assets/5_create_your_own_horizon_account.png",
     "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
     "assets/3_sales_order_gear_icon.png",
     "assets/2_job_title_picker.png",
@@ -217,8 +218,6 @@
     "assets/4_sales_order_find_mode.png",
     "assets/2_sales_order_primary_contact.png",
     "assets/push_push_button.png",
-    "assets/push_main_menu>customers.png",
-    "assets/push_data_push_successful.png",
-    "assets/push_data_check_QuickBooks.png"
+    "assets/push_main_menu>customers.png"
   ]
 }

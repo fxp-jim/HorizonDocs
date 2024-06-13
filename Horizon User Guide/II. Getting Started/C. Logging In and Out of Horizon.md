@@ -2,29 +2,33 @@
 __________________________________
 ##### Log in using your Horizon login information
 
-1. [Launch Horizon file.](A.%20Launching%20Horizon%20File.md)
+1. **[Launch Horizon file](A.%20Launching%20Horizon%20File.md).**
+    
+2. **Open Login Page:**
+    
+    - Go to the Horizon login page.
+3. **Enter Credentials:**
+    
+    - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
+    - **Password:** Enter your password.
 
-2. Go to Horizon log in page.
+![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_log%20in.png)
 
-3. Enter **Account Name** and **Password**:
+4. **Log In:**
+    
+    - Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
+##### Troubleshooting Login Issues
 
-    - **Enter** **account name**: Type your **account name**, that is the email that's listed on your Horizon account (e.g., xxx@gmail.com).
-    - Enter your password. 
-
-4. Click **Log In** or press **Enter** (Windows) or **Return** (Mac). 
-##### If you're having problems logging in
-
-If you're having trouble with your password, learn how to  [reset your password.](D.%20Resetting%20Your%20Password.md)
+- If you have trouble with your password, [reset your password](D.%20Resetting%20Your%20Password.md).
 
 ### ### Log Out of Horizon
 ___________________
 
-###### To log out of Horizon when you are on the main menu:
+#### From the Main Menu:
 
-• Click **Log Out** at the bottom of the main menu.
+- Click **Log Out** at the bottom of the main menu.
 
-###### To log out of Horizon when you are not on the main menu:
+#### From Other Pages:
 
-• Click **Main Menu** at the top left. 
-
-• Click **Log Out** at the bottom of the main menu.
+- Click **Main Menu** at the top left.
+- Then, click **Log Out** at the bottom of the main menu.
