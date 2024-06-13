@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
+                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
+                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
+                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md"
+                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
     "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
+    "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
     "assets/5_create_your_own_horizon_account.png",
     "Horizon User Guide/II. Getting Started/A. Launching Horizon File.md",
     "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
