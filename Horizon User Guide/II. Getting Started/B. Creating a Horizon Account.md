@@ -24,29 +24,26 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 ### Create a Horizon account for another user
 ____
 ###### To create an account for another user if you're logged in to Horizon:
+1. **Navigate to Employees:**
+    
+    - Go to **All Parties** > **Employees** > **New Record**.
+2. **Enter Employee Details:**
+    
+    - Fill in the required fields, including the first name and primary contact method. Click **Save**.
+3. **Edit Employee Record:**
+    
+    - Click on the new record and enter a valid email under **FileMaker user name**.
+4. **Assign Privilege:**
+    
+    - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). Click **Add Account**.
+5. **Email Confirmation:**
+    
+    - Click **OK** when the **Email Sent** notification appears.
+6. **Activate Account:**
+    
+    - Open the **Request for Horizon Access** email, use the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
+7. **Finalize:**
+    
+    - Click **OK** on the **Account Created** notification.
 
-1. Click on **All Parties** on the main menu, then click on **Employees** tab > **New Record.**
-
-2. Fill in **New Employee** details, including the user name and contact information. Ensure you input at least their first name and choose a primary contact method by ticking the box under **Primary**, then click **Save**. 
-
-	⚠️ Note: A primary contact method must be selected to save changes.
-
-3. Click on the newly created employee record. 
-
-4. Enter a valid email address in the box **FileMaker user name.**
-
-5. Select a **FileMaker privilege** that aligns with the user's role in the system, such as accountant, caterer, chef, guest, manager, planner, system administrator, or waiter.
-
-	Note: You cannot **Add Account** until you choose a **FileMaker privilege.**
-
-6. Click on **Add Account**. 
-
-7. Click **OK** when you see the **Email Sent** notification.
-
-8. Open the email titled **Request for Horizon Access.** Copy the link inside, paste it into your browser's address bar, and press Return (if you're on Mac) to **Open FileMaker Pro.** You'll be taken back to Horizon.
-
-	⚠️ Note:  The link expires in 15 minutes. 
-
-9. Create new **password** and click **Continue**. (You may need to delete the system-generated password.) 
-
-10. Click **OK** when you see the **Account Created** notification. 
+This process efficiently sets up a new user account in Horizon.
