@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
+                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
+                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
+                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md"
+                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md"
               }
             }
           }
@@ -173,13 +173,15 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/II. Getting Started/E. Main Menu.md",
-    "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
-    "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
-    "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
-    "Horizon User Guide/II. Getting Started/E. Logging Out of Horizon.md",
+    "assets/1_create_your_own_horizon_account.png",
     "Horizon User Guide/II. Getting Started/A. Launching Horizon File.md",
     "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
+    "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
+    "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+    "assets/1_create_own_horizon_account.png",
+    "Horizon User Guide/II. Getting Started/E. Main Menu.md",
+    "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
+    "Horizon User Guide/II. Getting Started/E. Logging Out of Horizon.md",
     "Horizon User Guide/I. Table of Contents/Table of Contents.md",
     "Horizon User Guide/I. Table of Contents 1.md",
     "Horizon User Guide/Untitled",
@@ -200,7 +202,6 @@
     "Horizon User Guide/V. Sales Orders/Receiving Orders/Unconfirming a Receiving Order.md",
     "Horizon User Guide/V. Sales Orders/Receiving Orders/Confirming a Receiving Order.md",
     "Horizon User Guide/V. Sales Orders/Receiving Orders/Creating a Receiving Order.md",
-    "Horizon User Guide/To be continued QBO Integration (Push and Pull).md",
     "assets/2_job_title_picker.png",
     "Horizon User Guide/IV. Products/E. All Equipment",
     "Horizon User Guide/IV. Products/All Items/Untitled",
@@ -217,8 +218,6 @@
     "assets/push_push_button.png",
     "assets/push_main_menu>customers.png",
     "assets/push_data_push_successful.png",
-    "assets/push_data_check_QuickBooks.png",
-    "assets/push_customer's_name_search_result.png",
-    "assets/push_customer's_name_search_bar.png"
+    "assets/push_data_check_QuickBooks.png"
   ]
 }

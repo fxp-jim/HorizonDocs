@@ -1,36 +1,28 @@
 ### Create a Horizon Account
 _________________________
-
-The Create Account module is a key part of Horizon, allowing users to sign up and access personalized features securely. It's essential for ensuring security and tailored experiences within the platform.
-
+With your Horizon account, you can access all Horizon files, including Parties, Products, Sales Orders, Invoices, Bill of Materials, and Leads. You can create sales orders, generate demand, generate invoices, create Bills of Materials, and more.
 #### Create Your Own Horizon Account
 
-1. [Launch Horizon file](A.%20Launching%20Horizon%20File.md).
+1. **Open Horizon**: [Follow the steps to launch the Horizon file](A.%20Launching%20Horizon%20File.md).
+2. **Add Account**: Click **Add Account** on the login page.
+3. **Enter Email**:
+    - Type your email username and select your domain.
+    - Click **Send Request** to validate.
+4. **Confirm Email Sent**: Click **OK**.
+5. **Validate Email**:
+    - Open the **Request for Horizon Access** email.
+    - Copy and paste the link into your browser.
+    ⚠️ Link expires in 15 minutes.
+    
+![](1_create_your_own_horizon_account.png)
 
-2. Click **Add Account** on the Horizon login page.
-
-3. Enter your **email username** (before "@"), and type or choose your domain (e.g., gmail.com). Click **Send Request** to validate your email.
-
-4. Click **OK** when you see the **Email Sent** notification.
-
-5. Open the email titled **Request for Horizon Access.** Copy the link inside, paste it into your browser's address bar, and press Return (if you're on Mac) to  **Open FileMaker Pro.** You'll be taken back to Horizon.
-
-	⚠️ Note: The link expires in 15 minutes. 
-	
-6. Select an access **privilege** that aligns with your role in the system, such as accountant, caterer, chef, guest, manager, planner, system administrator, or waiter. (Your **account name** will be auto-entered and cannot be edited.)
-
-7. Create your **password** and click **Continue**. (You may need to delete the system-generated password.) 
-
-8. Fill in **New Employee** details, including your name and contact information. Ensure you input at least your first name and select a preferred contact method (email or phone).
-
-9. Choose a primary contact method by ticking the box under **Primary**, then click **Save**. 
-
-	⚠️ Note: A primary contact method must be selected to save changes.
-
-10. Click **OK** when you see the **Account Created** notification.
-
+6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system.
+7. **Set Password**: Enter your password and click **Continue**.
+8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.
+9. **Save Contact Method**: Tick the **Primary** box and click **Save**.
+10. **Account Created**: Click **OK**.
 ### Create a Horizon account for another user
-
+____
 ###### To create an account for another user if you're logged in to Horizon:
 
 1. Click on **All Parties** on the main menu, then click on **Employees** tab > **New Record.**
