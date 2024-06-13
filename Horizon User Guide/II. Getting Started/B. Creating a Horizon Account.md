@@ -21,9 +21,10 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.
 9. **Save Contact Method**: Tick the **Primary** box and click **Save**.
 10. **Account Created**: Click **OK**.
-### Create a Horizon account for another user
+### Create an Account for Another User in Horizon
 ____
 ###### To create an account for another user if you're logged in to Horizon:
+
 1. **Navigate to Employees:**
     
     - Go to **All Parties** > **Employees** > **New Record**.
