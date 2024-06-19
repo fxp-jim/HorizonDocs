@@ -12,7 +12,7 @@ __________________________________
     - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
     - **Password:** Enter your password.
 
-![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_log%20in.png)
+![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/![](7_log_in_screen.png)
 
 4. **Log In:**
     
