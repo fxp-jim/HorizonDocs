@@ -35,9 +35,11 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/sales_order_find_mode.png"
+                "file": "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/sales_order_find_mode.png",
+                "file": "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/sales_order_find_mode.png",
+                "file": "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/sales_order_find_mode.png"
+                "file": "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md"
               }
             }
           }
@@ -169,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b6989c1ca2ac75",
+  "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "assets/sales_order_find_mode.png",
     "assets/sales_order_gear_icon.png",
     "assets/job_title_picker.png",
     "assets/3_log_in_screen.png",
@@ -215,7 +218,6 @@
     "Horizon User Guide/IV. Products/All Items/Items",
     "Horizon User Guide/IV. Products/A. All Items",
     "Horizon User Guide/IV. Products/D. Configurators",
-    "Untitled.canvas",
-    "assets/sales_order_find_mode.png"
+    "Untitled.canvas"
   ]
 }
