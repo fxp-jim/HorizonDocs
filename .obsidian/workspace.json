@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4bad399956d30ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon User Guide/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "010e8fa2fbffc1f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon User Guide/I. Table of Contents/Table of Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+                "file": "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+                "file": "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+                "file": "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md"
+                "file": "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md"
               }
             }
           }
@@ -173,22 +148,22 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
+    "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+    "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
+    "Horizon User Guide/II. Getting Started/A. Launching Horizon File.md",
+    "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
+    "assets/5_delete_account.png",
     "assets/1_create_your_own_horizon_account.png",
     "assets/2_create _account_another_user.png",
-    "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
-    "Horizon User Guide/II. Getting Started/A. Launching Horizon File.md",
     "assets/3_log_in.png",
     "assets/4_reset_password.png",
     "assets/job_title_picker.png",
     "assets/3_log_in_screen.png",
     "assets/2_create an account for another user.png",
-    "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
     "assets/sales_order_find_mode.png",
     "assets/sales_order_gear_icon.png",
-    "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
-    "assets/next_button.jpg",
     "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
-    "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
     "Horizon User Guide/II. Getting Started/E. Main Menu.md",
     "Horizon User Guide/II. Getting Started/E. Logging Out of Horizon.md",
     "Horizon User Guide/I. Table of Contents/Table of Contents.md",
