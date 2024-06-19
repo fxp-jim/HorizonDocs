@@ -33,6 +33,8 @@ ______________________________
 
 4. Click on **Reset Password** down the **Delete Account** button.
 
+![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_reset_password.png)
+
 5. Click **OK** when you see an **Email Sent** notification. 
 
 6. Open the Horizon email titled **Request for Password Reset**. Copy the link inside, paste it into your browser's address bar, and press Return (if you're on Mac) to **Open FileMaker Pro.** You'll be taken back to Horizon.

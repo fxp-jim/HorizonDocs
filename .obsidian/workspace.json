@@ -35,11 +35,9 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/sales_order_find_mode.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
+                "file": "assets/sales_order_find_mode.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
+                "file": "assets/sales_order_find_mode.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md"
+                "file": "assets/sales_order_find_mode.png"
               }
             }
           }
@@ -171,20 +169,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3451ada06c617c6",
+  "active": "22b6989c1ca2ac75",
   "lastOpenFiles": [
-    "assets/7_log_in_screen.png",
-    "assets/7_log in.png",
+    "assets/sales_order_gear_icon.png",
+    "assets/job_title_picker.png",
+    "assets/3_log_in_screen.png",
+    "assets/4_reset_password.png",
+    "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
     "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
     "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
+    "assets/next_button.jpg",
+    "assets/2_create an account for another user.png",
+    "assets/1_create_your_own_horizon_account.png",
     "Horizon User Guide/II. Getting Started/A. Launching Horizon File.md",
-    "assets/6_create an account for another user.png",
-    "assets/5_create_your_own_horizon_account.png",
+    "assets/7_log in.png",
     "Horizon User Guide/V. Sales Orders/Creating a Sales Order.md",
-    "assets/3_sales_order_gear_icon.png",
-    "assets/2_job_title_picker.png",
     "Horizon User Guide/II. Getting Started/F. Deleting Your Account.md",
-    "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
     "assets/1_create_own_horizon_account.png",
     "Horizon User Guide/II. Getting Started/E. Main Menu.md",
     "Horizon User Guide/II. Getting Started/E. Logging Out of Horizon.md",
@@ -216,8 +216,6 @@
     "Horizon User Guide/IV. Products/A. All Items",
     "Horizon User Guide/IV. Products/D. Configurators",
     "Untitled.canvas",
-    "assets/4_sales_order_find_mode.png",
-    "assets/2_sales_order_primary_contact.png",
-    "assets/push_push_button.png"
+    "assets/sales_order_find_mode.png"
   ]
 }
