@@ -21,7 +21,7 @@ __________________________________
 
 - If you have trouble with your password, [reset your password](D.%20Resetting%20Your%20Password.md).
 
-### ### Log Out of Horizon
+### Log Out of Horizon
 ___________________
 
 #### From the Main Menu:
