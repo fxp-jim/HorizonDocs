@@ -34,6 +34,9 @@ ______________________________
 
 ![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_reset_password.png)
 
+![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/8_reset_password%20(1).png)
+
+
 5. Click **OK** after receiving the **Email Sent** notification.
 
 6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
