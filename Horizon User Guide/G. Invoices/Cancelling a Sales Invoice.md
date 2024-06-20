@@ -11,4 +11,4 @@ Here's a simple guide to canceling a sales invoice:
 4. **Confirm Cancellation:** In the dialogue box that appears, select **YES** to confirm the cancellation.
     
 
-That's it! You've successfully canceled a sales invoice. If you need to [generate a sales invoice](Horizon%20User%20Guide/VI.%20Sales%20Orders/Generating%20Sales%20Order%20Invoices.md), simply click on the provided link.
+That's it! You've successfully canceled a sales invoice. If you need to [generate a sales invoice](Horizon%20User%20Guide/F.%20Sales%20Orders/Generating%20Sales%20Order%20Invoices.md), simply click on the provided link.
