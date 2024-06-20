@@ -1,10 +1,10 @@
 ## Start Using Horizon
 ______
-Welcome to _Horizon_. This file is designed for tracking **[Demand](#Demand)** for all our products and items, enabling us to forecast resource availability accurately. It's important to configure each **[item](#item)** correctly before adding it to a sales order to ensure precise demand tracking and effective resource planning. 
+Welcome to _Horizon_. This file is designed for tracking demand for all our products and items, enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to a sales order to ensure precise demand tracking and effective resource planning. 
 
 Access the main features of the app by tapping the buttons in the left-hand tab bar. 
 
-* [Launch Horizon File](#Launch%20Horizon%20File)
+* [Launch Horizon File](#https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/B.%20Getting%20Started/Start%20Using%20Horizon.md#launch-horizon-fileLaunch%20Horizon%20File)
 * [#Create a Horizon Account*
 	* Create Your Own Horizon Account
 	* Create an Account for Another User in Horizon
