@@ -1,9 +1,11 @@
 ## Start Using Horizon
 ______
-Welcome to _Horizon_. This app is designed for streamlining order fulfillment and customer transactions. You can access the main features of the app by tapping the buttons in the left-hand tab bar. 
+Welcome to _Horizon_. This file is designed for tracking [demand](#^ef0049) for all our products and items, enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to a sales order to ensure precise demand tracking and effective resource planning. 
 
-* **Launch Horizon File**
-* **Create a Horizon Account**
+Access the main features of the app by tapping the buttons in the left-hand tab bar. 
+
+* [Launch Horizon File](#Launch%20Horizon%20File)
+* [#Create a Horizon Account*
 	* Create Your Own Horizon Account
 	* Create an Account for Another User in Horizon
 * **Log In and Out of Horizon**
@@ -81,38 +83,57 @@ __________________________________
 ##### Log in using your Horizon login information
 
 1. **[Launch Horizon file](I.%20Launching%20Horizon%20File.md).**
-    
 2. **Open Login Page:**
-    
     - Go to the Horizon login page.
 3. **Enter Credentials:**
-    
     - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
     - **Password:** Enter your password.
 
 ![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_log_in_screen.png)
 
 4. **Log In:**
-    
     - Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
 ##### Troubleshooting Login Issues
-
 - If you have trouble with your password, [reset your password](IV.%20Resetting%20Your%20Password.md).
 
 ### Log Out of Horizon
 ___________________
-
 #### From the Main Menu:
-
 - Click **Log Out** at the bottom of the main menu.
-
 #### From Other Pages:
-
 - Click **Main Menu** at the top left.
 - Then, click **Log Out** at the bottom of the main menu.
 
 ### Navigate the Main Menu
 ___
+The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
+
+![](6_main_menu.png)
+ 
+ * **All Parties**: Select this menu to navigate through customer, vendor, and employee records, and more.
+
+* **Customers**: Select this menu to manage payment transaction records. 
+
+* **Products**: Select this menu to manage all items in the system, including products, services, configurators, and equipment.
+
+	A. **Products** are consumable physical items that can be created or purchased, each with prices (e.g., vendor prices) for picking and selling. 
+	
+	B. **Services** are 
+	
+	C. **Configurators** offer customers a set of predetermined choices for a specific **sales order.** These choices are defined in the configurator and allow users to select a specific number of items, totaling a specific quantity from a specific category. for selecting products, such as different types of six-inch cakes (e.g., yellow, chocolate, red velvet, carrot). Each choice results in a specific sales order item being entered, and the configurator also determines the Bill of Materials (BOM) needed to produce the chosen product.
+	
+	D. **Equipment** refers to essential items used in various aspects of product creation and order fulfillment. This can range from basic kitchen utensils like plates and knives to larger items necessary for catering social events, such as tables, chairs, and cloths. Equipment is also included in the Bill of Materials, which outlines all necessary items for creating products.
+
+* A **Bill of Materials** (BOM) is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are created. BOMs can also accommodate different versions or configurations of the product, and while multiple BOMs may exist for an item, typically only one is used at any given time for production.
+
+* **Leads** 
+
+
+
+* **Demand** represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
+ ^ef0049 
+* An **item** is a fundamental unit that can be included in various types of orders. It encompasses everything that can be added to an order, such as products, configurators, equipment, and discounts. Each type of item has distinct attributes and leads to the creation of different demand records when ordered. All types of items are categorized as "Items" and are stored in the main item database table.
+
 
 
 
