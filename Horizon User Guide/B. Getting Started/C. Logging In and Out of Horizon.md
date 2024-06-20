@@ -2,7 +2,7 @@
 __________________________________
 ##### Log in using your Horizon login information
 
-1. **[Launch Horizon file](A.%20Launching%20Horizon%20File.md).**
+1. **[Launch Horizon file](a.%20Launching%20Horizon%20File.md).**
     
 2. **Open Login Page:**
     
@@ -19,7 +19,7 @@ __________________________________
     - Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
 ##### Troubleshooting Login Issues
 
-- If you have trouble with your password, [reset your password](D.%20Resetting%20Your%20Password.md).
+- If you have trouble with your password, [reset your password](d.%20Resetting%20Your%20Password.md).
 
 ### Log Out of Horizon
 ___________________

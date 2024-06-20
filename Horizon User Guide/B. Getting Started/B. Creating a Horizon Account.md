@@ -3,7 +3,7 @@ _________________________
 With your Horizon account, you can access all Horizon files, including Parties, Products, Sales Orders, Invoices, Bill of Materials, and Leads. You can create sales orders, generate demand, generate invoices, create Bills of Materials, and more.
 #### Create Your Own Horizon Account
 
-1. **Open Horizon**: [Follow the steps to launch the Horizon file](A.%20Launching%20Horizon%20File.md).
+1. **Open Horizon**: [Follow the steps to launch the Horizon file](a.%20Launching%20Horizon%20File.md).
 2. **Add Account**: Click **Add Account** on the login page.
 3. **Enter Email**:
     - Type your email username and select your domain.

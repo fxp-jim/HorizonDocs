@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/I. Leads/Leads.md",
+                "file": "Horizon User Guide/B. Getting Started/f. Deleting Your Account.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/I. Leads/Leads.md",
+                "file": "Horizon User Guide/B. Getting Started/f. Deleting Your Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/I. Leads/Leads.md",
+                "file": "Horizon User Guide/B. Getting Started/f. Deleting Your Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/I. Leads/Leads.md"
+                "file": "Horizon User Guide/B. Getting Started/f. Deleting Your Account.md"
               }
             }
           }
@@ -146,22 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b6989c1ca2ac75",
+  "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/B. Getting Started/E. Main Menu.md",
+    "Horizon User Guide/B. Getting Started/e. Main Menu.md",
+    "Horizon User Guide/B. Getting Started/d. Resetting Your Password.md",
+    "Horizon User Guide/B. Getting Started/c. Logging In and Out of Horizon.md",
+    "Horizon User Guide/B. Getting Started/b. Creating a Horizon Account.md",
+    "Horizon User Guide/B. Getting Started/a. Launching Horizon File.md",
     "Horizon User Guide/I. Leads/Leads.md",
     "Horizon User Guide/I. Leads",
-    "Horizon User Guide/B. Getting Started/D. Resetting Your Password.md",
-    "Horizon User Guide/B. Getting Started/C. Logging In and Out of Horizon.md",
-    "Horizon User Guide/B. Getting Started/B. Creating a Horizon Account.md",
-    "Horizon User Guide/B. Getting Started/A. Launching Horizon File.md",
     "Horizon User Guide/D. Customers/Deleting a Payment Record.md",
     "Horizon User Guide/D. Customers/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
     "Horizon User Guide/D. Customers/Creating a Payment Plan.md",
     "Horizon User Guide/D. Customers/Creating a New Customer Record.md",
     "Horizon User Guide/D. Customers/Adding a Payment Card.md",
     "assets/6_main_menu.png",
-    "Horizon User Guide/B. Getting Started/F. Deleting Your Account.md",
+    "Horizon User Guide/B. Getting Started/f. Deleting Your Account.md",
     "assets/5_delete_account.png",
     "assets/1_create_your_own_horizon_account.png",
     "assets/2_create _account_another_user.png",
