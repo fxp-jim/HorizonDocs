@@ -1,4 +1,3 @@
-
 ### Set Vendor Prices as Inactive
 ___
 Managing outdated pricing information is crucial for keeping your records accurate. Follow these simple steps to set your vendor prices inactive:

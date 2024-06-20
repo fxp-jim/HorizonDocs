@@ -1,8 +1,8 @@
-### Reset your Horizon password
+### Reset Your Horizon Password
 ______________________________
 **To reset your password if you're not logged in to Horizon:** 
 
-1. [Launch Horizon file.](I.%20Launching%20Horizon%20File.md)
+1. [Launch Horizon file.](I.%20Launch%20Horizon%20File.md)
 
 2. Enter your **account name** (email) on the Horizon login page.
 

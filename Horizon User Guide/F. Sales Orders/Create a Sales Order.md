@@ -1,9 +1,5 @@
 ### Create a Sales Order
 ______________________
-
-
-
-
 A sales order is a document that initiates the process of fulfilling a customer's request for products or services. In this guide, we'll will provide you with step-by-step instructions and essential tips to streamline the sales order creation process. 
 
 ⚠️ Note: To create a sales order, you need the customer's record. If not, you must first [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/Customers/Creating%20a%20Customer's%20New%20Record.md).

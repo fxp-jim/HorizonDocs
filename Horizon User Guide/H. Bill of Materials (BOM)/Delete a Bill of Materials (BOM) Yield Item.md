@@ -1,4 +1,3 @@
-
 ### Delete a BOM Yield Item
 __________________________
 Follow these simple steps to delete a BOM yield item:

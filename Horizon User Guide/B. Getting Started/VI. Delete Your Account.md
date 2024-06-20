@@ -1,4 +1,4 @@
-### Delete your account
+### Delete Your Account
 _______________________
 #### What happens if I permanently delete my Horizon account? 
 
@@ -11,7 +11,7 @@ _______________________
 
 To permanently delete your account:
 
-1. [Log into your account.](III.%20Logging%20In%20and%20Out%20of%20Horizon.md)
+1. [Log into your account.](III.%20Log%20In%20and%20Out%20of%20Horizon.md)
 
 2. Go to **All Parties** on the main menu.
 

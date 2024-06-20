@@ -1,4 +1,4 @@
-### Add a New Service
+### Add a Service
 _____
 Here's a simple guide to add a new service:
 

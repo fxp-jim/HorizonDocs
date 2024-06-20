@@ -1,4 +1,3 @@
-
 ### Assign Categories to All Items in Found Set
 ____
 1. Navigate to the main menu and choose **Products**.
