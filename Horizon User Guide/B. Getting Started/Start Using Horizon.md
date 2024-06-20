@@ -5,7 +5,7 @@ Welcome to _Horizon_. This file is designed for tracking demand for all our prod
 Access the main features of the app by tapping the buttons in the left-hand tab bar. 
 
 * [Launch Horizon File](#https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/B.%20Getting%20Started/Start%20Using%20Horizon.md#launch-horizon-fileLaunch%20Horizon%20File)
-* [#Create a Horizon Account*
+* Create a Horizon Account
 	* Create Your Own Horizon Account
 	* Create an Account for Another User in Horizon
 * **Log In and Out of Horizon**
