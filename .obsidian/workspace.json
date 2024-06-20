@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/E. Main Menu.md",
+                "file": "Horizon User Guide/IX. Leads/Leads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/E. Main Menu.md",
+                "file": "Horizon User Guide/IX. Leads/Leads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/E. Main Menu.md",
+                "file": "Horizon User Guide/IX. Leads/Leads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/II. Getting Started/E. Main Menu.md"
+                "file": "Horizon User Guide/IX. Leads/Leads.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/II. Getting Started/E. Main Menu.md",
+    "Horizon User Guide/IX. Leads/Leads.md",
     "Horizon User Guide/IX. Leads",
     "Horizon User Guide/II. Getting Started/D. Resetting Your Password.md",
     "Horizon User Guide/II. Getting Started/C. Logging In and Out of Horizon.md",
     "Horizon User Guide/II. Getting Started/B. Creating a Horizon Account.md",
     "Horizon User Guide/II. Getting Started/A. Launching Horizon File.md",
-    "Horizon User Guide/II. Getting Started/E. Main Menu.md",
     "Horizon User Guide/IV. Customers/Deleting a Payment Record.md",
     "Horizon User Guide/IV. Customers/Deleting a Customer Tier,  Sales Channel, and Payment Terms.md",
     "Horizon User Guide/IV. Customers/Creating a Payment Plan.md",
@@ -193,7 +194,6 @@
     "Horizon User Guide/IV. Products/All Items/Products",
     "Horizon User Guide/IV. Products/All Items/Items",
     "Horizon User Guide/V. Products/A. All Items",
-    "Horizon User Guide/V. Products/D. Configurators",
     "Untitled.canvas"
   ]
 }
