@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/A. Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/A. Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/A. Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/A. Table of Contents/Table of Contents.md"
+                "file": "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/A. Table of Contents/Table of Contents.md",
     "Horizon User Guide/J. Searching on Horizon/Find Mode.md",
     "Untitled.md",
     "Horizon User Guide/J. Searching on Horizon/Browse Mode.md",
@@ -173,7 +174,6 @@
     "Horizon User Guide/F. Sales Orders/Add Taxable Line Items to a Sales Order.md",
     "Horizon User Guide/F. Sales Orders/Sales Estimates/Print Sales Estimates.md",
     "Horizon User Guide/F. Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
-    "Horizon User Guide/F. Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
     "Horizon User Guide/I. Leads",
     "assets/6_main_menu.png",
     "assets/5_delete_account.png",
