@@ -1,6 +1,6 @@
 ## Start Using Horizon
 ______
-Welcome to _Horizon_. This file is designed for tracking [demand](#^ef0049) for all our products and items, enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to a sales order to ensure precise demand tracking and effective resource planning. 
+Welcome to _Horizon_. This file is designed for tracking **[Demand](#Demand)** for all our products and items, enabling us to forecast resource availability accurately. It's important to configure each **[item](#item)** correctly before adding it to a sales order to ensure precise demand tracking and effective resource planning. 
 
 Access the main features of the app by tapping the buttons in the left-hand tab bar. 
 
@@ -129,10 +129,9 @@ The first thing you see when you're logged into Horizon is the _main menu_. Use
 * **Leads** 
 
 
+Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
 
-* **Demand** represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
- ^ef0049 
-* An **item** is a fundamental unit that can be included in various types of orders. It encompasses everything that can be added to an order, such as products, configurators, equipment, and discounts. Each type of item has distinct attributes and leads to the creation of different demand records when ordered. All types of items are categorized as "Items" and are stored in the main item database table.
+* An **[item](#item)** is a fundamental unit that can be included in various types of orders. It encompasses everything that can be added to an order, such as products, configurators, equipment, and discounts. Each type of item has distinct attributes and leads to the creation of different demand records when ordered. All types of items are categorized as "Items" and are stored in the main item database table.
 
 
 
