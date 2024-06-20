@@ -19,7 +19,7 @@ __________________________________
     - Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
 ##### Troubleshooting Login Issues
 
-- If you have trouble with your password, [reset your password](IV.%20Resetting%20Your%20Password.md).
+- If you have trouble with your password, [reset your password](V.%20Resetting%20Your%20Password.md).
 
 ### Log Out of Horizon
 ___________________
