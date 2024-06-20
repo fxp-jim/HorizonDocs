@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/J. Searching on Horizon/Find Mode.md",
+                "file": "Horizon User Guide/A. Table of Contents/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/J. Searching on Horizon/Find Mode.md",
+                "file": "Horizon User Guide/A. Table of Contents/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/J. Searching on Horizon/Find Mode.md",
+                "file": "Horizon User Guide/A. Table of Contents/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/J. Searching on Horizon/Find Mode.md"
+                "file": "Horizon User Guide/A. Table of Contents/Table of Contents.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Untitled.md",
     "Horizon User Guide/J. Searching on Horizon/Find Mode.md",
+    "Untitled.md",
     "Horizon User Guide/J. Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/I. Leads/Leads.md",
     "Horizon User Guide/H. Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
