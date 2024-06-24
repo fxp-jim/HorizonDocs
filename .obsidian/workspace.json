@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
+                "file": "Horizon User Guide/B. Getting Started/IV. Start Using Horizon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
+                "file": "Horizon User Guide/B. Getting Started/IV. Start Using Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
+                "file": "Horizon User Guide/B. Getting Started/IV. Start Using Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md"
+                "file": "Horizon User Guide/B. Getting Started/IV. Start Using Horizon.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "assets/6_main_menu.png",
+    "Horizon User Guide/B. Getting Started/IV. Start Using Horizon.md",
+    "Horizon User Guide/B. Getting Started/III. Log In and Out of Horizon.md",
+    "Horizon User Guide/B. Getting Started/II. Create a Horizon Account.md",
+    "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
     "Horizon User Guide/A. Table of Contents/Table of Contents.md",
     "Horizon User Guide/J. Searching on Horizon/Find Mode.md",
     "Untitled.md",
@@ -169,13 +174,7 @@
     "Horizon User Guide/F. Sales Orders/Delete a Sales Order Line Item.md",
     "Horizon User Guide/F. Sales Orders/Delete a Product in Sales Orders.md",
     "Horizon User Guide/F. Sales Orders/Create a Sales Order.md",
-    "Horizon User Guide/F. Sales Orders/Confirm a Sales Order.md",
-    "Horizon User Guide/F. Sales Orders/Adjust Prices and Quantities in Sales Orders.md",
-    "Horizon User Guide/F. Sales Orders/Add Taxable Line Items to a Sales Order.md",
-    "Horizon User Guide/F. Sales Orders/Sales Estimates/Print Sales Estimates.md",
-    "Horizon User Guide/F. Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/I. Leads",
-    "assets/6_main_menu.png",
     "assets/5_delete_account.png",
     "assets/1_create_your_own_horizon_account.png",
     "assets/2_create _account_another_user.png",
