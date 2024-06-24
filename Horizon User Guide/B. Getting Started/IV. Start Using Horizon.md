@@ -1,6 +1,6 @@
 ## Start Using Horizon
 ______
-Welcome to _Horizon_. *Horizon* is designed for tracking [Demand](#demand) for all our products and items, enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to a sales order to ensure precise demand tracking and effective resource planning.
+Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our products and items, enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to a sales order to ensure precise demand tracking and effective resource planning.
 
 ### Navigate the Main Menu
 ___
