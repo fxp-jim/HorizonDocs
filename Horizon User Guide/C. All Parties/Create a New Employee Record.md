@@ -15,7 +15,7 @@ Follow these steps to create a new employee record:
     
     - Provide name, email, phone, URLs, and address details.
     
-    ⚠️ Include a two-digit country code in addresses.
+    ⚠️ Input a two-digit country code in addresses.
     
 5. **Choose Primary Contact Method**:
     
