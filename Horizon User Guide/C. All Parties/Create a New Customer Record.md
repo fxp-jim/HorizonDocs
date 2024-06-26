@@ -28,5 +28,4 @@ To create a sales order record, first create a customer record. Follow these ste
     
 ![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_create_customer_record.png)
 
-
 That's it! You've created a new customer record. Contact our support team for any questions.
