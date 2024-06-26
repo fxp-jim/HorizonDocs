@@ -19,7 +19,7 @@ Follow these steps to create a new employee record:
     
 5. **Choose Primary Contact Method**:
     
-    - Select a preferred contact method by checking the **Primary** box.
+    - Select a preferred contact method by checking the box under **Primary**. 
     
     ⚠️ Must select a primary contact method to save.
 6. **Save the Record**:

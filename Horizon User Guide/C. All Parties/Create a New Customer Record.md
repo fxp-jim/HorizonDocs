@@ -19,7 +19,7 @@ Follow these steps:
     
 5. **Choose Primary Contact Method**:
     
-    - Select a preferred contact method by checking the  box under **Primary**. 
+    - Select a preferred contact method by checking the box under **Primary**. 
     
     ⚠️ Must select a primary contact method to save.
 6. **Save the Record**:
