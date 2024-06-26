@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
+                "file": "Horizon User Guide/C. All Parties/Create a New Customer Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
+                "file": "Horizon User Guide/C. All Parties/Create a New Customer Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
+                "file": "Horizon User Guide/C. All Parties/Create a New Customer Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/C. All Parties/Create a New Vendor Record.md"
+                "file": "Horizon User Guide/C. All Parties/Create a New Customer Record.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/C. All Parties/Create a New Employee Record.md",
-    "Horizon User Guide/C. All Parties/Create a New Customer Record.md",
-    "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
-    "Horizon User Guide/B. Getting Started/VI. Delete Your Account.md",
-    "Horizon User Guide/B. Getting Started/V. Reset Your Password.md",
     "Horizon User Guide/B. Getting Started/IV. Start Using Horizon.md",
+    "Horizon User Guide/B. Getting Started/V. Reset Your Password.md",
+    "Horizon User Guide/C. All Parties/Create a New Customer Record.md",
+    "assets/7_create_customer_record.png",
+    "Horizon User Guide/F. Sales Orders/Create a Sales Order.md",
+    "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
+    "Horizon User Guide/C. All Parties/Create a New Employee Record.md",
+    "Horizon User Guide/B. Getting Started/VI. Delete Your Account.md",
     "Horizon User Guide/B. Getting Started/III. Log In and Out of Horizon.md",
     "Horizon User Guide/B. Getting Started/II. Create a Horizon Account.md",
     "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
@@ -173,8 +175,6 @@
     "Horizon User Guide/G. Invoices/Cancel a Sales Invoice.md",
     "Horizon User Guide/F. Sales Orders/Unconfirm a Sales Order.md",
     "Horizon User Guide/F. Sales Orders/Swap Units of Measure in Find Mode.md",
-    "Horizon User Guide/F. Sales Orders/Print Sales Orders.md",
-    "Horizon User Guide/F. Sales Orders/Omit a Sales Order Record.md",
     "Horizon User Guide/I. Leads",
     "assets/5_delete_account.png",
     "assets/1_create_your_own_horizon_account.png",
@@ -184,7 +184,6 @@
     "assets/job_title_picker.png",
     "assets/3_log_in_screen.png",
     "assets/2_create an account for another user.png",
-    "assets/sales_order_find_mode.png",
     "Horizon User Guide/I. Leads",
     "Horizon User Guide/A. Table of Contents",
     "Horizon User Guide/E. Products/E. All Equipment",

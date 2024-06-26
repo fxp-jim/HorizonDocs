@@ -1,6 +1,6 @@
 ### Create a New Customer Record
 ____________________________________
-Follow these steps:
+To create a sales order record, first create a customer record. Follow these steps:
 
 1. **Access Customer Section**:
     
@@ -25,5 +25,8 @@ Follow these steps:
 6. **Save the Record**:
     
     - Click **Save** at the bottom right corner of the form after entering all details.
+    
+![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_create_customer_record.png)
+
 
 That's it! You've created a new customer record. Contact our support team for any questions.
