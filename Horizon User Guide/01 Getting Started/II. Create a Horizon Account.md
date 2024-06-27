@@ -37,6 +37,9 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 4. **Assign Privilege:**
     
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). Click **Add Account**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/2_create_account_for_another_user.png" width="400" height="300">
+
 ![](2_create_account_for_another_user.png)
 
 1. **Email Confirmation:**
