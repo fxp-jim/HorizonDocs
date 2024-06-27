@@ -6,11 +6,9 @@ Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for a
 ___
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
 
-![50](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png)
 
+![6_main_menu.png|640X400](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png)
 
-![6_main_menu](6_main_menu.png)
-![100](https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/Engelbart.jpg)
 ### **All Parties**
 Use this menu to navigate through customer, vendor, and employee records, and more.
 
