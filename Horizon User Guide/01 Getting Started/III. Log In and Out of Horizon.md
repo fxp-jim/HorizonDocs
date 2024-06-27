@@ -9,7 +9,7 @@ __________________________________
     - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
     - **Password:** Enter your password.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/3_log_in.png" width="300" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/3_log_in.png" width="400" height="400">
 4. **Log In:**
     - Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
 ##### Troubleshooting Login Issues
