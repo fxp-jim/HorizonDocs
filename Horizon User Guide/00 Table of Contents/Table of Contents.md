@@ -6,8 +6,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 I. [Launch Horizon File](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Launch%20Horizon%20File.md) <br>
 II. [Creating a Horizon Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Creating%20a%20Horizon%20Account.md)<br>
-III. [Logging Into Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Logging%20Into%20Horizon.md)<br>
-IV. [Logging Out of Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Logging%20Out%20of%20Horizon.md)<br>
+III. [III. Log In and Out of Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/B.%20Getting%20Started/III.%20Log%20In%20and%20Out%20of%20Horizon.md)<br>
 V. [Resetting Your Password](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Resetting%20Your%20Password.md)<br>
 VI. [Deleting Your Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Deleting%20Your%20Account.md)<br>
 ### All Parties

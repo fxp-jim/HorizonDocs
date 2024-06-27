@@ -1,5 +1,7 @@
 ### Create a New Vendor Record
 ________________________________
+Vendors are external suppliers who provide goods or services under contractual agreements, crucial for a company's supply chain and operational success.
+
 Follow these steps:
 
 1. **Access Employee Section**:

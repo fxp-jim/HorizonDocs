@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
+                "file": "Horizon User Guide/01 Getting Started/V. Reset Your Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
+                "file": "Horizon User Guide/01 Getting Started/V. Reset Your Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
+                "file": "Horizon User Guide/01 Getting Started/V. Reset Your Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/C. All Parties/Create a New Vendor Record.md"
+                "file": "Horizon User Guide/01 Getting Started/V. Reset Your Password.md"
               }
             }
           }
@@ -148,34 +148,35 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/C. All Parties/Create a New Employee Record.md",
-    "Horizon User Guide/C. All Parties/Create a New Customer Record.md",
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/03 Customers/Confirm a Payment Record.md",
+    "Horizon User Guide/01 Getting Started/V. Reset Your Password.md",
+    "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+    "Horizon User Guide/02 All Parties/Create a New Customer Record.md",
+    "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
+    "Horizon User Guide/02 All Parties/Create a New Employee Record.md",
     "assets/7_create_customer_record.png",
-    "Horizon User Guide/B. Getting Started/IV. Start Using Horizon.md",
-    "Horizon User Guide/B. Getting Started/V. Reset Your Password.md",
-    "Horizon User Guide/F. Sales Orders/Create a Sales Order.md",
-    "Horizon User Guide/C. All Parties/Create a New Vendor Record.md",
-    "Horizon User Guide/B. Getting Started/VI. Delete Your Account.md",
-    "Horizon User Guide/B. Getting Started/III. Log In and Out of Horizon.md",
-    "Horizon User Guide/B. Getting Started/II. Create a Horizon Account.md",
-    "Horizon User Guide/B. Getting Started/I. Launch Horizon File.md",
+    "Horizon User Guide/05 Sales Orders/Create a Sales Order.md",
+    "Horizon User Guide/01 Getting Started/VI. Delete Your Account.md",
+    "Horizon User Guide/01 Getting Started/III. Log In and Out of Horizon.md",
+    "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+    "Horizon User Guide/01 Getting Started/I. Launch Horizon File.md",
     "assets/6_main_menu.png",
-    "Horizon User Guide/A. Table of Contents/Table of Contents.md",
-    "Horizon User Guide/J. Searching on Horizon/Find Mode.md",
+    "Horizon User Guide/09 Searching on Horizon/Find Mode.md",
     "Untitled.md",
-    "Horizon User Guide/J. Searching on Horizon/Browse Mode.md",
-    "Horizon User Guide/I. Leads/Leads.md",
-    "Horizon User Guide/H. Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
-    "Horizon User Guide/H. Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
-    "Horizon User Guide/H. Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/H. Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/H. Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/H. Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
-    "Horizon User Guide/G. Invoices/Generate Sales Order Invoices.md",
-    "Horizon User Guide/G. Invoices/Cancel a Sales Invoice.md",
-    "Horizon User Guide/F. Sales Orders/Unconfirm a Sales Order.md",
-    "Horizon User Guide/F. Sales Orders/Swap Units of Measure in Find Mode.md",
-    "Horizon User Guide/I. Leads",
+    "Horizon User Guide/09 Searching on Horizon/Browse Mode.md",
+    "Horizon User Guide/08 Leads/Leads.md",
+    "Horizon User Guide/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
+    "Horizon User Guide/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
+    "Horizon User Guide/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
+    "Horizon User Guide/06 Invoices/Generate Sales Order Invoices.md",
+    "Horizon User Guide/06 Invoices/Cancel a Sales Invoice.md",
+    "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
+    "Horizon User Guide/05 Sales Orders/Swap Units of Measure in Find Mode.md",
+    "Horizon User Guide/08 Leads",
     "assets/5_delete_account.png",
     "assets/1_create_your_own_horizon_account.png",
     "assets/2_create _account_another_user.png",
@@ -184,15 +185,15 @@
     "assets/job_title_picker.png",
     "assets/3_log_in_screen.png",
     "assets/2_create an account for another user.png",
-    "Horizon User Guide/I. Leads",
-    "Horizon User Guide/A. Table of Contents",
-    "Horizon User Guide/E. Products/E. All Equipment",
+    "Horizon User Guide/08 Leads",
+    "Horizon User Guide/00 Table of Contents",
+    "Horizon User Guide/04 Products/E. All Equipment",
     "Horizon User Guide/IV. Products/All Items/Untitled",
-    "Horizon User Guide/E. Products/C. Services",
-    "Horizon User Guide/E. Products/B. All Products",
+    "Horizon User Guide/04 Products/C. Services",
+    "Horizon User Guide/04 Products/B. All Products",
     "Horizon User Guide/IV. Products/All Items/Products",
     "Horizon User Guide/IV. Products/All Items/Items",
-    "Horizon User Guide/E. Products/A. All Items",
+    "Horizon User Guide/04 Products/A. All Items",
     "Untitled.canvas"
   ]
 }
