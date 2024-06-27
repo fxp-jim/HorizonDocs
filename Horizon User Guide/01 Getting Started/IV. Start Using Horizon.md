@@ -8,6 +8,9 @@ The first thing you see when you're logged into Horizon is the _main menu_. Use
 
 
 ![6_main_menu.png|50x50](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png)
+![main menu screen](6_main_menu.png)
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png" width 640=100>
 
 ### **All Parties**
 Use this menu to navigate through customer, vendor, and employee records, and more.
