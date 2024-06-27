@@ -1,12 +1,12 @@
 ## Start Using Horizon
 ______
-Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#sales-orders) to ensure precise demand tracking and effective resource planning.
+Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#sales-orders) to ensure precise demand tracking and effective resource planning.
 
 ### Navigate the Main Menu
 ___
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
 
-![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png)
+![250](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png)
 ### **All Parties**
 Use this menu to navigate through customer, vendor, and employee records, and more.
 
@@ -14,7 +14,7 @@ Use this menu to navigate through customer, vendor, and employee records, and mo
 Use this menu to manage payment transaction records.
 
 ### **Products**
-Use this menu to manage all items in the system, including products, services, configurators, and equipment.
+Use this menu to manage all [items](#items) in the system, including [products](^products), services, configurators, and equipment.
 
 ---
 #### Items
