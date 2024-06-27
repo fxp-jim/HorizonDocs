@@ -11,9 +11,11 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/1_create_your_own_horizon_account.png"
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/1_create_your_own_horizon_account.png",
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/1_create_your_own_horizon_account.png",
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/1_create_your_own_horizon_account.png"
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md"
               }
             }
           }
@@ -146,9 +148,9 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "assets/1_create_your_own_horizon_account.png",
     "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
     "Horizon User Guide/01 Getting Started/III. Log In and Out of Horizon.md",
-    "assets/1_create_your_own_horizon_account.png",
     "assets/3_log_in.png",
     "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
     "Horizon User Guide/01 Getting Started/I. Launch Horizon File.md",
