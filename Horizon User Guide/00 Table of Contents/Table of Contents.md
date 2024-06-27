@@ -4,11 +4,12 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ### Getting Started
 
-I. [Launch Horizon File](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Launch%20Horizon%20File.md) <br>
-II. [Creating a Horizon Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Creating%20a%20Horizon%20Account.md)<br>
-III. [III. Log In and Out of Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/B.%20Getting%20Started/III.%20Log%20In%20and%20Out%20of%20Horizon.md)<br>
-V. [Resetting Your Password](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Resetting%20Your%20Password.md)<br>
-VI. [Deleting Your Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/I.%20Getting%20Started/Deleting%20Your%20Account.md)<br>
+I. [Launch Horizon File](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/01%20Getting%20Started/I.%20Launch%20Horizon%20File.md) <br>
+II. [Create a Horizon Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/01%20Getting%20Started/II.%20Create%20a%20Horizon%20Account.md)<br>
+III. [Log In and Out of Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/01%20Getting%20Started/III.%20Log%20In%20and%20Out%20of%20Horizon.md)<br>
+IV. [Start Using Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/01%20Getting%20Started/IV.%20Start%20Using%20Horizon.md) <br>
+V. [Reset Your Password](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/01%20Getting%20Started/V.%20Reset%20Your%20Password.md) <br>
+VI. [Delete Your Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/01%20Getting%20Started/VI.%20Delete%20Your%20Account.md)<br>
 ### All Parties
 
 I. [Creating a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/II.%20All%20Parties/Creating%20a%20New%20Customer%20Record.md) <br>
