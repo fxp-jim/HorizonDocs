@@ -8,7 +8,7 @@ The first thing you see when you're logged into Horizon is the _main menu_. Use
 
 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png" width="640" height="100">![](<imgsrc=6_main_menu.pngwidth=640height=100>)
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png" width="1000" height="1000">![](<imgsrc=6_main_menu.pngwidth=640height=100>)
 
 https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/6_main_menu.png
 
