@@ -13,7 +13,8 @@ With your Horizon account, you can access all Horizon files, including Parties, 
     - Open the **Request for Horizon Access** email.
     - Copy and paste the link into your browser.
     ⚠️ Link expires in 15 minutes.
-    
+![](1_create_your_own_horizon_account.png)
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/3_log_in.png" width="400" height="500">
 1. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system.
 2. **Set Password**: Enter your password and click **Continue**.
