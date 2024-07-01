@@ -15,11 +15,11 @@ With your Horizon account, you can access all Horizon files, including Parties, 
     ⚠️ Link expires in 15 minutes.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/1_create_your_own_horizon_account.png" width="300" height="500">
-6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. 
-7. **Set Password**: Enter your password and click **Continue**.
-8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.
-9. **Save Contact Method**: Tick the **Primary** box and click **Save**.
-10. **Account Created**: Click **OK**.
+6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
+7. **Set Password**: Enter your password and click **Continue**.  <br>
+8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.  <br>
+9. **Save Contact Method**: Tick the **Primary** box and click **Save**.  <br>
+10. **Account Created**: Click **OK**.  <br>
 #### Create an Account for Another User in Horizon
 
 ###### To create an account for another user if you're logged in to Horizon:
