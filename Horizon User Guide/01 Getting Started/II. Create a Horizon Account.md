@@ -11,16 +11,15 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 4. **Confirm Email Sent**: Click **OK**.
 5. **Validate Email**:
     - Open the **Request for Horizon Access** email.
-    - Copy and paste the link into your browser.
+    - Copy and paste the link into your browser. <br>
     ⚠️ Link expires in 15 minutes.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/1_create_your_own_horizon_account.png" width="400" height="500">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/1_create_your_own_horizon_account.png" width="300" height="500">
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. 
-
-8. **Set Password**: Enter your password and click **Continue**.
-9. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.
-10. **Save Contact Method**: Tick the **Primary** box and click **Save**.
-11. **Account Created**: Click **OK**.
+7. **Set Password**: Enter your password and click **Continue**.
+8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.
+9. **Save Contact Method**: Tick the **Primary** box and click **Save**.
+10. **Account Created**: Click **OK**.
 #### Create an Account for Another User in Horizon
 
 ###### To create an account for another user if you're logged in to Horizon:
@@ -38,7 +37,7 @@ With your Horizon account, you can access all Horizon files, including Parties, 
     
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/2_create_account_for_another_user.png" width="400" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/2_create_account_for_another_user.png" width="350" height="300">
 
 5. Add Account
 	* Click **Add Account**.
@@ -46,10 +45,10 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 6. Email Confirmation:**
     
     - Click **OK** when the **Email Sent** notification appears.
-6. **Activate Account:**
+7. **Activate Account:**
     
     - Open the **Request for Horizon Access** email, use the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
-7. **Finalize:**
+8. **Finalize:**
     
     - Click **OK** on the **Account Created** notification.
 
