@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9476874580709410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,19 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3451ada06c617c6",
+  "floating": {
+    "id": "919cfd6dc472074a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2ab946f2d6c1ac4e",
+        "type": "window",
+        "children": [
+          {
+            "id": "4a45085d8f0c4214",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96c9e3e4c1ed54ca",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 208,
+        "y": 25,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9476874580709410",
   "lastOpenFiles": [
-    "Horizon User Guide/01 Getting Started/I. Launch Horizon File.md",
+    "assets/6_main_menu.png",
+    "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+    "Untitled.md",
     "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+    "Horizon User Guide/01 Getting Started/I. Launch Horizon File.md",
     "assets/1_create_your_own_horizon_account.png",
     "Horizon User Guide/01 Getting Started/V. Reset Your Password.md",
-    "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
     "Horizon User Guide/01 Getting Started/III. Log In and Out of Horizon.md",
     "assets/3_log_in.png",
     "Horizon User Guide/01 Getting Started/VII. Glossary.md",
     "assets/2_create_account_for_another_user.png",
     "assets/2_create _account_another_user.png",
-    "assets/6_main_menu.png",
     "items.md",
     "Horizon User Guide/01 Getting Started/VI. Delete Your Account.md",
     "^items.md",
@@ -171,7 +218,6 @@
     "assets/7_create_customer_record.png",
     "Horizon User Guide/05 Sales Orders/Create a Sales Order.md",
     "Horizon User Guide/09 Searching on Horizon/Find Mode.md",
-    "Untitled.md",
     "Horizon User Guide/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/08 Leads/Leads.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
