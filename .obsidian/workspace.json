@@ -11,11 +11,9 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/2_create_account_for_another_user.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "file": "assets/2_create_account_for_another_user.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "file": "assets/2_create_account_for_another_user.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md"
+                "file": "assets/2_create_account_for_another_user.png"
               }
             }
           }
@@ -181,8 +179,9 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "assets/6_main_menu.png",
     "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+    "assets/2_create_account_for_another_user.png",
+    "assets/6_main_menu.png",
     "Untitled.md",
     "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
     "Horizon User Guide/01 Getting Started/I. Launch Horizon File.md",
@@ -191,7 +190,6 @@
     "Horizon User Guide/01 Getting Started/III. Log In and Out of Horizon.md",
     "assets/3_log_in.png",
     "Horizon User Guide/01 Getting Started/VII. Glossary.md",
-    "assets/2_create_account_for_another_user.png",
     "assets/2_create _account_another_user.png",
     "items.md",
     "Horizon User Guide/01 Getting Started/VI. Delete Your Account.md",
