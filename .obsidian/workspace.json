@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9476874580709410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md"
               }
             }
           }
@@ -192,7 +179,7 @@
       }
     ]
   },
-  "active": "9476874580709410",
+  "active": "b3451ada06c617c6",
   "lastOpenFiles": [
     "assets/6_main_menu.png",
     "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
