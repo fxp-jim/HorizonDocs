@@ -30,11 +30,11 @@ ______________________________
 
 3. Find your employee record by using **Find Mode** or **Browse Mode** option — scrolling through the list of employees in the left pane. Click on the record to open it. 
 
-4. Click on **Reset Password** down the **Delete Account** button.
+4. Click on **Reset Password**.
 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_reset_password.png" width="350" height="300">
-5. Click **OK** after receiving the **Email Sent** notification.
+5. Click **OK** after receiving the email-sent notification.
 
 6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
 
