@@ -11,9 +11,11 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/2_create_account_for_another_user.png"
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/2_create_account_for_another_user.png",
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/2_create_account_for_another_user.png",
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/2_create_account_for_another_user.png"
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md"
               }
             }
           }
@@ -143,39 +145,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
-  },
-  "floating": {
-    "id": "919cfd6dc472074a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2ab946f2d6c1ac4e",
-        "type": "window",
-        "children": [
-          {
-            "id": "4a45085d8f0c4214",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "96c9e3e4c1ed54ca",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 208,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
