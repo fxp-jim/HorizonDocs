@@ -8,7 +8,6 @@ _____________________
 3. Click on the **Customer** tab. <br>
 4. Click on **Add Payment**. <br>
 5. Enter the **Amount** and choose **Type**—**ACH**, **Card**, or **Check**. <br>
-
 For **ACH**: 
 1. Choose between **Checking** and **Savings.**
 2. Fill in the **Payment Info**, including the **routing number** and **account number**. You can also include a **memo** for additional notes. 
