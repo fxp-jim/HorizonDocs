@@ -2,7 +2,7 @@
 ________________________________
 Vendors are external suppliers who provide goods or services under contractual agreements, crucial for a company's supply chain and operational success.
 
-Follow these steps:
+Follow these steps to create a new vendor record:
 
 1. **Access Employee Section**:
     
@@ -10,12 +10,15 @@ Follow these steps:
 2. **Open New Record Form**:
     
     - Navigate to the Vendors section and click **New Record**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/9_create_vendor_record.png" width="400" height="300">
+
 3. **Select Vendor Type**:
     
     - In the form that pops up, click on the **Type** box and choose either **person** or **organization** depending on the type of vendor you're adding.
 4. **Enter Vendor Information**:
     
-    - - Provide name, email, phone, URLs, and address details.
+    -  Provide name, email, phone, URLs, and address details.
     
     ⚠️ Input a two-digit country code in your mailing and/or billing address.
     

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a New Employee Record.md",
+                "file": "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a New Employee Record.md",
+                "file": "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a New Employee Record.md",
+                "file": "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a New Employee Record.md"
+                "file": "Horizon User Guide/02 All Parties/Create a New Vendor Record.md"
               }
             }
           }
@@ -149,7 +149,9 @@
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
     "Horizon User Guide/02 All Parties/Create a New Customer Record.md",
+    "assets/9_create_vendor_record.png",
     "Horizon User Guide/02 All Parties/Create a New Employee Record.md",
+    "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
     "assets/8_create_employee_record.png",
     "assets/8_ceate_employee_record.png",
     "Horizon User Guide/01 Getting Started/V. Reset Your Password.md",
@@ -167,13 +169,11 @@
     "assets/2_create_account_for_another_user.png",
     "assets/6_main_menu.png",
     "Untitled.md",
-    "assets/1_create_your_own_horizon_account.png",
     "items.md",
     "^items.md",
     "^products.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/03 Customers/Confirm a Payment Record.md",
-    "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
     "Horizon User Guide/05 Sales Orders/Create a Sales Order.md",
     "Horizon User Guide/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/09 Searching on Horizon/Browse Mode.md",
