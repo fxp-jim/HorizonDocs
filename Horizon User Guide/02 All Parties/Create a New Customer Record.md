@@ -16,7 +16,7 @@ To create a sales order record, first create a customer record. Follow these ste
 4. **Enter Customer's Information**:
 	
 	 - Provide name, email, phone, URLs, and address details.
-    
+
     ⚠️ Input a two-digit country code in your mailing and/or billing address.
     
 5. **Choose Primary Contact Method**:
