@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Add a Payment Card.md",
+                "file": "Horizon User Guide/03 Customers/Create a Payment Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 347.5
   },
   "right": {
     "id": "d66a91847eddf6fc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Add a Payment Card.md",
+                "file": "Horizon User Guide/03 Customers/Create a Payment Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Add a Payment Card.md",
+                "file": "Horizon User Guide/03 Customers/Create a Payment Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Add a Payment Card.md"
+                "file": "Horizon User Guide/03 Customers/Create a Payment Record.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
     "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
+    "Horizon User Guide/03 Customers/Create a Payment Record.md",
+    "assets/11_create_payment_record.png",
+    "Horizon User Guide/03 Customers/Confirm a Payment Record.md",
     "Horizon User Guide/03 Customers/Add a Payment Card.md",
     "assets/10_add_payment_card.png",
     "Horizon User Guide/01 Getting Started/VII. Glossary.md",
@@ -168,13 +171,11 @@
     "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
     "assets/4_reset_password.png",
     "assets/3_log_in.png",
-    "assets/2_create_account_for_another_user.png",
     "Untitled.md",
     "items.md",
     "^items.md",
     "^products.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/03 Customers/Confirm a Payment Record.md",
     "Horizon User Guide/05 Sales Orders/Create a Sales Order.md",
     "Horizon User Guide/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/09 Searching on Horizon/Browse Mode.md",
