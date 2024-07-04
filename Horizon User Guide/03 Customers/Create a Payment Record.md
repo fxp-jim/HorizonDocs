@@ -4,10 +4,10 @@ _____________________
 1. Go to **Customers** on the main menu. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/11_create_payment_record.png" width="400" height="300">
-2. Select the customer's name from the list on the left pane using either the [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md).
-3. Click on the **Customer** tab.
-4. Click on **Add Payment**. 
-5. Enter the **Amount** and choose **Type**—**ACH**, **Card**, or **Check**.
+2. Select the customer's name from the list on the left pane using either the [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md). <br>
+3. Click on the **Customer** tab. <br>
+4. Click on **Add Payment**. <br>
+5. Enter the **Amount** and choose **Type**—**ACH**, **Card**, or **Check**. <br>
 
 For **ACH**: 
 1. Choose between **Checking** and **Savings.**
