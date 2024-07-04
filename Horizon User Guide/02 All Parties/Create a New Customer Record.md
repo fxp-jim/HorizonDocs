@@ -14,8 +14,8 @@ To create a sales order record, first create a customer record. Follow these ste
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_create_customer_record.png" width="400" height="300">
 4. **Enter Customer's Information**:
-    
-    - Provide name, email, phone, URLs, and address details.
+	
+	 - Provide name, email, phone, URLs, and address details.
     
     ⚠️ Input a two-digit country code in your mailing and/or billing address.
     
@@ -27,7 +27,5 @@ To create a sales order record, first create a customer record. Follow these ste
 6. **Save the Record**:
     
     - Click **Save** at the bottom right corner of the form after entering all details.
-    
-![](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_create_customer_record.png)
 
 That's it! You've created a new customer record. Contact our support team for any questions.
