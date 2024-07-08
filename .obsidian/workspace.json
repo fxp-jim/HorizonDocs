@@ -11,9 +11,11 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/12_add_payment_plan.png"
+                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/12_add_payment_plan.png",
+                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/12_add_payment_plan.png",
+                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/12_add_payment_plan.png"
+                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md"
               }
             }
           }
@@ -146,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
     "assets/12_add_payment_plan.png",
+    "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
     "Horizon User Guide/03 Customers/III. Confirm and Unconfirm a Payment Record.md",
     "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
     "assets/10_add_payment_card.png",
