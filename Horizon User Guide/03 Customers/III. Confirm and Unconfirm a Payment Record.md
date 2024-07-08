@@ -14,9 +14,9 @@ ___________________________
 
 6. Click **Save and Close** to keep changes, or **Cancel Payment** to undo them.
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/13_confirm_payment_record.png" width="400" height="300">
-### Unconfirm a Payment Record
-___________________________
 
+### Unconfirm a Payment Record
+________________________________________________________________ 
 ⚠️ Only payment records for checks can be unconfirmed. ACH and Card payments cannot be altered once confirmed.
 
 1. Open the **Customers** section from the main menu.
