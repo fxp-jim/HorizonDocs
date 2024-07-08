@@ -4,7 +4,7 @@ _____________________
 1. Go to **Customers** on the main menu. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/11_create_payment_record.png" width="400" height="300">
-2. Select the customer's name from the list on the left pane using either the  Find Mode or Browse Mode. <br>
+2. Find the customer's name in the left pane using Find Mode or Browse Mode, and use navigation buttons (**First, Previous, Next, Last**) as needed.<br>
 3. Click on the Customer tab. <br>
 4. Click on Add Payment. <br>
 5. Enter the Amount and choose Type — ACH, Card, or Check. <br>

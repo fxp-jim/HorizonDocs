@@ -3,7 +3,7 @@ ___________________________
 
 1. Go to **Customers** in the main menu. 
 
-2. Select the customer's name using **Find Mode or Browse Mode.**
+2. Find the customer's name in the left pane using Find Mode or Browse Mode, and use navigation buttons (**First, Previous, Next, Last**) as needed.
 
 3. Click on the **Customer** tab.
 

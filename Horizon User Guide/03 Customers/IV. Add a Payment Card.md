@@ -5,12 +5,9 @@ Follow these steps to add a payment card for a customer:
 1. **Access Customers Section**:
     
     - Open the **Customers** section from the main menu.
-
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/10_add_payment_card.png" width="400" height="300">
-
 2.  **Find the Customer's Name**:
     
-    - Locate the customer's name in the left pane using [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md).
+    - Find the customer's name in the left pane using Find Mode or Browse Mode, and use navigation buttons (**First, Previous, Next, Last**) as needed.
 3. **Select the Customer**:
     
     - Click on the **Customer** tab within the Customers section.
@@ -18,7 +15,7 @@ Follow these steps to add a payment card for a customer:
     
     - Once the customer is selected, find and click on **Add Payment Card**.
 5. **Enter Payment Card Details**:
-    - Fill out the required details in the pop-up form:
+    - Fill out the payment details in the pop-up form:
         - **Type**: Select from Visa, Master Card, American Express, Discover, Diners Club, or JCB.
         - **Card Number**: Enter your card number.
         - **Security Code**: Enter the security code.
@@ -30,3 +27,4 @@ Follow these steps to add a payment card for a customer:
     
     - Review the details and click **Save and Close** to store the payment card.
 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/10_add_payment_card.png" width="400" height="300">
