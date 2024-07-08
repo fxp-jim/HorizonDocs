@@ -7,7 +7,7 @@ Follow these steps to add a payment card for a customer:
     - Open the **Customers** section from the main menu.
 2.  **Find the Customer's Name**:
     
-    - Find the customer's name in the left pane using Find Mode or Browse Mode, and use navigation buttons (**First, Previous, Next, Last**) as needed.
+    - Find the customer's name in the left pane using Find Mode or Browse Mode, and use navigation buttons (First, Previous, Next, Last) as needed.
 3. **Select the Customer**:
     
     - Click on the **Customer** tab within the Customers section.
