@@ -12,20 +12,20 @@ V. [Reset Your Password](https://github.com/Fx-Professional-Services/HorizonDocs
 VI. [Delete Your Account](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/01%20Getting%20Started/VI.%20Delete%20Your%20Account.md)<br>
 ### All Parties
 
-I. [Creating a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/II.%20All%20Parties/Creating%20a%20New%20Customer%20Record.md) <br>
-II. [Creating a New Employee Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/II.%20All%20Parties/Creating%20a%20New%20Employee%20Record.md) <br>
-III. [Creating a New Vendor Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/II.%20All%20Parties/Creating%20a%20New%20Vendor%20Record.md)<br>
+I. [Create a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/II.%20All%20Parties/Creating%20a%20New%20Customer%20Record.md) <br>
+II. [Create a New Employee Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/II.%20All%20Parties/Creating%20a%20New%20Employee%20Record.md) <br>
+III. [Create a New Vendor Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/II.%20All%20Parties/Creating%20a%20New%20Vendor%20Record.md)<br>
 ### Customers 
 
-I. [Creating a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/II.%20All%20Parties/Creating%20a%20New%20Customer%20Record.md) <br>
-II. [Creating a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Creating%20a%20Payment%20Record.md)<br>
-III. [Confirming a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Confirming%20a%20Payment%20Record.md)<br>
-IV. [Unconfirming Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Unconfirming%20Payment%20Record.md)<br>
-V. [Deleting a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Deleting%20a%20Payment%20Record.md)<br>
-VI. [Creating a Customer's Payment Plan](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Creating%20a%20Payment%20Plan.md) <br>
-VII. [Adding a Payment Card](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Adding%20a%20Payment%20Card.md) <br>
-VIII. [Merging Customer Records](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/III.%20Customers/Merging%20Customer%20Records.md) <br>
+I. [Create a New Customer Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/03%20Customers/I.%20Create%20a%20New%20Customer%20Record.md) <br>
+II. [Add a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/03%20Customers/II.%20Create%20a%20Payment%20Record.md)<br>
+III. [Confirm and Unconfirm a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/03%20Customers/III.%20Confirm%20and%20Unconfirm%20a%20Payment%20Record.md)<br>
+IV. [Add a Payment Card](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/03%20Customers/IV.%20Add%20a%20Payment%20Card.md) <br>
+V. [Add a Payment Plan](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/03%20Customers/V.%20Add%20a%20Payment%20Plan.md)
 
+VI. [Merge Customer Records](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/03%20Customers/VI.%20Merge%20Customer%20Records.md) <br>
+VII. [Delete a Payment Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/03%20Customers/VII.%20Delete%20a%20Payment%20Record.md)<br>
+VIII. [Delete a Customer Tier,  Sales Channel, and Payment Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/03%20Customers/VIII.%20Delete%20a%20Customer%20Tier%2C%20%20Sales%20Channel%2C%20and%20Payment%20Terms.md) <br>
 ### Products
 
 A. All Items <br>
