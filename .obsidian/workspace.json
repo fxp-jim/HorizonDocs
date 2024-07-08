@@ -11,11 +11,9 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/12_add_payment_plan.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
+                "file": "assets/12_add_payment_plan.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
+                "file": "assets/12_add_payment_plan.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md"
+                "file": "assets/12_add_payment_plan.png"
               }
             }
           }
@@ -146,11 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b6989c1ca2ac75",
+  "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
     "assets/12_add_payment_plan.png",
     "Horizon User Guide/03 Customers/III. Confirm and Unconfirm a Payment Record.md",
-    "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
     "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
     "assets/10_add_payment_card.png",
     "Horizon User Guide/03 Customers/VIII. Delete a Customer Tier,  Sales Channel, and Payment Terms.md",
