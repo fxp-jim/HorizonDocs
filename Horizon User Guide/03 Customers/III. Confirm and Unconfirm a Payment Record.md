@@ -25,3 +25,5 @@ ____
 4. Find the confirmed check payment under the **Payment** section and expand it (＞).
 5. Click **unconfirm** in the pop-up menu.
 6. Make necessary changes to the payment information. Click **Save and Close** to apply your changes and exit the pop-up menu.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/14_unconfirm_payment_record.png" width="400" height="300">
