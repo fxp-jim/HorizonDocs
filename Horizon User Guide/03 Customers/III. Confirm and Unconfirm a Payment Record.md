@@ -15,13 +15,13 @@ ___________________________
 6. Click **Save and Close** to keep changes, or **Cancel Payment** to undo them.
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/13_confirm_payment_record.png" width="400" height="300">
 ### Unconfirm a Payment Record
-______________________________
+____
 
 ⚠️ Only payment records for checks can be unconfirmed. ACH and Card payments cannot be altered once confirmed.
 
 1. Open the **Customers** section from the main menu.
-2. Click on the **Customer** tab inside.
-3. Locate the customer's name using Find Mode or Browse Mode. 
+2. Locate the customer's name using Find Mode or Browse Mode. 
+3. Click on the **Customer** tab inside.
 4. Find the confirmed check payment under the **Payment** section and expand it (＞).
 5. Click **unconfirm** in the pop-up menu.
 6. Make necessary changes to the payment information. Click **Save and Close** to apply your changes and exit the pop-up menu.
