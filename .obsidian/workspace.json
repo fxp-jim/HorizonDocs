@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
+                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
+                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
+                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/03 Customers/IV. Add a Payment Card.md"
+                "file": "Horizon User Guide/03 Customers/V. Add a Payment Plan.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "assets/10_add_payment_card.png",
+    "assets/12_add_payment_plan.png",
+    "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
     "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
+    "assets/10_add_payment_card.png",
     "Horizon User Guide/03 Customers/VIII. Delete a Customer Tier,  Sales Channel, and Payment Terms.md",
     "Horizon User Guide/03 Customers/VII. Delete a Payment Record.md",
     "Horizon User Guide/03 Customers/VI. Merge Customer Records.md",
-    "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
     "Horizon User Guide/03 Customers/III. Confirm and Unconfirm a Payment Record.md",
     "Horizon User Guide/03 Customers/II. Create a Payment Record.md",
     "Horizon User Guide/03 Customers/I. Create a New Customer Record.md",
@@ -168,7 +169,6 @@
     "Horizon User Guide/02 All Parties/Create a New Customer Record.md",
     "Horizon User Guide/03 Customers/Unconfirm Payment Record.md",
     "Horizon User Guide/01 Getting Started/VI. Delete Your Account.md",
-    "assets/12_add_payment_plan.png",
     "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
     "Horizon User Guide/01 Getting Started/VII. Glossary.md",
     "assets/9_create_vendor_record.png",
