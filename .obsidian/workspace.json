@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create a Payment Record.md",
+                "file": "Horizon User Guide/03 Customers/Confirm a Payment Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create a Payment Record.md",
+                "file": "Horizon User Guide/03 Customers/Confirm a Payment Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create a Payment Record.md",
+                "file": "Horizon User Guide/03 Customers/Confirm a Payment Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create a Payment Record.md"
+                "file": "Horizon User Guide/03 Customers/Confirm a Payment Record.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
     "Horizon User Guide/03 Customers/Create a Payment Record.md",
+    "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
     "assets/11_create_payment_record.png",
     "Horizon User Guide/03 Customers/Confirm a Payment Record.md",
     "Horizon User Guide/03 Customers/Add a Payment Card.md",
