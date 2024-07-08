@@ -47,6 +47,7 @@ D. Configurators <br>
     1.  [Create a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Creating%20a%20Configurator.md)<br>
     2. [Add Minimum and Maximum Values](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Adding%20Minimum%20and%20Maximum%20Values.md) <br>
     3. [Turn an Existing Product into a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/D.%20Configurators/Turning%20an%20Existing%20Product%20into%20a%20Configurator.md)<br>
+    
 E. All Equipment <br>
 	1.  [Add a New Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/E.%20All%20Equipment/Adding%20a%20New%20Equipment.md) <br>
 	2. [Turn an Existing Product into an Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/IV.%20Products/E.%20All%20Equipment/Turning%20an%20Existing%20Product%20into%20an%20Equipment.md)<br> 
