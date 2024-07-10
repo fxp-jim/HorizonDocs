@@ -27,6 +27,6 @@ Follow these steps to add a payment card for a customer:
     
     - Review the details and click **Save and Close** to store the payment card.
 
-⚠️ Once saved, you cannot make changes to the payment card.
+	⚠️ Once saved, you cannot make changes to the payment card.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/10_add_payment_card.png" width="400" height="300">
