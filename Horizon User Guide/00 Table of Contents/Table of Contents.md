@@ -79,15 +79,11 @@ X. **Sales Estimate** <br>
 XI. [Adjust Prices and Quantities in Sales Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Adjusting%20Prices%20and%20Quantities%20in%20Sales%20Orders.md) <br>
 XII. [Delete a Sales Order Line Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Sales%20Order%20Line%20Item.md) <br>
 XIII. [Delete a Customer Tier,  Sales Channel, and Payment Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Customer%20Tier%2C%20%20Sales%20Channel%2C%20and%20Payment%20Terms.md) <br>
-XIV. [Delete a Product in Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Product%20in%20Sales%20Orders.md)
-
-XV. [Swap Units of Measure in Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Swapping%20Units%20of%20Measure%20in%20Find%20Mode.md)
-
-XVI. [Use the Item Picker to Select and Edit Customer-Facing Names](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/05%20Sales%20Orders/Use%20the%20Item%20Picker%20to%20Select%20and%20Edit%20Customer-Facing%20Names.md) 
-
-XVII. [Search for an Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/05%20Sales%20Orders/Search%20for%20an%20Item.md)
-
-XVIII. [Search for Items by Category in the Item Picker](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/05%20Sales%20Orders/Search%20for%20Items%20by%20Category%20in%20the%20Item%20Picker.md)
+XIV. [Delete a Product in Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Deleting%20a%20Product%20in%20Sales%20Orders.md) <br>
+XV. [Swap Units of Measure in Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/V.%20Sales%20Orders/Swapping%20Units%20of%20Measure%20in%20Find%20Mode.md) <br>
+XVI. [Use the Item Picker to Select and Edit Customer-Facing Names](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/05%20Sales%20Orders/Use%20the%20Item%20Picker%20to%20Select%20and%20Edit%20Customer-Facing%20Names.md)  <br>
+XVII. [Search for an Item](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/05%20Sales%20Orders/Search%20for%20an%20Item.md) <br>
+XVIII. [Search for Items by Category in the Item Picker](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/05%20Sales%20Orders/Search%20for%20Items%20by%20Category%20in%20the%20Item%20Picker.md) <br>
 ### Invoices
 
 A. [Generate Sales Order Invoices](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VI.%20Invoices/Generating%20Sales%20Order%20Invoices.md)
