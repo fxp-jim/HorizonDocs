@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Sales Orders/Search for an Item.md",
+                "file": "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Sales Orders/Search for an Item.md",
+                "file": "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Sales Orders/Search for an Item.md",
+                "file": "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Sales Orders/Search for an Item.md"
+                "file": "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
     "Horizon User Guide/02 All Parties/Create a New Customer Record.md",
+    "Horizon User Guide/01 Getting Started/V. Reset Your Password.md",
+    "Horizon User Guide/01 Getting Started/III. Log In and Out of Horizon.md",
+    "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "assets/16_customer_facing_name.png",
+    "16_customer_facing_name.png",
+    "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
+    "Horizon User Guide/05 Sales Orders/Swap Units of Measure in Find Mode.md",
     "Horizon User Guide/05 Sales Orders/Search for an Item.md",
     "assets/15_search_an_item.png",
     "Screenshot 2024-07-11 at 19.34.33.png",
@@ -157,7 +164,6 @@
     "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/05 Sales Orders/Return Orders",
-    "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
     "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
     "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
     "Horizon User Guide/02 All Parties/Create a New Employee Record.md",
@@ -177,13 +183,8 @@
     "assets/11_create_payment_record.png",
     "assets/13_confirm_payment_record 1.png",
     "assets/13_confirm_payment_record.png",
-    "Horizon User Guide/01 Getting Started/III. Log In and Out of Horizon.md",
     "Horizon User Guide/03 Customers/Unconfirm Payment Record.md",
     "Horizon User Guide/01 Getting Started/VI. Delete Your Account.md",
-    "Horizon User Guide/02 All Parties/Create a New Vendor Record.md",
-    "Horizon User Guide/01 Getting Started/VII. Glossary.md",
-    "assets/9_create_vendor_record.png",
-    "assets/8_create_employee_record.png",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/00 Table of Contents",
