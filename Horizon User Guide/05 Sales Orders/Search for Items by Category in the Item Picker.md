@@ -1,4 +1,3 @@
-
 ### Search for Items by Category in the Item Picker
 ____
 
