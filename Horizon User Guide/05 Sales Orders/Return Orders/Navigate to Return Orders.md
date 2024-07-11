@@ -6,5 +6,3 @@ ___
 
 2. Select **Order Management**, then click on **Return Orders**.
 
-3. 
-
