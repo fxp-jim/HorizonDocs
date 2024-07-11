@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md"
+                "file": "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
+    "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/05 Sales Orders/Return Orders",
     "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
     "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
     "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
@@ -156,7 +160,6 @@
     "Horizon User Guide/04 Products/E. All Equipment/Import Equipment Records.md",
     "Horizon User Guide/03 Customers/VII. Delete a Payment Record.md",
     "Horizon User Guide/03 Customers/VI. Merge Customer Records.md",
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/03 Customers/VIII. Delete a Customer Tier,  Sales Channel, and Payment Terms.md",
     "assets/12_add_payment_plan.png",
     "Horizon User Guide/03 Customers/III. Confirm and Unconfirm a Payment Record.md",
@@ -182,8 +185,6 @@
     "Horizon User Guide/01 Getting Started/I. Launch Horizon File.md",
     "assets/job_title_picker.png",
     "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
-    "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
-    "Untitled.md",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/00 Table of Contents",
@@ -193,7 +194,6 @@
     "Horizon User Guide/04 Products/B. All Products",
     "Horizon User Guide/IV. Products/All Items/Products",
     "Horizon User Guide/IV. Products/All Items/Items",
-    "Horizon User Guide/04 Products/A. All Items",
     "Untitled.canvas"
   ]
 }
