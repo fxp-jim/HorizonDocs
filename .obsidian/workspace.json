@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md"
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/00 Table of Contents.md",
+    "Horizon User Guide/00 Table of Contents",
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
     "Horizon User Guide/00 Table of Contents",
     "Horizon User Guide/Old documentation/Untitled",
@@ -176,8 +179,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
@@ -189,7 +190,6 @@
     "Screenshot 2024-07-11 at 19.34.33.png",
     "assets/16_customer_facing_name.png",
     "assets/15_search_an_item.png",
-    "Horizon User Guide/0000 Sales Orders/Return Orders",
     "assets/12_add_payment_plan.png",
     "assets/10_add_payment_card.png",
     "assets/14_unconfirm_payment_record.png",
