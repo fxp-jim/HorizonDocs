@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md"
+                "file": "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md"
               }
             }
           }
@@ -148,52 +148,52 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Sales Orders/Sales Order.md",
+    "Horizon User Guide/05 Sales Orders/Create a Sales Order.md",
+    "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
+    "Horizon User Guide/05 Sales Orders/Confirm a Sales Order.md",
+    "Horizon User Guide/05 Sales Orders/Generate Sales Order Invoices.md",
+    "Horizon User Guide/05 Sales Orders/Adjust Prices and Quantities in Sales Orders.md",
+    "Horizon User Guide/0000 Sales Orders/SALES ORDERS.md",
+    "Horizon User Guide/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
+    "Horizon User Guide/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
+    "Horizon User Guide/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
+    "Horizon User Guide/05 Sales Orders/Sales Estimates/Create a Sales Estimate Order Item.md",
+    "Horizon User Guide/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
+    "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
+    "Horizon User Guide/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
+    "Horizon User Guide/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
+    "Horizon User Guide/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
+    "Horizon User Guide/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
+    "Horizon User Guide/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
+    "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "Horizon User Guide/05 Sales Orders/Swap Units of Measure in Find Mode.md",
     "Horizon User Guide/05 Sales Orders/Search for an Item.md",
     "Horizon User Guide/05 Sales Orders/Search for Items by Category in the Item Picker.md",
-    "Horizon User Guide/To be continued QBO Integration (Push and Pull).md",
+    "Horizon User Guide/05 Sales Orders/Sales Estimates",
+    "Horizon User Guide/05 Sales Orders/Return Orders",
+    "Horizon User Guide/05 Sales Orders/Receiving Orders",
+    "Horizon User Guide/05 Sales Orders/Print Sales Orders.md",
+    "Horizon User Guide/05 Sales Orders/Omit a Sales Order Record.md",
+    "Horizon User Guide/05 Sales Orders/Discounts",
+    "Horizon User Guide/05 Sales Orders/Delete a Sales Order Line Item.md",
+    "Horizon User Guide/05 Sales Orders",
     "assets/17_search_by_category.png",
     "assets/17_search_by_categpry.png",
-    "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
     "16_customer_facing_name.png",
     "Screenshot 2024-07-11 at 19.34.33.png",
-    "items.md",
-    "^products.md",
-    "^items.md",
-    "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
-    "Horizon User Guide/02 All Parties/Create a New Customer Record.md",
-    "Horizon User Guide/01 Getting Started/V. Reset Your Password.md",
-    "Horizon User Guide/01 Getting Started/III. Log In and Out of Horizon.md",
     "assets/16_customer_facing_name.png",
-    "Horizon User Guide/05 Sales Orders/Swap Units of Measure in Find Mode.md",
     "assets/15_search_an_item.png",
-    "Horizon User Guide/04 Products/A. All Items/Assign Categories to All Items in Found Set.md",
-    "Horizon User Guide/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
-    "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/05 Sales Orders/Return Orders",
-    "Horizon User Guide/03 Customers/V. Add a Payment Plan.md",
-    "Horizon User Guide/03 Customers/IV. Add a Payment Card.md",
-    "Horizon User Guide/02 All Parties/Create a New Employee Record.md",
-    "Horizon User Guide/04 Products/E. All Equipment/Import Equipment Records.md",
-    "Horizon User Guide/03 Customers/VII. Delete a Payment Record.md",
-    "Horizon User Guide/03 Customers/VI. Merge Customer Records.md",
-    "Horizon User Guide/03 Customers/VIII. Delete a Customer Tier,  Sales Channel, and Payment Terms.md",
+    "Horizon User Guide/0000 Sales Orders/Return Orders",
     "assets/12_add_payment_plan.png",
-    "Horizon User Guide/03 Customers/III. Confirm and Unconfirm a Payment Record.md",
     "assets/10_add_payment_card.png",
-    "Horizon User Guide/03 Customers/II. Create a Payment Record.md",
-    "Horizon User Guide/03 Customers/I. Create a New Customer Record.md",
     "assets/14_unconfirm_payment_record.png",
     "assets/11_create_payment_record.png",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/00 Table of Contents",
     "Horizon User Guide/04 Products/E. All Equipment",
-    "Horizon User Guide/IV. Products/All Items/Untitled",
-    "Horizon User Guide/04 Products/C. Services",
-    "Horizon User Guide/04 Products/B. All Products",
-    "Horizon User Guide/IV. Products/All Items/Products",
-    "Horizon User Guide/IV. Products/All Items/Items",
     "Untitled.canvas"
   ]
 }
