@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
+                "file": "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
+                "file": "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
+                "file": "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md"
+                "file": "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md"
               }
             }
           }
@@ -148,38 +148,41 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
+    "Horizon User Guide/00 Table of Contents",
+    "Horizon User Guide/Old documentation/Untitled",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Unconfirm a Sales Order.md",
+    "Horizon User Guide/Old documentation",
     "Horizon User Guide/10 Test Folder/Test Note.md",
     "Horizon User Guide/10 Test Folder",
     "Horizon User Guide/05 Sales Orders/Sales Order.md",
-    "Horizon User Guide/05 Sales Orders/Create a Sales Order.md",
-    "Horizon User Guide/05 Sales Orders/Unconfirm a Sales Order.md",
-    "Horizon User Guide/05 Sales Orders/Confirm a Sales Order.md",
-    "Horizon User Guide/05 Sales Orders/Generate Sales Order Invoices.md",
-    "Horizon User Guide/05 Sales Orders/Adjust Prices and Quantities in Sales Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Confirm a Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Generate Sales Order Invoices.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Adjust Prices and Quantities in Sales Orders.md",
     "Horizon User Guide/0000 Sales Orders/SALES ORDERS.md",
-    "Horizon User Guide/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
-    "Horizon User Guide/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
-    "Horizon User Guide/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
-    "Horizon User Guide/05 Sales Orders/Sales Estimates/Create a Sales Estimate Order Item.md",
-    "Horizon User Guide/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
-    "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
-    "Horizon User Guide/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
-    "Horizon User Guide/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
-    "Horizon User Guide/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
-    "Horizon User Guide/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
-    "Horizon User Guide/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
-    "Horizon User Guide/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
-    "Horizon User Guide/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
-    "Horizon User Guide/05 Sales Orders/Swap Units of Measure in Find Mode.md",
-    "Horizon User Guide/05 Sales Orders/Search for an Item.md",
-    "Horizon User Guide/05 Sales Orders/Search for Items by Category in the Item Picker.md",
-    "Horizon User Guide/05 Sales Orders/Sales Estimates",
-    "Horizon User Guide/05 Sales Orders/Return Orders",
-    "Horizon User Guide/05 Sales Orders/Receiving Orders",
-    "Horizon User Guide/05 Sales Orders/Print Sales Orders.md",
-    "Horizon User Guide/05 Sales Orders/Omit a Sales Order Record.md",
-    "Horizon User Guide/05 Sales Orders/Discounts",
-    "Horizon User Guide/05 Sales Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate Order Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
+    "Horizon User Guide/Old documentation/05 Sales Orders",
     "assets/17_search_by_category.png",
     "assets/17_search_by_categpry.png",
     "16_customer_facing_name.png",
@@ -191,9 +194,6 @@
     "assets/10_add_payment_card.png",
     "assets/14_unconfirm_payment_record.png",
     "assets/11_create_payment_record.png",
-    "Horizon User Guide/08 Leads",
-    "Horizon User Guide/08 Leads",
-    "Horizon User Guide/00 Table of Contents",
     "Untitled.canvas"
   ]
 }
