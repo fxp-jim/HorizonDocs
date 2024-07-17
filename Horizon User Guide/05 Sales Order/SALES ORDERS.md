@@ -20,7 +20,7 @@ ______________________
 
 6. To make your sales order line item taxable, click the **tax** box until a checkmark (✔️) appears. Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation. Click **Save Changes** to apply your updates. 
 
-7. Click the hamburger menu button (☰) located at the rightmost of the sales order item list. A picker will appear, displaying the line item along with its customer-facing name. Click the add button (✚) to select the line item from the picker to load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed.
+7. To add the customer-facing name and description for an item, click the hamburger menu button (☰) on the right side of the sales order item list. A picker will appear, showing the line item alongside its customer-facing name. Click the add button (✚) to select the line item from the picker and load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as necessary.
 
 8. Generate demand by clicking **Demand**> **generate demand**, and wait for completion, then click OK. 
 
