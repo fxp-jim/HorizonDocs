@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
+                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
+                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
+                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md"
+                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
     "Horizon User Guide/01 Sales Order/SALES ORDER.md",
     "Horizon User Guide/01 Sales Order",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
     "Horizon User Guide/00 Table of Contents/01",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
@@ -180,7 +180,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
