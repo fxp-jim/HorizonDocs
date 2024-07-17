@@ -1,5 +1,5 @@
 
-# SALES ORDER
+# SALES ORDERS
 
 A sales order initiates the process of fulfilling a customer's request for products or services. This guide provides step-by-step instructions to streamline sales order creation.
 ### Create a Sales Order
@@ -10,11 +10,11 @@ ______________________
 
 2. Click **New Record**.
 
-3. Click the **Customer** box to select party. In the pop-up web picker, type the party's name in the search bar and press **Enter**, or scroll down, click **Add** and then **Done** to save.
+3. Click the **Customer** box to select party. In the pop-up web picker, type the party's name in the search bar and press **Enter**, or scroll down, then click **Add**.
 
 4. Set **Receive** **Date** and **Start At**; **End At** date is auto-scheduled.
 
-5. **Click to select item** to choose a **Sale Order Item**. Type the product name in the search bar or scroll through the list.
+5. **Click to select item** to choose a **Sale Order Item**. Type the product name in the search bar or scroll through the list. Alternatively, search by category using keywords in the category column to filter results.
 
 6. Click **Select** for your chosen product, adjust **Quantity** as needed, and click **Done** after making your selections. 
 
