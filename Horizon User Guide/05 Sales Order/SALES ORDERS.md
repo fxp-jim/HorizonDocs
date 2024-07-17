@@ -1,6 +1,6 @@
 # SALES ORDERS
 
-A sales order initiates the process of fulfilling a customer's request for products or services. Follow these streamlined steps for efficient sales order management:
+A sales order initiates fulfilling a customer's request for products or services. Sales order records capture customer details, transaction specifics, and itemized orders, with options for adjusting pricing, applying discounts, and taxes. They enable demand and invoice generation and allow for printing the record for documentation. Follow these streamlined steps for efficient sales order management:
 ##### **Create a Sales Order
 ___
 1. Ensure the customer's record exists. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20a%20New%20Customer%20Record.md).
