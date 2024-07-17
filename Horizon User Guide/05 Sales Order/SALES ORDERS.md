@@ -18,13 +18,15 @@ ______________________
 
 6. Click **Select** for your chosen product, adjust **Quantity** as needed, and click **Done** after making your selections. 
 
-7.  Click the hamburger menu button (☰) located at the rightmost of the sales order item list. A picker will appear, displaying the line item along with its customer-facing name. Select the line item from the picker to load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed.
+	 💡 **Tip**: To delete your selection, click on the item and then click the nearby "x" icon. To delete all items, look for a button labeled **Delete All**.
+
+7. Click the hamburger menu button (☰) located at the rightmost of the sales order item list. A picker will appear, displaying the line item along with its customer-facing name. Select the line item from the picker to load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed.
 
 8. Generate demand by clicking **Demand**> **Generate Demand**, and wait for completion, then click OK. 
 
 9. Go to **Order** tab and click **Confirm** to generate a sales invoice. 
 
-	⚠️ Note:  Once confirmed, your sales order cannot be deleted or modified for customer tier, sales channel, or payment terms. To undo, click **Unconfirm**.
+	⚠️ **Note**:  Once confirmed, your sales order cannot be deleted or modified for customer tier, sales channel, or payment terms. To undo, click **Unconfirm**.
 
 10. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom. 
 
