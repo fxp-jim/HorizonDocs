@@ -1,18 +1,18 @@
 # SALES ORDERS
 
 A sales order initiates the process of fulfilling a customer's request for products or services. Follow these streamlined steps for efficient sales order management:
-
 ##### 1. **Create a Sales Order
 
-* Ensure you have the customer's record. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20a%20New%20Customer%20Record.md).
-* Select **Sales Orders** from the main menu. 
+* Ensure the customer's record exists. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20a%20New%20Customer%20Record.md).
+* Navigate to **Sales Orders** in the main menu. 
 * Click **New Record**. Then click the **Customer** box to select party. In the pop-up web picker, type the party's name in the search bar and press **Enter**, or scroll down, then click **Add**.
  * Set **Receive** **Date** and **Start At**; **End At** date is auto-scheduled.
  * **Click to select item** to choose a **Sale Order Item**. In the pop-up picker, type the product name in the **search nam**e bar or type a category as shown in the category column in **search category** bar. Click **Select** after choosing the product, adjust **Quantity**, and click **Done**. 
 ##### 2. **Manage Line Items**
 
-* Delete items by clicking the "x" icon or all items using **delete all**.
 * Adjust the price and quantity of the sale order line item by typing the new price and/or quantity. The subtotal and total costs will update automatically.
+* Delete items by clicking the "x" icon or all items using **delete all**.
+
 ##### 3. **Apply Discounts and Taxes**
 
 * In the **Discounts** section, click **Select Discount.** In the pop-up, choose a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done. The discount adjusts the subtotal and total costs automatically.
@@ -35,6 +35,6 @@ A sales order initiates the process of fulfilling a customer's request for produ
 
 ##### 6. **Finalize and Print**
 - Click **Save Changes** to apply updates.
-- To print, click **Print** (🖨️) at the top right of the screen.
+- For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
 
 Following these steps ensures efficient management and accurate processing of sales orders.
