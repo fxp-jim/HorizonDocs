@@ -14,24 +14,20 @@ ______________________
 
 4. Set **Receive** **Date** and **Start At**; **End At** date is auto-scheduled.
 
-5. **Click to select item** to choose a **Sale Order Item**. Type the product name in the search bar or scroll through the list. Alternatively, search by category using keywords in the category column to filter results.
+5. **Click to select item** to choose a **Sale Order Item**. Type the product name in the **search name** bar or scroll through the list. Alternatively, **search by categor**y using keywords in the category column to filter results. Then, click **Select** for your chosen product, adjust **Quantity** as needed, and click **Done** after making your selections. 
 
-6. Click **Select** for your chosen product, adjust **Quantity** as needed, and click **Done** after making your selections. 
+	 💡 **Tip**: To delete a selected line item,  click the nearby "x" icon. To delete all items, look for a button labeled **delete all**.
 
-	 💡 **Tip**: To delete your selection, click on the item and then click the nearby "x" icon. To delete all items, look for a button labeled **Delete All**.
+6. Click the hamburger menu button (☰) located at the rightmost of the sales order item list. A picker will appear, displaying the line item along with its customer-facing name. Click the add button (✚) to select the line item from the picker to load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed.
 
-7. Click the hamburger menu button (☰) located at the rightmost of the sales order item list. A picker will appear, displaying the line item along with its customer-facing name. Select the line item from the picker to load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed.
+7. Generate demand by clicking **Demand**> **generate demand**, and wait for completion, then click OK. 
 
-8. Generate demand by clicking **Demand**> **Generate Demand**, and wait for completion, then click OK. 
+8. Go back to **Order** tab and click **confirm** to generate a sales invoice. 
 
-9. Go to **Order** tab and click **Confirm** to generate a sales invoice. 
+	⚠️ **Note**:  Once confirmed, your sales order cannot be deleted or modified for Sales Channel, Customer Tier, or Payment Terms. To undo, click **unconfirm**.
 
-	⚠️ **Note**:  Once confirmed, your sales order cannot be deleted or modified for customer tier, sales channel, or payment terms. To undo, click **Unconfirm**.
+9. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom. Return to the **Main Menu** and select **Invoices.** Find the customer's name on the left side, using **Find Mode** or **Browse Mode**. The generated sales invoices for the selected customer should be there. 
 
-10. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom. 
-
-11. Return to the **Main Menu** and select **Invoices.** Find the customer's name on the left side, using **Find Mode** or **Browse Mode**. The generated sales invoices for the selected customer should be there. 
-
-
+10. To print your **Sales Order**, click on **Print** (🖨️) at the upper right side of the screen. This will prepare the sales order document for printing.
 
 
