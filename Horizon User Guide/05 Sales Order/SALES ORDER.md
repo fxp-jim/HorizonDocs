@@ -22,8 +22,14 @@ ______________________
 
 8. Generate demand by clicking **Demand**> **Generate Demand**, and wait for completion, then click OK. 
 
-9. Go to **Order** tab and click **Confirm**. 
+9. Go to **Order** tab and click **Confirm** to generate a sales invoice. 
 
 	⚠️ Note:  Once confirmed, your sales order cannot be deleted or modified for customer tier, sales channel, or payment terms. To undo, click **Unconfirm**.
 
-10. Click **Save Changes** at the bottom left.
+10. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom.
+
+11. Return to the **Main Menu** and select **Invoices.** Find the customer's name on the left side, using **Find Mode** or **Browse Mode**. The generated sales invoices for the selected customer should be there.
+
+
+
+
