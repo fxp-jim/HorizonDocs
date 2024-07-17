@@ -11,9 +11,11 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Assets/01_create_sales_orders.png"
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Assets/01_create_sales_orders.png",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Assets/01_create_sales_orders.png",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Assets/01_create_sales_orders.png"
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md"
               }
             }
           }
@@ -146,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/00 Assets/01_create_sales_orders.png",
+    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/00 Assets",
     "Horizon User Guide/03 Customers/Create a New Customer Record.md",
     "Horizon User Guide/Old documentation/01 Getting Started/II. Create a Horizon Account.md",
