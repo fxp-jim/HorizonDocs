@@ -1,4 +1,3 @@
-
 # Create a New Customer Record
 ___
 To create a sales order record, first create a customer record. Follow these steps:
@@ -12,3 +11,5 @@ To create a sales order record, first create a customer record. Follow these ste
 3. **Select Customer Type**:
     
     - In the form that pops up, choose **person** or **organization** in the Type field.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_create_customer_record.png" width="400" height="300">
