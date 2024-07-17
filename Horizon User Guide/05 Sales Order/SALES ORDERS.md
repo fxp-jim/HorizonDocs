@@ -18,7 +18,7 @@ ______________________
 
 6. Click **Select** for your chosen product, adjust **Quantity** as needed, and click **Done** after making your selections. 
 
-7. Click the gear icon (⚙️) to configure, then click **DONE** to save.
+7.  Click the hamburger menu button (☰) located at the rightmost of the sales order item list. A picker will appear, displaying the line item along with its customer-facing name. Select the line item from the picker to load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed.
 
 8. Generate demand by clicking **Demand**> **Generate Demand**, and wait for completion, then click OK. 
 
@@ -26,9 +26,9 @@ ______________________
 
 	⚠️ Note:  Once confirmed, your sales order cannot be deleted or modified for customer tier, sales channel, or payment terms. To undo, click **Unconfirm**.
 
-10. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom.
+10. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom. 
 
-11. Return to the **Main Menu** and select **Invoices.** Find the customer's name on the left side, using **Find Mode** or **Browse Mode**. The generated sales invoices for the selected customer should be there.
+11. Return to the **Main Menu** and select **Invoices.** Find the customer's name on the left side, using **Find Mode** or **Browse Mode**. The generated sales invoices for the selected customer should be there. 
 
 
 
