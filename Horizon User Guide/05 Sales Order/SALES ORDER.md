@@ -24,6 +24,6 @@ ______________________
 
 9. Go to **Order** tab and click **Confirm**. 
 
-	⚠️ Note:  Once confirmed, Sales Orders cannot be deleted. 
+	⚠️ Note:  Once confirmed, your sales order cannot be deleted or modified for customer tier, sales channel, or payment terms.
 
 10. Click **Save Changes** at the bottom left.
