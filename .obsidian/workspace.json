@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create a New Customer Record.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDER.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create a New Customer Record.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create a New Customer Record.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create a New Customer Record.md"
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDER.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/02 All Parties/Create a New Customer Record.md",
     "Horizon User Guide/03 Customers/Create a New Customer Record.md",
+    "Horizon User Guide/Old documentation/02 All Parties/Create a New Customer Record.md",
     "Horizon User Guide/05 Sales Order/SALES ORDER.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Generate Sales Order Invoices.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Print Sales Orders.md",
