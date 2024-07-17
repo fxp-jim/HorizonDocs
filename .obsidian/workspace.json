@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03e480591f6385b2",
+  "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/03 Customers/Create a New Customer Record.md",
+    "Horizon User Guide/Old documentation/01 Getting Started/II. Create a Horizon Account.md",
+    "Horizon User Guide/Old documentation/01 Getting Started/I. Launch Horizon File.md",
+    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
+    "assets/01_create_sales_orders.png",
     "Horizon User Guide/01 Getting Started/Definition of Terms.md",
     "Horizon User Guide/Old documentation/01 Getting Started/IV. Start Using Horizon.md",
     "Horizon User Guide/Old documentation/01 Getting Started/III. Log In and Out of Horizon.md",
-    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
@@ -172,9 +175,6 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Employee Record.md",
     "Horizon User Guide/Old documentation/03 Customers/I. Create a New Customer Record.md",
-    "Horizon User Guide/Old documentation/02 All Parties/Create a New Customer Record.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Unconfirm a Sales Order.md",
-    "Horizon User Guide/03 Customers/Create a New Customer Record.md",
     "Horizon User Guide/04 Products",
     "Horizon User Guide/03 Customers",
     "Horizon User Guide/01 Getting Started",
@@ -194,7 +194,6 @@
     "assets/12_add_payment_plan.png",
     "assets/10_add_payment_card.png",
     "assets/14_unconfirm_payment_record.png",
-    "assets/11_create_payment_record.png",
     "Untitled.canvas"
   ]
 }
