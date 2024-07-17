@@ -18,16 +18,20 @@ ______________________
 
 5. To adjust the price and quantity of the sale order line item, simply type in the new price and/or quantity you want. The subtotal and total costs will update automatically.
 
-6. To make your sales order line item taxable, click the **tax** box until a checkmark (✔️) appears. Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation. Click **Save Changes** to apply your updates. 
+6. To apply discounts to your sales order, scroll to **Discounts** section, then click **Select Discount.** In the pop-up, choose a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done. The discount adjusts the subtotal and total costs automatically.
 
-7. To add or edit the customer-facing name and description for an item, click the hamburger menu button (☰) on the right side of the sales order item list. A picker will appear, displaying the line item alongside its customer-facing name. Click the add button (✚) to select the line item from the picker and load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed.
+	⚠️ **Note**: You can add more sales order items after applying discounts, and the discount values will update accordingly.
 
-8. Generate demand by clicking **Demand**> **generate demand**, and wait for completion, then click OK. 
+7. To make your sales order line item taxable, click the **tax** box until a checkmark (✔️) appears. Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation. Click **Save Changes** to apply your updates. 
 
-9. To generate a sales invoice, go back to **Order** tab and click **confirm**. 
+8.  To add or edit the customer-facing name and description for an item, click the hamburger menu button (☰) on the right side of the sales order item list. A picker will appear, displaying the line item alongside its customer-facing name. Click the add button (✚) to select the line item from the picker and load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed.
+
+9. Generate demand by clicking **Demand**> **generate demand**, and wait for completion, then click OK. 
+
+10. To generate a sales invoice, go back to **Order** tab and click **confirm**. 
 
 	⚠️ **Note**: Once confirmed, your sales order cannot be deleted or modified for Sales Channel, Customer Tier, or Payment Terms. To undo, click **unconfirm**.
 
-10. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom. Return to the **Main Menu** and select **Invoices.** Find the customer's name on the left side, using **Find Mode** or **Browse Mode**. The generated sales invoices for the selected customer should be there. 
+11. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom. Return to the **Main Menu** and select **Invoices.** Find the customer's name on the left side, using **Find Mode** or **Browse Mode**. The generated sales invoices for the selected customer should be there. 
 
-11. To print your **Sales Order**, click on **Print** (🖨️) at the upper right side of the screen. This will prepare the sales order document for printing.
+12. To print your **Sales Order**, click on **Print** (🖨️) at the upper right side of the screen. This will prepare the sales order document for printing.
