@@ -11,8 +11,10 @@ ___
 6. **Click to select item** to choose a **Sale Order Item**. In the pop-up picker, type the product name in the **search nam**e bar or type a category as shown in the category column in **search category** bar. Click **Select** after choosing the product, adjust **Quantity**, and click **Done**. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/01_create_sales_orders.png" width="350" height="300">
+
 ### **Manage Line Items**
 ___
+
 1. Adjust the price and quantity of the sale order line item by typing the new price and/or quantity. The subtotal and total costs will update automatically. <br>
 2. Delete items by clicking the "x" icon or all items using **delete all**. <br> 
 3. To add or edit the customer-facing name and description for an item, click the hamburger menu button (☰). A picker will appear, displaying the line item alongside its customer-facing name. Click the add button (✚) to select the line item from the picker and load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed. <br>
