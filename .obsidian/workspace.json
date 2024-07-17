@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDER.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md"
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDER.md"
               }
             }
           }
@@ -153,8 +153,8 @@
     "Horizon User Guide/01 Getting Started",
     "Horizon User Guide/02 Parties",
     "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
-    "Horizon User Guide/01 Sales Order/SALES ORDER.md",
-    "Horizon User Guide/01 Sales Order",
+    "Horizon User Guide/05 Sales Order/SALES ORDER.md",
+    "Horizon User Guide/05 Sales Order",
     "Horizon User Guide/00 Table of Contents/01",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
