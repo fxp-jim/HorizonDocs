@@ -1,4 +1,3 @@
-
 # SALES ORDERS
 
 A sales order initiates the process of fulfilling a customer's request for products or services. Follow these streamlined steps for efficient sales order management:
