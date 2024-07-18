@@ -28,8 +28,10 @@ ___
 10. **Configuring Sales Order Items:**
     
     - Customize a sales order item by clicking the gear icon (⚙️) and then selecting **DONE** to save your changes.
+
+### **Apply Discounts, Taxes, and Conditions**
 ___
-#### Discounts
+#### Taxes
 
 11. **Selecting Discounts:**
 
@@ -53,15 +55,22 @@ ___
 13. **Adding Sales Channel, Customer Tier, and Payment Terms:**
 
 - Locate the respective fields labeled **click here to add sales channel**, **click here to add customer tier**, and **click here to add payment terms** within the sales order.
+
 ### **Generate Demand and Invoice**
 ___
-13. Go to **Demand > Generate Demand** and wait for completion, then click OK.
-14. Return to the **Order** tab, and click **Confirm** to generate a sales invoice. 
-15. Click **generate invoice** and wait until the **Invoiced** status posts **Yes**. Then, click **Save Changes** at the bottom. 
-16. Return to the **Main Menu** and select **Invoices.** Find the customer's name on the left side, using **Find Mode** or **Browse Mode**. The generated sales invoices for the selected customer should be there.
+13. **Generating Demand:**
 
-	⚠️ **Note**: Once confirmed, your sales order cannot be deleted or modified for Sales Channel, Customer Tier, or Payment Terms. To undo, click **unconfirm**.
+- Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished.
 
+14. **Generating Sales Invoice:**
+
+- Return to the **Order** tab and click **Confirm** to initiate the sales invoice generation process.
+
+- Click **generate invoice** and wait until the status displays **Invoiced: Yes**. Then, click **Save Changes** located at the bottom of the screen.
+
+- Return to the **Main Menu** and select **Invoices**. Use **Find Mode** or **Browse Mode** to locate the customer's name on the left side. The generated sales invoices for the selected customer will be listed.
+
+	⚠️ **Note**: Once a sales order is confirmed, changes to Sales Channel, Customer Tier, or Payment Terms cannot be made. To revert, click **unconfirm**.
 ### **Finalize and Print**
 _____
 17. Click **Save Changes** to apply updates.
