@@ -18,7 +18,7 @@ ___
 7. Adjust the price and quantity of the sale order line item by typing the new price and/or quantity. The subtotal and total costs will update automatically. <br>
 8. Delete items by clicking the "x" icon or all items using **delete all**. <br> 
 9. To add or edit the customer-facing name and description for an item, click the hamburger menu button (☰). A picker will appear, displaying the line item alongside its customer-facing name. Click the add button (✚) to select the line item from the picker and load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed. <br>
-10. To configure a sale order item, click on the ![gear icon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/02_sales_order_gear_icon.png), then click **DONE** to save. 
+10. To configure a sale order item, click on the gear icon ![gear icon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/02_sales_order_gear_icon.png), then click **DONE** to save. 
 ### **Apply Discounts and Taxes**
 ___
 11. In the **Discounts** section, click **Select Discount.** In the pop-up, choose a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done. The discount adjusts the subtotal and total costs automatically.
