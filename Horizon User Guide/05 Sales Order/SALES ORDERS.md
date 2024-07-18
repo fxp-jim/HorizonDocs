@@ -15,11 +15,19 @@ ___
 ### **Manage Line Items**
 ___
 
-7. Adjust the price and quantity of the sale order line item by typing the new price and/or quantity. The subtotal and total costs will update automatically. <br>
-8. Delete items by clicking the "x" icon or all items using **delete all**. <br> 
-9. To add or edit the customer-facing name and description for an item, click the hamburger menu button (☰). A picker will appear, displaying the line item alongside its customer-facing name. Click the add button (✚) to select the line item from the picker and load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed. <br>
-10. To configure a sale order item, click on the gear icon (⚙️) then click **DONE** to save. 
-### **Apply Discounts, Taxes, and Conditions**
+7. **Adjusting Price and Quantity:**
+    
+    - Modify the price or quantity of a sales order line item by entering new values. The subtotal and total costs will update automatically.
+8. **Deleting Items:**
+    
+    - Remove individual items by clicking the "x" icon. To delete all items, use the **delete all** option.
+9. **Editing Customer-Facing Details:**
+    
+    - Click the hamburger menu button (☰) to access the item picker.
+    - Choose the line item to edit its customer-facing name and description, based on default settings. Adjust the name as needed.
+10. **Configuring Sales Order Items:**
+    
+    - Customize a sales order item by clicking the gear icon (⚙️) and then selecting **DONE** to save your changes.
 ___
 #### Discounts
 
