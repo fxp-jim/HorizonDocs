@@ -29,6 +29,12 @@ ___
     
     - Customize a sales order item by clicking the gear icon (⚙️) and then selecting **DONE** to save your changes.
 
+
+
+
+
+
+
 ### **Apply Discounts, Taxes, and Conditions**
 ___
 #### Taxes
@@ -56,6 +62,7 @@ ___
 
 - Locate the respective fields labeled **click here to add sales channel**, **click here to add customer tier**, and **click here to add payment terms** within the sales order.
 
+💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
 ### **Generate Demand and Invoice**
 ___
 13. **Generating Demand:**
