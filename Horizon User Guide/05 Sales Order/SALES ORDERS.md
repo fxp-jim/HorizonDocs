@@ -18,16 +18,33 @@ ___
 7. Adjust the price and quantity of the sale order line item by typing the new price and/or quantity. The subtotal and total costs will update automatically. <br>
 8. Delete items by clicking the "x" icon or all items using **delete all**. <br> 
 9. To add or edit the customer-facing name and description for an item, click the hamburger menu button (☰). A picker will appear, displaying the line item alongside its customer-facing name. Click the add button (✚) to select the line item from the picker and load its customer-facing name and description (based on the defaults set at the item level). Adjust the customer-facing name as needed. <br>
-10. To configure a sale order item, click on the gear icon ![gear icon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/02_sales_order_gear_icon.png), then click **DONE** to save. 
-### **Apply Discounts and Taxes**
+10. To configure a sale order item, click on the gear icon (⚙️) then click **DONE** to save. 
+### **Apply Discounts, Taxes, and Conditions**
 ___
-11. In the **Discounts** section, click **Select Discount.** In the pop-up, choose a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done. The discount adjusts the subtotal and total costs automatically.
+#### Discounts
 
-	💡 **Tips**
-	* You can add more sales order items after applying discounts, and the discount values will update accordingly. 
-	* To remove a discount, click on the "x" icon next to the discount. This action will adjust the total cost automatically.
+11. **Selecting Discounts:**
 
-12. To make your sales order line item taxable, click the **tax** box until a checkmark (✔️) appears. Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation. 
+- Navigate to the **Discounts** section and click **Select Discount**.
+- In the pop-up window, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done.
+- The discount will automatically adjust the subtotal and total costs.
+
+💡 **Tips:**
+
+- You can add more sales order items after applying discounts, and the discount values will update accordingly.
+- To remove a discount, click on the "x" icon next to the discount, and the total cost will adjust automatically.
+#### Taxes
+
+12. **Making Sales Orders Taxable:**
+
+- Click the **tax** box next to each sales order line item until a checkmark (✔️) appears.
+- Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
+
+#### Adding Conditions
+
+13. **Adding Sales Channel, Customer Tier, and Payment Terms:**
+
+- Locate the respective fields labeled **click here to add sales channel**, **click here to add customer tier**, and **click here to add payment terms** within the sales order.
 ### **Generate Demand and Invoice**
 ___
 13. Go to **Demand > Generate Demand** and wait for completion, then click OK.
