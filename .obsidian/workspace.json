@@ -11,9 +11,11 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Assets/09_main_menu.png"
+                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Assets/09_main_menu.png",
+                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Assets/09_main_menu.png",
+                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Assets/09_main_menu.png"
+                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md"
               }
             }
           }
@@ -146,11 +148,12 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+    "Horizon User Guide/00 Assets/09_main_menu.png",
     "Horizon User Guide/Old documentation/01 Getting Started/III. Log In and Out of Horizon.md",
     "Horizon User Guide/Old documentation/01 Getting Started/II. Create a Horizon Account.md",
     "Horizon User Guide/Old documentation/01 Getting Started/I. Launch Horizon File.md",
-    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/01 Getting Started/Definition of Terms.md",
     "Horizon User Guide/00 Assets/08_finalize_and_print_sales_order.png",
     "Horizon User Guide/00 Assets/07_generate_invoice.png",
@@ -190,7 +193,6 @@
     "Horizon User Guide/00 Table of Contents",
     "Horizon User Guide/Old documentation/Untitled",
     "assets/17_search_by_category.png",
-    "assets/17_search_by_categpry.png",
     "Untitled.canvas"
   ]
 }
