@@ -89,6 +89,6 @@ _____
 16. Click **Save Changes** to apply updates.
 17. For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order.png08_finalize_and_print_sales_order" width="350" height="300">
 
 Following these steps ensures efficient management and accurate processing of sales orders.
