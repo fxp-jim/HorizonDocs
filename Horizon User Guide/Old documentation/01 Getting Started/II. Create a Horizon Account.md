@@ -42,7 +42,7 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 5. Add Account
 	* Click **Add Account**.
 
-6. Email Confirmation:
+6. **Email Confirmation**:
     
     - Click **OK** when the **Email Sent** notification appears.
 7. **Activate Account:**
