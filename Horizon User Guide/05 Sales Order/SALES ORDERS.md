@@ -91,5 +91,4 @@ _____
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order" width="350" height="300">
 
-
 Following these steps ensures efficient management and accurate processing of sales orders.
