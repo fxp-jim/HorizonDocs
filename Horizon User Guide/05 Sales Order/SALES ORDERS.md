@@ -29,7 +29,7 @@ ___
     
     - Customize a sales order item by clicking the gear icon (⚙️) and then selecting **DONE** to save your changes.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/03_sales_item_manage_line_items" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/03_sales_orders_manage_line_items" width="350" height="300">
 
 ### **Apply Discounts, Taxes, and Conditions**
 ___
