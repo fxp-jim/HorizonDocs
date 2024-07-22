@@ -148,6 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "04_sales_orders_apply_taxes_discounts_conditions.png",
+    "Horizon User Guide/00 Assets/04_sales_orders_apply_taxes_discounts_conditions.png",
     "Horizon User Guide/00 Assets/03_sales_order_manage_line_items.png",
     "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
@@ -192,7 +194,6 @@
     "assets/16_customer_facing_name.png",
     "assets/15_search_an_item.png",
     "assets/12_add_payment_plan.png",
-    "assets/10_add_payment_card.png",
     "Untitled.canvas"
   ]
 }

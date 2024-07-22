@@ -59,13 +59,15 @@ ___
 - Locate the respective fields labeled **click here to add sales channel**, **click here to add customer tier**, and **click here to add payment terms** within the sales order.
 
 💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/04_sales_order_apply_taxes_discounts_conditions.png" width="350" height="300">
 ### **Generate Demand and Invoice**
 ___
-13. **Generating Demand:**
+14. **Generating Demand:**
 
 - Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished.
 
-14. **Generating Sales Invoice:**
+15. **Generating Sales Invoice:**
 
 - Return to the **Order** tab and click **Confirm** to initiate the sales invoice generation process.
 
@@ -76,7 +78,7 @@ ___
 	⚠️ **Note**: Once a sales order is confirmed, changes to Sales Channel, Customer Tier, or Payment Terms cannot be made. To revert, click **unconfirm**.
 ### **Finalize and Print**
 _____
-17. Click **Save Changes** to apply updates.
-18. For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
+16. Click **Save Changes** to apply updates.
+17. For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
 
 Following these steps ensures efficient management and accurate processing of sales orders.
