@@ -29,17 +29,18 @@ ___
     
     - Customize a sales order item by clicking the gear icon (⚙️) and then selecting **DONE** to save your changes.
 
-
-
-
-
-
-
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/03_sales_order_manage_line_items.png" width="350" height="300">
 ### **Apply Discounts, Taxes, and Conditions**
 ___
 #### Taxes
 
-11. **Selecting Discounts:**
+11. **Making Sales Orders Taxable:**
+
+- Click the **tax** box next to each sales order line item until a checkmark (✔️) appears.
+- Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
+#### Discounts
+
+12. **Selecting Discounts:**
 
 - Navigate to the **Discounts** section and click **Select Discount**.
 - In the pop-up window, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done.
@@ -48,13 +49,7 @@ ___
 💡 **Tips:**
 
 - You can add more sales order items after applying discounts, and the discount values will update accordingly.
-- To remove a discount, click on the "x" icon next to the discount, and the total cost will adjust automatically.
-#### Taxes
-
-12. **Making Sales Orders Taxable:**
-
-- Click the **tax** box next to each sales order line item until a checkmark (✔️) appears.
-- Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
+- To remove a discount, click on the (x) icon next to the discount, and the total cost will adjust automatically.
 
 #### Adding Conditions
 
