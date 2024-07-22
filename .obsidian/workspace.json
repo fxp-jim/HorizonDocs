@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md"
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/00 Assets/09_main_menu.png",
     "Horizon User Guide/Old documentation/01 Getting Started/III. Log In and Out of Horizon.md",
     "Horizon User Guide/Old documentation/01 Getting Started/II. Create a Horizon Account.md",
