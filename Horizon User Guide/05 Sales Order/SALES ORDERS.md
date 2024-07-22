@@ -66,13 +66,13 @@ ___
 ___
 14. **Generating Demand:**
 
-- Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished.
+- Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/05_sales_orders_generate_demand.png" width="350" height="300">
 
 15. **Generating Sales Invoice:**
 
-- Return to the **Order** tab and click **Confirm** to initiate the sales invoice generation process.
+- Return to the **Order** tab and click **confirm** to initiate the sales invoice generation process.
 
 - Click **generate invoice** and wait until the status displays **Invoiced: Yes**. Then, click **Save Changes** located at the bottom of the screen.
 
