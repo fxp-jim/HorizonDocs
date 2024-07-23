@@ -1,7 +1,7 @@
 # Getting Started
 ___
 
-[Launch Horizon File](#launch/horizon/file)
+[Launch Horizon File](#^launch/horizon/file)
 
 [Create a Horizon Account](#create/a/horizon/account)
 
