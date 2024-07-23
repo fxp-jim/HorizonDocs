@@ -7,6 +7,7 @@ ___
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/09_main_menu.png" width="400" height="300">
+
 ### 1 **All Parties**
 Use this menu to navigate through customer, vendor, and employee records, and more.
 

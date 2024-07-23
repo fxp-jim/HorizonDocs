@@ -1,6 +1,6 @@
 # Create a New Customer Record
 ___
-To create a sales order record, first create a customer record. Follow these steps:
+To create a [sales order](#4/sales/orders) record, first create a customer record. Follow these steps:
 
 1. **Access Customer Section**:
     
