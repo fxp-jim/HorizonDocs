@@ -101,7 +101,7 @@ ___
 ##### Troubleshooting Login Issues
 - If you have trouble with your password, [reset your password](V.%20Reset%20Your%20Password.md).
 ### Log Out of Horizon
-___________________
+___
 #### From the Main Menu:
 - Click **Log Out** at the bottom of the main menu.
 #### From Other Pages:
