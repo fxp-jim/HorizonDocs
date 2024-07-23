@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md"
+                "file": "Horizon User Guide/05 Sales Order/SALES ORDERS.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "f0178c786cccd6ef",
   "lastOpenFiles": [
-    "Horizon User Guide/03 Customers/Create a New Customer Record.md",
     "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+    "Horizon User Guide/03 Customers/Create a New Customer Record.md",
     "items.md",
     "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "[.md",
