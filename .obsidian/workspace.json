@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "file": "Horizon User Guide/01 Getting Started/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "file": "Horizon User Guide/01 Getting Started/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "file": "Horizon User Guide/01 Getting Started/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md"
+                "file": "Horizon User Guide/01 Getting Started/Getting Started.md"
               }
             }
           }
@@ -148,18 +148,21 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
     "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
-    "Horizon User Guide/Old documentation/01 Getting Started/V. Reset Your Password.md",
-    "Horizon User Guide/Old documentation/01 Getting Started/III. Log In and Out of Horizon.md",
     "Horizon User Guide/Old documentation/01 Getting Started/I. Launch Horizon File.md",
+    "Horizon User Guide/01 Getting Started/Getting Started.md",
+    "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
+    "Horizon User Guide/Old documentation/01 Getting Started/II. Create a Horizon Account.md",
+    "Horizon User Guide/Old documentation/01 Getting Started/III. Log In and Out of Horizon.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate Order Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
+    "Horizon User Guide/Old documentation/01 Getting Started/V. Reset Your Password.md",
     "Horizon User Guide/05 Sales Order/Sales Orders.md",
     "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
     "Horizon User Guide/03 Customers/Create a New Customer Record.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "items.md",
     "[.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
@@ -171,10 +174,7 @@
     "Horizon User Guide/Old documentation/03 Customers/IV. Add a Payment Card.md",
     "Horizon User Guide/Old documentation/03 Customers/III. Confirm and Unconfirm a Payment Record.md",
     "Horizon User Guide/Old documentation/03 Customers/II. Create a Payment Record.md",
-    "Horizon User Guide/Old documentation/03 Customers/I. Create a New Customer Record.md",
-    "Horizon User Guide/Old documentation/01 Getting Started/VI. Delete Your Account.md",
     "Horizon User Guide/00 Assets/09_main_menu.png",
-    "Horizon User Guide/01 Getting Started/Definition of Terms.md",
     "Horizon User Guide/00 Assets/08_finalize_and_print_sales_order.png",
     "Horizon User Guide/00 Assets/07_generate_invoice.png",
     "Horizon User Guide/00 Assets/06_confirm_sales_order.png",
