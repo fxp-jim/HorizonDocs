@@ -27,7 +27,7 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 
 [Create an Account for Another User in Horizon](#create/an/account/for/another/user/in/horizon)
 
-#### Create Your Own Horizon Account
+### Create Your Own Horizon Account
 
 1. **Open Horizon**: [Follow the steps to launch the Horizon file](I.%20Launch%20Horizon%20File.md).
 2. **Add Account**: Click **Add Account** on the login page.
