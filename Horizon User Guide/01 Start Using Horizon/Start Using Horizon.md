@@ -87,7 +87,7 @@ ___
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
 
-[Log into Your Horizon Account](#log-into-your-horizonaccount)
+[Log into Your Horizon Account](#log-into-your-horizon-account)
 
 [Log Out of Horizon](#log-out-of-horizon)
 ### Log into Your Horizon Account
