@@ -2,13 +2,13 @@
 
 [Launch Horizon File](#launch-horizon-file)
 
-[Create a Horizon Account](#create/a/horizon/account)
+[Create a Horizon Account](#create-a-horizon-account)
 
-[Log In and Out of Horizon](#log/in/and/out/of/horizon)
+[Log In and Out of Horizon](#log-in-and-out-of-horizon)
 
-[Reset Your Password](#reset/your/password)
+[Reset Your Password](#reset-your-password)
 
-[Delete Your Account](#delete/your/account)
+[Delete Your Account](#delete-your-account)
 ## Launch Horizon File
 
 1. **Open FileMaker Pro**: Start the FileMaker Pro application.
