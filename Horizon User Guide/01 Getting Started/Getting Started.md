@@ -158,7 +158,7 @@ Equipment refers to essential items used in various aspects of product creation 
 Select this menu when recording the sale of products or services to a customer. Sales Order records specify the transaction time, specific details of the ordered goods or services, and a comprehensive list of items sold, including any configurations.
 
 ### 5 **Invoices**  
-Invoices are accounting documents issued to customers and clients to record sales transactions and request payment. They specify the agreed-upon prices, quantities, and terms of the sale as detailed in the sales order and include any discounts applied.
+Invoices are accounting documents issued to customers and clients to record sales transactions and request payment. They specify the agreed-upon prices, quantities, and terms of the sale as detailed in the sales order and include any discounts and taxes applied.
 
 ### 6 **Bill of Materials (BOM)**  
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.

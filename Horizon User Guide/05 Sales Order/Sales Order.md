@@ -1,11 +1,12 @@
 # Sales Orders
 
-A [sales order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/01%20Getting%20Started/Getting%20Started.md#navigate-the-main-menu#4-**sales-orders**) initiates fulfilling a customer's request for products or services. Sales order records capture customer details, transaction specifics, and itemized orders, with options for adjusting pricing, applying discounts, and taxes. They enable [demand](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/01%20Getting%20Started/IV.%20Start%20Using%20Horizon.md#demand) and invoice generation and allow for printing the record for documentation. Follow these streamlined steps for efficient sales order management:
+A sales order initiates fulfilling a customer's request for [products](#products) or [services](#services). Sales order records capture customer details, transaction specifics, and itemized orders, with options for adjusting pricing, applying discounts, and taxes. They enable [demand](#demand) and [invoice](#invoice) generation and allow for printing the record for documentation. Follow these streamlined steps for efficient sales order management:
 
 [Create a Sales Order](#create-a-sales-order) <br>
 [Manage Line Items](#manage-line-items) <br>
 [Apply Taxes, Discounts, and Conditions](#apply-taxes,-discounts,-and-conditions) <br>
 [Finalize and Print](#finalize-and-print) <br>
+[Definition of Terms](#definition-of-terms)
 ### **Create a Sales Order**
 ___
 1. Ensure the customer's record exists. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20a%20New%20Customer%20Record.md).
@@ -97,3 +98,21 @@ _____
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order.png" width="350" height="300">
 
 Following these steps ensures efficient management and accurate processing of sales orders.
+
+## Definition of Terms
+
+#### Demand
+
+Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
+
+#### Invoice
+
+Invoices are accounting documents issued to customers and clients to record sales transactions and request payment. They specify the agreed-upon prices, quantities, and terms of the sale as detailed in the sales order and include any discounts and taxes applied.
+
+#### Products
+
+Products are consumable physical items that can be created or purchased, each with prices (e.g., vendor prices) for picking and selling.
+
+#### Services
+
+Services refer to intangible items the company offers its customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
