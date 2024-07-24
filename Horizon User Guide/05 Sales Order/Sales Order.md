@@ -2,11 +2,10 @@
 
 A [sales order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/01%20Getting%20Started/IV.%20Start%20Using%20Horizon.md#sales-orders) initiates fulfilling a customer's request for products or services. Sales order records capture customer details, transaction specifics, and itemized orders, with options for adjusting pricing, applying discounts, and taxes. They enable [demand](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/01%20Getting%20Started/IV.%20Start%20Using%20Horizon.md#demand) and invoice generation and allow for printing the record for documentation. Follow these streamlined steps for efficient sales order management:
 
-[Create a Sales Order](#create-a-sales-order)
-[Manage Line Items](#manage-line-items)
-[Apply Taxes, Discounts, and Conditions](#apply-taxes,-discounts,-and-conditions)
-[Finalize and Print](#finalize-and-print)
-
+[Create a Sales Order](#create-a-sales-order) <br>
+[Manage Line Items](#manage-line-items) <br>
+[Apply Taxes, Discounts, and Conditions](#apply-taxes,-discounts,-and-conditions) <br>
+[Finalize and Print](#finalize-and-print) <br>
 ### **Create a Sales Order**
 ___
 1. Ensure the customer's record exists. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20a%20New%20Customer%20Record.md).
