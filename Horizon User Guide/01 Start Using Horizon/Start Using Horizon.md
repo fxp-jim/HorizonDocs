@@ -88,9 +88,9 @@ ___
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
 
-[Log into Your Horizon Account](#log/into/your/horizon/account)
+[Log into Your Horizon Account](#log-into-your-horizonaccount)
 
-[Log Out of Horizon](#log/out/of/horizon)
+[Log Out of Horizon](#log-out-of-horizon)
 ### Log into Your Horizon Account
 ___
 1. **[Launch Horizon file](I.%20Launch%20Horizon%20File.md).**
