@@ -154,7 +154,7 @@ ___
 
 9. Click **OK** upon receiving the successful **Password Reset** notification.
 ## Delete Your Account
----
+
 #### What happens if I permanently delete my Horizon account? 
 
 • You won't be able to reactivate your account. 
