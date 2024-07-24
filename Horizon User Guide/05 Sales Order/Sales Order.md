@@ -4,7 +4,7 @@ A sales order initiates fulfilling a customer's request for [products](#products
 
 [Create a Sales Order](#create-a-sales-order) <br>
 [Manage Line Items](#manage-line-items) <br>
-[Apply Taxes, Discounts, and Conditions](#apply-taxes,-discounts,-and-conditions) <br>
+[Apply Taxes, Discounts, and Conditions](#apply-taxes-discounts-and-conditions) <br>
 [Finalize and Print](#finalize-and-print) <br>
 [Definition of Terms](#definition-of-terms)
 ### **Create a Sales Order**

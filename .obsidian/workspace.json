@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md"
+                "file": "Horizon User Guide/05 Sales Order/Sales Order.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/03 Customers/Create a New Customer Record.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/03 Customers/Create a New Customer Record.md",
     "Horizon User Guide/05 Sales Order/Sales Order.md",
     "Horizon User Guide/Old documentation/04 Products/B. All Products/Add a Product.md",
     "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
