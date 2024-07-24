@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md"
+                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md"
               }
             }
           }
@@ -146,33 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3451ada06c617c6",
+  "active": "22b6989c1ca2ac75",
   "lastOpenFiles": [
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
     "Horizon User Guide/05 Sales Order/Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
+    "Horizon User Guide/00 Assets/05_sales_orders_generate_demand.png",
+    "items.md",
+    "Horizon User Guide/00 Assets/04_sales_orders_apply_taxes_discounts_conditions.png",
+    "Horizon User Guide/00 Assets/04_sales_orders_apply_taxes_discounts_conditions 1.png",
+    "[.md",
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/Old documentation/01 Getting Started/I. Launch Horizon File.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/03 Customers/Create a New Customer Record.md",
     "Horizon User Guide/Old documentation/04 Products/B. All Products/Add a Product.md",
     "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/01 Getting Started/VI. Delete Your Account.md",
-    "items.md",
     "^launch/horizon/file.md",
     "^launch/horizon",
     "^launch",
-    "[.md",
     "Horizon User Guide/03 Customers",
     "Horizon User Guide/01 Start Using Horizon",
     "Horizon User Guide/00 Assets/09_main_menu.png",
     "Horizon User Guide/00 Assets/08_finalize_and_print_sales_order.png",
     "Horizon User Guide/00 Assets/07_generate_invoice.png",
     "Horizon User Guide/00 Assets/06_confirm_sales_order.png",
-    "Horizon User Guide/00 Assets/05_sales_orders_generate_demand.png",
-    "Horizon User Guide/00 Assets/04_sales_orders_apply_taxes_discounts_conditions.png",
     "Horizon User Guide/00 Assets/03_sales_order_manage_line_items.png",
     "Horizon User Guide/00 Assets/02_sales_order_gear_icon.png",
     "Horizon User Guide/00 Assets/01_create_sales_orders.png",
     "Horizon User Guide/00 Assets",
-    "04_sales_orders_apply_taxes_discounts_conditions.png",
     "Horizon User Guide/Old documentation/05 Sales Orders/Unconfirm a Sales Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Confirm a Sales Order.md",
     "Horizon User Guide/Old documentation/01 Getting Started/IV. Start Using Horizon.md",
@@ -182,14 +189,7 @@
     "Horizon User Guide/Old documentation/01 Getting Started/V. Reset Your Password.md",
     "Horizon User Guide/Old documentation/01 Getting Started/II. Create a Horizon Account.md",
     "Horizon User Guide/Old documentation/01 Getting Started/III. Log In and Out of Horizon.md",
-    "Horizon User Guide/Old documentation/01 Getting Started/I. Launch Horizon File.md",
     "Horizon User Guide/01 Getting Started/IV. Start Using Horizon.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate Order Item.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
-    "Horizon User Guide/05 Sales Order/Sales Orders.md",
-    "Horizon User Guide/05 Sales Order/SALES ORDERS.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/04 Products",
     "Horizon User Guide/02 Parties",
     "Horizon User Guide/05 Sales Order",
