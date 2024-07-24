@@ -29,9 +29,9 @@ These steps will launch the Horizon file in FileMaker Pro.
 
 With your Horizon account, you can access all Horizon files, including Parties, Products, Sales Orders, Invoices, Bill of Materials, and Leads. You can create sales orders, generate demand, generate invoices, create Bills of Materials, and more.
 
-[Create Your Own Horizon Account](#create/your/own/horizon/account)
+[Create Your Own Horizon Account](#create-your-own-horizon-account)
 
-[Create an Account for Another User in Horizon](#create/an/account/for/another/user/in/horizon)
+[Create an Account for Another User in Horizon](#create-an-account-for-another-user-in-horizon)
 
 ### Create Your Own Horizon Account
 
