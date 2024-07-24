@@ -1,5 +1,4 @@
 # Getting Started
-___
 
 [Launch Horizon File](#launch/horizon/file)
 
@@ -11,7 +10,7 @@ ___
 
 [Delete Your Account](#delete/your/account)
 ## Launch Horizon File
-____
+
 1. **Open FileMaker Pro**: Start the FileMaker Pro application.
 2. **Access Hosts Menu**:
     - **Mac**: Go to the top menu bar, select **File**, then **Hosts**.
@@ -20,7 +19,7 @@ ____
 
 These steps will launch the Horizon file in FileMaker Pro.
 ## Create a Horizon Account
-___
+
 With your Horizon account, you can access all Horizon files, including Parties, Products, Sales Orders, Invoices, Bill of Materials, and Leads. You can create sales orders, generate demand, generate invoices, create Bills of Materials, and more.
 
 [Create Your Own Horizon Account](#create/your/own/horizon/account)
@@ -81,7 +80,7 @@ ___
 
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
-___
+
 [Log into Your Horizon Account](#log/into/your/horizon/account)
 
 [Log Out of Horizon](#log/out/of/horizon)
@@ -108,7 +107,7 @@ ___
 - Click **Main Menu** at the top left.
 - Then, click **Log Out** at the bottom of the main menu.
 ## Reset Your Password
-____
+
 **To reset your password if you're not logged in to Horizon:** 
 
 1. [Launch Horizon file.](I.%20Launch%20Horizon%20File.md)
@@ -156,8 +155,6 @@ ____
 9. Click **OK** upon receiving the successful **Password Reset** notification.
 ## Delete Your Account
 ---
-### Delete Your Account
-_______________________
 #### What happens if I permanently delete my Horizon account? 
 
 • You won't be able to reactivate your account. 
