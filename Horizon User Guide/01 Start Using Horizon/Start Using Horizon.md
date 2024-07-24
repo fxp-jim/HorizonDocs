@@ -1,4 +1,7 @@
-# Getting Started
+# Start Using Horizon
+
+Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#4/sales/orders) to ensure precise demand tracking and effective resource planning.
+
 
 [Launch Horizon File](#launch-horizon-file)
 
@@ -6,7 +9,6 @@
 
 [Log In and Out of Horizon](#log-in-and-out-of-horizon)
 
-[Start Using Horizon](#start-using-horizon)
 
 [Navigate the Main Menu](#navigate-the-main-menu)
 
@@ -111,11 +113,6 @@ ___
 #### From Other Pages:
 - Click **Main Menu** at the top left.
 - Then, click **Log Out** at the bottom of the main menu.
-
-## Start Using Horizon
-
-Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#4/sales/orders) to ensure precise demand tracking and effective resource planning.
-
 ## Navigate the Main Menu
 
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
