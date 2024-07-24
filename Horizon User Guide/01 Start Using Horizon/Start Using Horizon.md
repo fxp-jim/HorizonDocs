@@ -9,7 +9,6 @@ Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for a
 
 [Log In and Out of Horizon](#log-in-and-out-of-horizon)
 
-
 [Navigate the Main Menu](#navigate-the-main-menu)
 
 [Reset Your Password](#reset-your-password)
@@ -27,7 +26,7 @@ Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for a
 These steps will launch the Horizon file in FileMaker Pro.
 ## Create a Horizon Account
 
-With your Horizon account, you can access all Horizon files, including Parties, Products, Sales Orders, Invoices, Bill of Materials, and Leads. You can create sales orders, generate demand, generate invoices, create Bills of Materials, and more.
+With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](#sales-orders), [Invoices](#invoices), [Bill of Materials](#6-**Bill-of-Materials-(BOM)**-), and [Leads](#7-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
 
 [Create Your Own Horizon Account](#create-your-own-horizon-account)
 
@@ -55,7 +54,7 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 
 ### Create an Account for Another User in Horizon
 ___
-###### To create an account for another user if you're logged in to Horizon:
+##### To create an account for another user if you're logged in to Horizon:
 
 1. **Navigate to Employees:**
     
@@ -93,7 +92,7 @@ This process efficiently sets up a new user account in Horizon.
 [Log Out of Horizon](#log-out-of-horizon)
 ### Log into Your Horizon Account
 ___
-1. **[Launch Horizon file](I.%20Launch%20Horizon%20File.md).**
+1. **[Launch Horizon file](#launch-horizon-file).**
 2. **Open Login Page:**
     - Go to the Horizon login page.
 3. **Enter Credentials:**
@@ -105,7 +104,7 @@ ___
 4. **Log In:**
 - Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
 ##### Troubleshooting Login Issues
-- If you have trouble with your password, [reset your password](V.%20Reset%20Your%20Password.md).
+- If you have trouble with your password, [reset your password](#reset-your-password).
 ### Log Out of Horizon
 ___
 #### From the Main Menu:
@@ -118,6 +117,7 @@ ___
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/09_main_menu.png" width="400" height="300">
+
 ### 1 **All Parties**
 Use this menu to navigate through customer, vendor, and employee records, and more.
 
@@ -125,7 +125,7 @@ Use this menu to navigate through customer, vendor, and employee records, and mo
 Use this menu to manage payment transaction records.
 
 ### 3 **Products**
-Use this menu to manage all [items](#items) in the system, including [products](^products), services, configurators, and equipment.
+Use this menu to manage all [items](#items) in the system, including [products](#products), [services](#services), [configurators](#configurators), and [equipment](#equipment).
 
 ---
 #### Items
@@ -180,7 +180,7 @@ Select this option to reset data and display the installed plug-ins when the app
 
 **To reset your password if you're not logged in to Horizon:** 
 
-1. [Launch Horizon file.](I.%20Launch%20Horizon%20File.md)
+1. [Launch Horizon file.](#launch-horizon-file)
 
 2. Enter your **account name** (email) on the Horizon login page.
 
@@ -236,7 +236,7 @@ Select this option to reset data and display the installed plug-ins when the app
 
 To permanently delete your account:
 
-1. [Log into your account.](III.%20Log%20In%20and%20Out%20of%20Horizon.md)
+1. [Log into your account.](#log-into-your-account)
 
 2. Go to **All Parties** on the main menu.
 
