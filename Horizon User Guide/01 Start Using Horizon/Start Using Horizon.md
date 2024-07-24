@@ -35,7 +35,7 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 
 ### Create Your Own Horizon Account
 
-1. **Open Horizon**: [Follow the steps to launch the Horizon file](I.%20Launch%20Horizon%20File.md).
+1. **Open Horizon**: [Follow the steps to launch the Horizon file](#launch-horizon-file).
 2. **Add Account**: Click **Add Account** on the login page.
 3. **Enter Email**:
     - Type your email username and select your domain.
