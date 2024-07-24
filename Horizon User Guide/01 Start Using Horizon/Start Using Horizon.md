@@ -236,7 +236,7 @@ Select this option to reset data and display the installed plug-ins when the app
 
 To permanently delete your account:
 
-1. [Log into your account.](#log-into-your-account)
+1. [Log into your account.](#log-into-your-horizon-account)
 
 2. Go to **All Parties** on the main menu.
 
