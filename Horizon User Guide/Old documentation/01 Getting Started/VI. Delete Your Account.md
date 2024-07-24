@@ -20,6 +20,4 @@ To permanently delete your account:
 4. Locate and click on the Employee record of the person whose account you want to delete. You can find it by searching their name in **Find Mode** or scrolling through the list in Browse Mode.
 
 5. Click **Delete Account** to remove the employee's account from all Horizon files.
-
-
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/5_delete_account.png" width="400" height="300">
