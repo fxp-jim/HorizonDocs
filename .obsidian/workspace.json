@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md"
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/05 Sales Order/Sales Estimate.md",
     "Horizon User Guide/05 Sales Order/Sales Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
-    "Horizon User Guide/05 Sales Order/Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
@@ -162,7 +163,6 @@
     "Horizon User Guide/00 Assets/04_sales_orders_apply_taxes_discounts_conditions.png",
     "Horizon User Guide/00 Assets/04_sales_orders_apply_taxes_discounts_conditions 1.png",
     "[.md",
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/01 Getting Started/I. Launch Horizon File.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/03 Customers/Create a New Customer Record.md",
