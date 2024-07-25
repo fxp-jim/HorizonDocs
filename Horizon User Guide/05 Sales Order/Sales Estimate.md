@@ -45,9 +45,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 	💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
 ### Confirm and Print the Sales Estimate
 
-13. Confirm the Estimate:
-
-	* Click **confirm** and wait for the status to show **confirmed**.
+13. **Confirm the Estimate:** Click **confirm** and wait for the status to show **confirmed**.
 
 	⚠️ Note: Once confirmed, the system generates a sales order automatically. You cannot change customer tier, sales channel, or payment terms, nor delete line items or undo confirmation.
 
