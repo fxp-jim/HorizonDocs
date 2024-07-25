@@ -18,3 +18,5 @@ This table of contents provides a structured overview of the Horizon user guide,
 ## Sales Orders
 
 [Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Sales%20Order/Sales%20Order.md)
+
+[Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Sales%20Order/Sales%20Estimate.md)
