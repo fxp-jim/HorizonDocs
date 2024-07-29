@@ -11,6 +11,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 		⚠️ **Note**: **Estimate Date** is automatically generated.
 6. **Select Estimate Status**: Choose from Draft, Sent, Accepted, Rejected, or Confirmed.
 7. **Add Opportunity for Customer**: Click the expand button (>) for  related opportunity details.
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/10_create_sales_estimate.png" width="350" height="300">
 
 ### Add Items to the Estimate
@@ -45,6 +46,8 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 - Use the hamburger button (☰) next to each field in the sales estimate to adjust or select sales channel, customer tier, or payment terms.
 
 	💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/11_manage_line_items_sales_estimate.png" width="350" height="300">
 ### Confirm and Print the Sales Estimate
 
 13. **Confirm the Estimate:** Click **confirm** and wait for the status to show **confirmed**.
