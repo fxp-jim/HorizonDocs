@@ -10,7 +10,9 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 5. **Enter Valid Date**: Specify the sales estimate validity.
 		⚠️ **Note**: **Estimate Date** is automatically generated.
 6. **Select Estimate Status**: Choose from Draft, Sent, Accepted, Rejected, or Confirmed.
-7. **Add Opportunity for Customer**: Specify related opportunity details.
+7. **Add Opportunity for Customer**: Click the expand button (>) for  related opportunity details.
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/10_create_sales_estimate.png" width="350" height="300">
+
 ### Add Items to the Estimate
 
 8. **Add items to the estimate:** 
