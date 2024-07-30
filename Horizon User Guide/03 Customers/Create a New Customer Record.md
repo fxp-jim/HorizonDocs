@@ -53,4 +53,12 @@ For **Check:**
 2. You have the option to [confirm your payment transaction](III.%20Confirm%20and%20Unconfirm%20a%20Payment%20Record.md).
 3. Click **Save and Close** to save changes. Otherwise, click **Cancel Payment.**
 
-That's it! You've created a new customer record. Contact our support team for any questions.
+## Confirm and Unconfirm a Payment Record
+
+4. Scroll down to **Add Payment** tab, click on the expand button (>) to view an existing payment record. A card window with payment details will appear.
+
+5. Confirm payment details, ensuring all fields are filled. Click **Confirmed** to proceed. <br>
+	⚠️ You cannot proceed with confirmation if the payment amount is negative. Confirmed payments are irreversible. To revert a confirmation, click **unconfirm** in the pop-up menu.
+
+6. Click **Save and Close** to keep changes, or **Cancel Payment** to undo them.
+
