@@ -14,11 +14,11 @@
 4. **Enter Customer Information**:
     
     - Provide the customer's name, email, phone, URLs, and address details.
-    - ⚠️ Include a two-digit country code in the mailing and/or billing address.
+		⚠️ Note: Include a two-digit country code in the mailing and/or billing address.
 5. **Choose Primary Contact Method**:
     
     - Select a preferred contact method by checking the box under **Primary**.
-    - ⚠️ A primary contact method must be selected to save the record.
+     ⚠️ Note: A primary contact method must be selected to save the record.
 6. **Save the Record**:
     
     - Click **Save** at the bottom right corner of the form.
@@ -34,41 +34,37 @@
 
 ### For ACH:
 
-1. **Select Account Type**:
+A. **Select Account Type**:
     
     - Choose between **Checking** and **Savings**.
-2. **Enter Payment Info**:
+B. **Enter Payment Info**:
     
     - Provide the routing number, account number, and an optional memo.
-3. **Process Payment**:
+    
+C. **Process Payment**:
     
     - Confirm your payment transaction if needed.
     - Click **Process ACH Payment**.
-4. **Save or Cancel**:
-    
-    - Click **Save and Close** to save changes or **Cancel Payment** to discard.
-
 ### For Card:
 
-1. **Enter Payment Info**:
+A. **Enter Payment Info**:
     
     - Provide card type, expiration date, card number, and an optional memo.
-2. **Process Payment**:
+B. **Process Payment**:
     
     - Confirm your payment transaction if needed.
     - Click **Process Payment**.
-3. **Save or Cancel**:
-    
-    - Click **Save and Close** to save changes or **Cancel Payment** to discard.
 
 ### For Check:
 
-1. **Enter Payment Info**:
+A. **Enter Payment Info**:
     
     - Provide the check number.
-2. **Process Payment**:
+B. **Process Payment**:
     
     - Confirm your payment transaction if needed.
+
+
 3. **Save or Cancel**:
     
     - Click **Save and Close** to save changes or **Cancel Payment** to discard.
