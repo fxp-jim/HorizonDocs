@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b6989c1ca2ac75",
+  "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/03 Customers/VIII. Delete a Customer Tier,  Sales Channel, and Payment Terms.md",
     "Horizon User Guide/Old documentation/03 Customers/VII. Delete a Payment Record.md",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Customer Record.md",
