@@ -1,5 +1,11 @@
+
 # Create and Manage Customer and Payment Records
 
+[Create a New Customer Record](#create-a-new-customer-record)
+[Create a Payment Record](#create-a-payment-record)
+[Add Payment Card](#add-payment-card)
+[Add Payment Plan](#add-payment-plan)
+[Merge Customer Records](#merge-customer-records)
 ## Create a New Customer Record
 
 1. **Access Customer Section**:

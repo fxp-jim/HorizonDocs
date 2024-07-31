@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md"
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Sales Order/Sales Order.md",
     "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+    "Horizon User Guide/05 Sales Order/Sales Order.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/Old documentation/03 Customers/VI. Merge Customer Records.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
