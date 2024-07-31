@@ -49,7 +49,6 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 **Enter Payment Info**: Provide the check number. <br>
 
-
 4. To confirm a payment record, click the expand button (>) to view the existing payment record. Click **Confirmed** to proceed.
 
 	⚠️ Note: Negative payment amounts cannot be confirmed. Confirmed payments are irreversible; to revert, click **Unconfirm**.
@@ -62,7 +61,7 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 	💡 **Tip:** To delete a payment record, click the (✖︎) icon next to the payment record you wish to remove. Confirm **Deletion** by clicking **Delete** in the dialogue box. Deleted records are permanent. To recreate, follow Create a Payment Record.
 
-## Add Payment Card
+
 
 1. Click on **Add Payment Card**.
 2. **Enter Payment Card Details**:
