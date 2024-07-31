@@ -68,4 +68,4 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 16. **Create a Contract**: Optionally, click **Create Contract** to generate a contract based on the confirmed sales estimate.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/12_confirm_printsales_estimate.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
