@@ -92,6 +92,8 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
     
     - Review the details and click **Save and Close** to finalize your payment plan.
 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/16_add_payment_plan.png" width="350" height="300">
+
 ## Merge Customer Records
 
 1. From the left panel, select the customer whose records you want to merge.
