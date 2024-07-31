@@ -2,8 +2,7 @@
 
 A **Sales Estimate** serves as a preliminary document used to outline potential sales details before converting them into a formal **Sales Order**. It helps forecast and plan future transactions based on customer requirements and estimated costs.
 
-#### [Create a Sales Estimate](#create-a-sales-estimate) 
-
+ [Create a Sales Estimate](#create-a-sales-estimate) <br>
 [Add Items to the Estimate](#add-items-to-the-estimate) <br>
 [Manage Line Items](#manage-line-items) <br>
 [Apply Taxes and Conditions](#apply-taxes-and-conditions) <br>
