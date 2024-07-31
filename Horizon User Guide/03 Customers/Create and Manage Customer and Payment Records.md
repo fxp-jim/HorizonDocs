@@ -11,7 +11,7 @@
 3. **Select Customer Type**:
     
     - Choose **Person** or **Organization** in the Type field.
-    
+
     <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_create_customer_record.png" width="350" height="300">
 
 4. **Enter Customer Information**:
