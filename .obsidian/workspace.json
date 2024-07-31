@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
+                "file": "Horizon User Guide/05 Sales Order/Sales Estimate.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/03 Customers/VI. Merge Customer Records.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/Old documentation/03 Customers/VI. Merge Customer Records.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
     "Horizon User Guide/Old documentation/03 Customers/IV. Add a Payment Card.md",
