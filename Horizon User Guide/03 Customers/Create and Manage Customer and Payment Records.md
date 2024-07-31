@@ -45,8 +45,8 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 
 4. To confirm a payment record, click the expand button (>) to view the existing payment record. Click **Confirmed** to proceed.
-    
-    ⚠️ Negative payment amounts cannot be confirmed. Confirmed payments are irreversible; to revert, click **Unconfirm**.
+
+	⚠️ Note: Negative payment amounts cannot be confirmed. Confirmed payments are irreversible; to revert, click **Unconfirm**.
 
 5.  Click **Process Payment**.
 
