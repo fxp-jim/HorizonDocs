@@ -10,9 +10,9 @@
     - Click **New Record** in the Customer section.
 3. **Select Customer Type**:
     
-    - Choose **Person** or **Organization** in the Type field.
+    - Choose **Person** or **Organization** in the Type field. <br>
 
-    <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/7_create_customer_record.png" width="350" height="300">
+    <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/13_create_a_new_customer_record.png" width="350" height="300">
 
 4. **Enter Customer Information**:
     
