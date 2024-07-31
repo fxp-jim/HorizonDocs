@@ -80,10 +80,7 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 	⚠️ Once saved, you cannot make changes to the payment card.
 
-1. Click **Add Payment Card**. <br>
-2. **Enter Payment Card Details**: Provide card type, card number, security code, expiration date (MM/YY), ZIP code, and the last four digits of the card number. <br>
-3. **Save Payment Card**: Review the details and click **Save and Close**. <br>
-    ⚠️ **Note:**  Changes to the payment card cannot be made after saving.
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/15_add_payment_card.png" width="350" height="300">
 
 ## Add Payment Plan
 
