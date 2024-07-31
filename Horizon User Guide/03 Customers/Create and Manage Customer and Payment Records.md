@@ -87,3 +87,9 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 3. **Save Payment Plan**:
     
     - Review the details and click **Save and Close** to finalize your payment plan.
+
+## Merge Customer Records
+
+1. From the left panel, select the customer whose records you want to merge.
+2. In the menu layout, navigate to **Scripts** in the menu layout and select **Merge Customer**.
+3. Choose the customer into which you want to merge the selected records from the list. The records of both customers will now be merged and combined.
