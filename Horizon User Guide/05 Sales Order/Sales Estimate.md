@@ -54,7 +54,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 	💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/11_manage_line_items_sales_estimate.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
 
 ### Confirm and Print the Sales Estimate
 
