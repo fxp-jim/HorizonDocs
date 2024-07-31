@@ -7,7 +7,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 [Add Items to the Estimate](#add-items-to-the-estimate) <br>
 [Manage Line Items](#manage-line-items) <br>
 [Apply Taxes and Conditions](#apply-taxes-and-conditions) <br>
-[Confirm and Print Sales Estimate](#confirm-and-print-sales-estimate) <br>
+[Confirm and Print the Sales Estimate](#confirm-and-print-the-sales-estimate) <br>
 ## Create a Sales Estimate
 
 1. **Open Sales Orders**: Access it from the main menu.
