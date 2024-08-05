@@ -1,6 +1,6 @@
 # Create a Party Record
 
-[Create a New Customer Record](#create-a-customer-record)
+[Create a New Customer Record](#create-a-new-customer-record)
 
 [Create a New Employee Record](#create-a-new-employee-record)
 
