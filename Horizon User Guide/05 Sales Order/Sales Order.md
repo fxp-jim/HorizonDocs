@@ -76,8 +76,7 @@ ___
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/05_sales_orders_generate_demand.png" width="350" height="300">
 
- 💡 Tip: To delete all demand records at once, select the "delete all" option. Confirm carefully, as this action is irreversible
-
+ 💡 Tip: To delete all demand records at once, select the "delete all" option. Confirm carefully, as this action is irreversible.
 
 15. **Generating Sales Invoice:**
 
