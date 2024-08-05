@@ -9,7 +9,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Parties
 
-## 03 Customers
+## Customers
 
 [Create and Manage Customer and Payment Records](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md)
 
