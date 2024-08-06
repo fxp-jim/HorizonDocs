@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
+                "file": "Horizon User Guide/05 Sales Order/Address Demand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65ae5a8be09de2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md"
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md"
               }
             }
           }
@@ -159,16 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41a211d63f3c609f",
+  "active": "65ae5a8be09de2be",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/02 All Parties/Create a Party Record.md",
+    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Vendor Record.md",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Employee Record.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/02 All Parties",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Customer Record.md",
-    "Address Demand.md",
+    "Horizon User Guide/05 Sales Order/Address Demand.md",
     "Horizon User Guide/05 Sales Order/Sales Order.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
@@ -197,7 +209,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
     "Horizon User Guide/00 Assets/05_sales_orders_generate_demand.png",
-    "Horizon User Guide/00 Assets/04_sales_orders_apply_taxes_discounts_conditions.png",
     "^launch/horizon",
     "^launch",
     "Horizon User Guide/03 Customers",

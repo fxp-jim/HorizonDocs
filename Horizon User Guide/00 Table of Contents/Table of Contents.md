@@ -9,6 +9,8 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Parties
 
+[Create a Party Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/02%20All%20Parties/Create%20a%20Party%20Record.md)
+
 ## Customers
 
 [Create and Manage Customer and Payment Records](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md)
